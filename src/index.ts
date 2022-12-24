@@ -1,4 +1,4 @@
-import { getResult, Raffle, Result, writeRaffle } from "./helpers";
+import { getResult, Raffle, recovery, Result, writeRaffle } from "./helpers";
 import megasena from '../data/megasena.json';
 
 async function main() {

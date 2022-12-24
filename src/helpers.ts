@@ -5,7 +5,7 @@ import { Agent } from 'http';
 
 const API = 'http://servicebus2.caixa.gov.br/portaldeloterias/api';
 
-export type Raffle = { [key in number]: number[] };
+export type Raffle = { [key in number]: Array<number | string> };
 export type Result = Raffle | null;
 export type Lottery = 'megasena' | 'lotofacil' | 'quina' | 'duplasena' | 'lotomania';
 
@@ -42,5 +42,20 @@ export async function getResult(lottery : Lottery, number ?: number) : Promise<R
         return null;
 
     }
+
+}
+
+export function recovery(lottery: Lottery, data : Array<Array<number | string>>) {
+
+    let raffle : Raffle = {};
+
+    data.forEach((v, k) => {
+        raffle = {
+            ...raffle,
+            [k + 1]: v
+        }
+    });
+
+    writeRaffle(lottery, raffle);
 
 }

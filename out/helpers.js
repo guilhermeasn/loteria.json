@@ -12,7 +12,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.getResult = exports.writeRaffle = void 0;
+exports.recovery = exports.getResult = exports.writeRaffle = void 0;
 const axios_1 = __importDefault(require("axios"));
 const fs_1 = require("fs");
 const path_1 = require("path");
@@ -42,3 +42,11 @@ function getResult(lottery, number) {
     });
 }
 exports.getResult = getResult;
+function recovery(lottery, data) {
+    let raffle = {};
+    data.forEach((v, k) => {
+        raffle = Object.assign(Object.assign({}, raffle), { [k + 1]: v });
+    });
+    writeRaffle(lottery, raffle);
+}
+exports.recovery = recovery;

@@ -16,7 +16,6 @@ exports.recovery = exports.getResult = exports.writeRaffle = void 0;
 const axios_1 = __importDefault(require("axios"));
 const fs_1 = require("fs");
 const path_1 = require("path");
-const http_1 = require("http");
 const API = 'http://servicebus2.caixa.gov.br/portaldeloterias/api';
 function updateRaffle(lottery) {
     return __awaiter(this, void 0, void 0, function* () {
@@ -42,16 +41,10 @@ function writeRaffle(lottery, raffle) {
 }
 exports.writeRaffle = writeRaffle;
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
-function sleep(ms) {
-    return new Promise(resolve => setTimeout(resolve, ms));
-}
 function getResult(lottery, number) {
     return __awaiter(this, void 0, void 0, function* () {
-        yield sleep(5000);
         try {
-            const http = yield axios_1.default.get(`${API}/${lottery}/${(number === null || number === void 0 ? void 0 : number.toString()) || ''}`, {
-                httpAgent: new http_1.Agent({ keepAlive: true })
-            });
+            const http = yield axios_1.default.get(`${API}/${lottery}/${(number === null || number === void 0 ? void 0 : number.toString()) || ''}`);
             let result = [];
             switch (lottery) {
                 case 'timemania':

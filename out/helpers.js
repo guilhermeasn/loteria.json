@@ -17,17 +17,18 @@ const axios_1 = __importDefault(require("axios"));
 const fs_1 = require("fs");
 const path_1 = require("path");
 const API = 'http://servicebus2.caixa.gov.br/portaldeloterias/api';
-function updateRaffle(lottery) {
+function updateRaffle(lottery, count = 0) {
     return __awaiter(this, void 0, void 0, function* () {
         const data = require(`../data/${lottery}.json`) || {};
         let raffle = data;
         let result = null;
-        let count = 0;
         while (true)
             if (!(++count in data)) {
                 result = yield getResult(lottery, count);
-                if (!result)
+                if (!result) {
+                    console.warn(`The search for result of lottery ${lottery.toUpperCase()} ended in raffle ${count - 1}`);
                     break;
+                }
                 raffle = Object.assign(Object.assign({}, raffle), result);
                 writeRaffle(lottery, raffle);
                 console.log(`Added in '${lottery}': ${JSON.stringify(result)}`);
@@ -55,7 +56,10 @@ function getResult(lottery, number) {
                     ];
                     break;
                 case 'loteca':
-                    result = http.data.listaResultadoEquipeEsportiva.map((obj) => `${obj.nomeEquipeUm}:${obj.nuGolEquipeUm}-${obj.nomeEquipeDois}:${obj.nuGolEquipeDois}`);
+                    result = http.data.listaResultadoEquipeEsportiva.map((obj) => `
+                    ${obj.nomeEquipeUm}:${obj.nuGolEquipeUm}-
+                    ${obj.nomeEquipeDois}:${obj.nuGolEquipeDois}
+                `);
                     break;
                 default:
                     result = http.data.dezenasSorteadasOrdemSorteio;
@@ -64,7 +68,6 @@ function getResult(lottery, number) {
             return { [http.data.numero]: result };
         }
         catch (error) {
-            console.error(error);
             return null;
         }
     });

@@ -4,7 +4,8 @@ import { join } from 'path';
 
 const API = 'http://servicebus2.caixa.gov.br/portaldeloterias/api';
 
-export type Raffle = { [key in number]: Array<number | string> };
+export type Format = Array<number | string>;
+export type Raffle = { [key in number]: Format };
 export type Result = Raffle | null;
 
 export type Lottery = (
@@ -31,7 +32,11 @@ export default async function updateRaffle(lottery : Lottery, count : number = 0
     while(true) if(!(++count in data)) {
 
         result = await getResult(lottery, count);
-        if(!result) break;
+
+        if(!result) {
+            console.warn(`The search for result of lottery ${ lottery.toUpperCase() } ended in raffle ${ count - 1 }`);
+            break;
+        }
         
         raffle = { ...raffle, ...result };
         writeRaffle(lottery, raffle);
@@ -71,7 +76,10 @@ export async function getResult(lottery : Lottery, number ?: number) : Promise<R
                 break;
 
             case 'loteca':
-                result = http.data.listaResultadoEquipeEsportiva.map((obj : any) => `${ obj.nomeEquipeUm }:${ obj.nuGolEquipeUm }-${ obj.nomeEquipeDois }:${ obj.nuGolEquipeDois }`)
+                result = http.data.listaResultadoEquipeEsportiva.map((obj : any) => `
+                    ${ obj.nomeEquipeUm }:${ obj.nuGolEquipeUm }-
+                    ${ obj.nomeEquipeDois }:${ obj.nuGolEquipeDois }
+                `)
                 break;
 
             default:
@@ -84,14 +92,13 @@ export async function getResult(lottery : Lottery, number ?: number) : Promise<R
 
     } catch(error) {
 
-        console.error(error);
         return null;
 
     }
 
 }
 
-export function recovery(lottery: Lottery, data : Array<Array<number | string>>) {
+export function recovery(lottery: Lottery, data : Format[]) {
 
     let raffle : Raffle = {};
 

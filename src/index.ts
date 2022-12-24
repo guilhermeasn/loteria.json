@@ -1,5 +1,10 @@
 import updateRaffle from "./helpers";
 
+/* RECOVERY */
+// import { recovery } from './helpers';
+// import { timemania_1_1876 } from '../recovery/lotteryRecovery.json';
+// recovery('timemania', timemania_1_1876);
+
 async function main() {
     await updateRaffle('maismilionaria');
     await updateRaffle('megasena');

@@ -51,13 +51,6 @@ export async function getResult(lottery : Lottery, number ?: number) : Promise<R
 
         switch(lottery) {
 
-            case 'maismilionaria':
-                result = [
-                    ...http.data.dezenasSorteadasOrdemSorteio,
-                    ...http.data.trevosSorteados
-                ];
-                break;
-
             case 'timemania':
             case 'diadesorte':
                 result = [

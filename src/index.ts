@@ -1,24 +1,25 @@
-import { getResult, Raffle, recovery, Result, writeRaffle } from "./helpers";
-import megasena from '../data/megasena.json';
+import { getResult, Lottery, Raffle, recovery, Result, writeRaffle } from "./helpers";
 
-async function main() {
+async function main(lottery : Lottery) {
 
-    let raffle : Raffle = megasena as unknown as Raffle;
+    const data = require(`../data/${ lottery }.json`) || {};
+
+    let raffle : Raffle = data;
     let result : Result = null;
     let count  : number = 0;
 
-    while(true) if(!(++count in megasena)) {
+    while(true) if(!(++count in data)) {
 
-        result = await getResult('megasena', count);
+        result = await getResult(lottery, count);
         if(!result) break;
-
-        console.log('Added raffle: ' + JSON.stringify(result));
         
         raffle = { ...raffle, ...result };
-        writeRaffle('megasena', raffle);
+        writeRaffle(lottery, raffle);
+
+        console.log(`Added in '${ lottery }': ${ JSON.stringify(result) }`);
 
     };
 
 }
 
-main();
+main('maismilionaria');

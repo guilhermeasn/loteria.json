@@ -28,12 +28,28 @@ function sleep(ms) {
 }
 function getResult(lottery, number) {
     return __awaiter(this, void 0, void 0, function* () {
-        yield sleep(3000);
+        yield sleep(5000);
         try {
             const http = yield axios_1.default.get(`${API}/${lottery}/${(number === null || number === void 0 ? void 0 : number.toString()) || ''}`, {
                 httpAgent: new http_1.Agent({ keepAlive: true })
             });
-            return { [http.data.numero]: http.data.dezenasSorteadasOrdemSorteio };
+            let result = [];
+            switch (lottery) {
+                case 'timemania':
+                case 'diadesorte':
+                    result = [
+                        ...http.data.dezenasSorteadasOrdemSorteio,
+                        http.data.nomeTimeCoracaoMesSorte
+                    ];
+                    break;
+                case 'loteca':
+                    result = http.data.listaResultadoEquipeEsportiva.map((obj) => `${obj.nomeEquipeUm}:${obj.nuGolEquipeUm}-${obj.nomeEquipeDois}:${obj.nuGolEquipeDois}`);
+                    break;
+                default:
+                    result = http.data.dezenasSorteadasOrdemSorteio;
+                    break;
+            }
+            return { [http.data.numero]: result };
         }
         catch (error) {
             console.error(error);

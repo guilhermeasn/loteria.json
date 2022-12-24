@@ -8,27 +8,24 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
-var __importDefault = (this && this.__importDefault) || function (mod) {
-    return (mod && mod.__esModule) ? mod : { "default": mod };
-};
 Object.defineProperty(exports, "__esModule", { value: true });
 const helpers_1 = require("./helpers");
-const megasena_json_1 = __importDefault(require("../data/megasena.json"));
-function main() {
+function main(lottery) {
     return __awaiter(this, void 0, void 0, function* () {
-        let raffle = megasena_json_1.default;
+        const data = require(`../data/${lottery}.json`) || {};
+        let raffle = data;
         let result = null;
         let count = 0;
         while (true)
-            if (!(++count in megasena_json_1.default)) {
-                result = yield (0, helpers_1.getResult)('megasena', count);
+            if (!(++count in data)) {
+                result = yield (0, helpers_1.getResult)(lottery, count);
                 if (!result)
                     break;
-                console.log('Added raffle: ' + JSON.stringify(result));
                 raffle = Object.assign(Object.assign({}, raffle), result);
-                (0, helpers_1.writeRaffle)('megasena', raffle);
+                (0, helpers_1.writeRaffle)(lottery, raffle);
+                console.log(`Added in '${lottery}': ${JSON.stringify(result)}`);
             }
         ;
     });
 }
-main();
+main('maismilionaria');

@@ -7,7 +7,20 @@ const API = 'http://servicebus2.caixa.gov.br/portaldeloterias/api';
 
 export type Raffle = { [key in number]: Array<number | string> };
 export type Result = Raffle | null;
-export type Lottery = 'megasena' | 'lotofacil' | 'quina' | 'duplasena' | 'lotomania';
+
+export type Lottery = (
+    'maismilionaria' |
+    'megasena' |
+    'lotofacil' |
+    'quina' |
+    'lotomania' |
+    'timemania' |
+    'duplasena' |
+    'federal' |
+    'loteca' |
+    'diadesorte' |
+    'supersete'
+);
 
 export function writeRaffle(lottery : Lottery, raffle : Raffle) {
 
@@ -26,7 +39,7 @@ function sleep(ms : number) {
 
 export async function getResult(lottery : Lottery, number ?: number) : Promise<Result> {
 
-    await sleep(3000);
+    await sleep(5000);
 
     try {
 
@@ -34,7 +47,36 @@ export async function getResult(lottery : Lottery, number ?: number) : Promise<R
             httpAgent: new Agent({ keepAlive: true })
         });
 
-        return { [http.data.numero]: http.data.dezenasSorteadasOrdemSorteio }
+        let result : Array<string | number> = [];
+
+        switch(lottery) {
+
+            case 'maismilionaria':
+                result = [
+                    ...http.data.dezenasSorteadasOrdemSorteio,
+                    ...http.data.trevosSorteados
+                ];
+                break;
+
+            case 'timemania':
+            case 'diadesorte':
+                result = [
+                    ...http.data.dezenasSorteadasOrdemSorteio,
+                    http.data.nomeTimeCoracaoMesSorte
+                ];
+                break;
+
+            case 'loteca':
+                result = http.data.listaResultadoEquipeEsportiva.map((obj : any) => `${ obj.nomeEquipeUm }:${ obj.nuGolEquipeUm }-${ obj.nomeEquipeDois }:${ obj.nuGolEquipeDois }`)
+                break;
+
+            default:
+                result = http.data.dezenasSorteadasOrdemSorteio;
+                break;
+
+        }
+
+        return { [http.data.numero]: result }
 
     } catch(error) {
 

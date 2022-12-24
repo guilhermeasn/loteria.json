@@ -1,25 +1,17 @@
-import { getResult, Lottery, Raffle, recovery, Result, writeRaffle } from "./helpers";
+import updateRaffle from "./helpers";
 
-async function main(lottery : Lottery) {
-
-    const data = require(`../data/${ lottery }.json`) || {};
-
-    let raffle : Raffle = data;
-    let result : Result = null;
-    let count  : number = 0;
-
-    while(true) if(!(++count in data)) {
-
-        result = await getResult(lottery, count);
-        if(!result) break;
-        
-        raffle = { ...raffle, ...result };
-        writeRaffle(lottery, raffle);
-
-        console.log(`Added in '${ lottery }': ${ JSON.stringify(result) }`);
-
-    };
-
+async function main() {
+    await updateRaffle('maismilionaria');
+    await updateRaffle('megasena');
+    await updateRaffle('lotofacil');
+    await updateRaffle('quina');
+    await updateRaffle('lotomania');
+    await updateRaffle('timemania');
+    await updateRaffle('duplasena');
+    await updateRaffle('federal');
+    await updateRaffle('loteca');
+    await updateRaffle('diadesorte');
+    await updateRaffle('supersete');
 }
 
-main('maismilionaria');
+main();

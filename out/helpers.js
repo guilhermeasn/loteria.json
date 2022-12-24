@@ -18,6 +18,25 @@ const fs_1 = require("fs");
 const path_1 = require("path");
 const http_1 = require("http");
 const API = 'http://servicebus2.caixa.gov.br/portaldeloterias/api';
+function updateRaffle(lottery) {
+    return __awaiter(this, void 0, void 0, function* () {
+        const data = require(`../data/${lottery}.json`) || {};
+        let raffle = data;
+        let result = null;
+        let count = 0;
+        while (true)
+            if (!(++count in data)) {
+                result = yield getResult(lottery, count);
+                if (!result)
+                    break;
+                raffle = Object.assign(Object.assign({}, raffle), result);
+                writeRaffle(lottery, raffle);
+                console.log(`Added in '${lottery}': ${JSON.stringify(result)}`);
+            }
+        ;
+    });
+}
+exports.default = updateRaffle;
 function writeRaffle(lottery, raffle) {
     (0, fs_1.writeFileSync)((0, path_1.join)('data', lottery + '.json'), JSON.stringify(raffle));
 }

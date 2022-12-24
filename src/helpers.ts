@@ -10,17 +10,39 @@ export type Result = Raffle | null;
 
 export type Lottery = (
     'maismilionaria' |
-    'megasena' |
-    'lotofacil' |
-    'quina' |
-    'lotomania' |
-    'timemania' |
-    'duplasena' |
-    'federal' |
-    'loteca' |
-    'diadesorte' |
+    'megasena'       |
+    'lotofacil'      |
+    'quina'          |
+    'lotomania'      |
+    'timemania'      |
+    'duplasena'      |
+    'federal'        |
+    'loteca'         |
+    'diadesorte'     |
     'supersete'
 );
+
+export default async function updateRaffle(lottery : Lottery) {
+
+    const data = require(`../data/${ lottery }.json`) || {};
+
+    let raffle : Raffle = data;
+    let result : Result = null;
+    let count  : number = 0;
+
+    while(true) if(!(++count in data)) {
+
+        result = await getResult(lottery, count);
+        if(!result) break;
+        
+        raffle = { ...raffle, ...result };
+        writeRaffle(lottery, raffle);
+
+        console.log(`Added in '${ lottery }': ${ JSON.stringify(result) }`);
+
+    };
+
+}
 
 export function writeRaffle(lottery : Lottery, raffle : Raffle) {
 

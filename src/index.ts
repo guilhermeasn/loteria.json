@@ -3,7 +3,7 @@ import megasena from '../data/megasena.json';
 
 async function main() {
 
-    let raffle : Raffle = {};
+    let raffle : Raffle = megasena as unknown as Raffle;
     let result : Result = null;
     let count  : number = 0;
 
@@ -12,16 +12,12 @@ async function main() {
         result = await getResult('megasena', count);
         if(!result) break;
 
-        console.log('Added raffle: ' + Object.entries(result)[0]);
-
-        raffle = {
-            ...raffle,
-            ...(result ?? {})
-        };
+        console.log('Added raffle: ' + JSON.stringify(result));
+        
+        raffle = { ...raffle, ...result };
+        writeRaffle('megasena', raffle);
 
     };
-
-    writeRaffle('megasena', { ...megasena, ...raffle } as unknown as Raffle);
 
 }
 

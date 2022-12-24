@@ -9,9 +9,9 @@ async function main() {
     await updateRaffle('timemania');
     await updateRaffle('duplasena');
     await updateRaffle('federal');
-    await updateRaffle('loteca');
     await updateRaffle('diadesorte');
     await updateRaffle('supersete');
+    await updateRaffle('loteca', 99);
 }
 
 main();

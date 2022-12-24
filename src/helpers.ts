@@ -21,13 +21,12 @@ export type Lottery = (
     'supersete'
 );
 
-export default async function updateRaffle(lottery : Lottery) {
+export default async function updateRaffle(lottery : Lottery, count : number = 0) {
 
     const data = require(`../data/${ lottery }.json`) || {};
 
     let raffle : Raffle = data;
     let result : Result = null;
-    let count  : number = 0;
 
     while(true) if(!(++count in data)) {
 

@@ -13,10 +13,6 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const helpers_1 = __importDefault(require("./helpers"));
-/* RECOVERY */
-// import { recovery } from './helpers';
-// import { timemania_1_1876 } from '../recovery/lotteryRecovery.json';
-// recovery('timemania', timemania_1_1876);
 function main() {
     return __awaiter(this, void 0, void 0, function* () {
         yield (0, helpers_1.default)('maismilionaria');

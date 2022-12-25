@@ -2,11 +2,13 @@
 
 [![Fetch Data](https://github.com/guilhermeasn/loteria.json/actions/workflows/fetchdata.yml/badge.svg)](https://github.com/guilhermeasn/loteria.json/actions/workflows/fetchdata.yml)
 
-Todos os resultados atualizados das loterias da Caixa Econômica Federal em arquivos JSON. A atualização dos arquivos são feitas automaticamente, todos os dias, via Cron Job com GitHub Actions.
+Todos os resultados atualizados das loterias da Caixa Econômica Federal em arquivos JSON. A atualização dos arquivos são feitas automaticamente, todos os dias, com Cron Job via GitHub Actions.
 
 ## Formato
 
 Os arquivos da pasta *data* contém um *object* no seguinte formato: suas **chaves** são formadas pelos **números dos sorteios** e os **valores** contém um **array com as dezenas sorteadas por ordem de sorteio**.
+
+Typescript:
 
 ```
 { [key in number]: Array<number | string> }

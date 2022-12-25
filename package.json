@@ -2,7 +2,7 @@
   "name": "loteria.json",
   "version": "1.0.0",
   "description": "",
-  "main": "out/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
     "start": "node .",

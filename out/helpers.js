@@ -17,16 +17,20 @@ const axios_1 = __importDefault(require("axios"));
 const fs_1 = require("fs");
 const path_1 = require("path");
 const API = 'http://servicebus2.caixa.gov.br/portaldeloterias/api';
-function updateRaffle(lottery, count = 0) {
+function updateRaffle(lottery, count = 0, data = (require(`../data/${lottery}.json`) || {})) {
+    var _a, _b;
     return __awaiter(this, void 0, void 0, function* () {
-        const data = require(`../data/${lottery}.json`) || {};
         let raffle = data;
         let result = null;
         while (true)
             if (!(++count in data)) {
+                const last = (yield getResult(lottery));
                 result = yield getResult(lottery, count);
                 if (!result) {
-                    console.warn(`The search for result of lottery ${lottery.toUpperCase()} ended in raffle ${count - 1}`);
+                    if (last && parseInt((_b = (_a = Object.keys(last)) === null || _a === void 0 ? void 0 : _a[0]) !== null && _b !== void 0 ? _b : 0) > count)
+                        yield updateRaffle(lottery, count, raffle);
+                    else
+                        console.warn(`The search for result of lottery ${lottery.toUpperCase()} ended in raffle ${count - 1}`);
                     break;
                 }
                 raffle = Object.assign(Object.assign({}, raffle), result);
@@ -57,8 +61,8 @@ function getResult(lottery, number) {
                     break;
                 case 'loteca':
                     result = http.data.listaResultadoEquipeEsportiva.map((obj) => `
-                    ${obj.nomeEquipeUm}:${obj.nuGolEquipeUm}-
-                    ${obj.nomeEquipeDois}:${obj.nuGolEquipeDois}
+                    ${obj.nomeEquipeUm.replace(/\W/g, '')}:${obj.nuGolEquipeUm.replace(/\W/g, '')}-
+                    ${obj.nomeEquipeDois.replace(/\W/g, '')}:${obj.nuGolEquipeDois.replace(/\W/g, '')}
                 `);
                     break;
                 default:

@@ -22,19 +22,19 @@ export type Lottery = (
     'supersete'
 );
 
-export default async function updateRaffle(lottery : Lottery, count : number = 0) {
-
-    const data = require(`../data/${ lottery }.json`) || {};
+export default async function updateRaffle(lottery : Lottery, count : number = 0, data : Raffle = (require(`../data/${ lottery }.json`) || {})) {
 
     let raffle : Raffle = data;
     let result : Result = null;
 
     while(true) if(!(++count in data)) {
 
+        const last : Result = (await getResult(lottery));
         result = await getResult(lottery, count);
 
         if(!result) {
-            console.warn(`The search for result of lottery ${ lottery.toUpperCase() } ended in raffle ${ count - 1 }`);
+            if(last && parseInt(Object.keys(last)?.[0] ?? 0) > count) await updateRaffle(lottery, count, raffle);
+            else console.warn(`The search for result of lottery ${ lottery.toUpperCase() } ended in raffle ${ count - 1 }`);
             break;
         }
         
@@ -77,8 +77,8 @@ export async function getResult(lottery : Lottery, number ?: number) : Promise<R
 
             case 'loteca':
                 result = http.data.listaResultadoEquipeEsportiva.map((obj : any) => `
-                    ${ obj.nomeEquipeUm }:${ obj.nuGolEquipeUm }-
-                    ${ obj.nomeEquipeDois }:${ obj.nuGolEquipeDois }
+                    ${ obj.nomeEquipeUm.replace(/\W/g, '') }:${ obj.nuGolEquipeUm.replace(/\W/g, '') }-
+                    ${ obj.nomeEquipeDois.replace(/\W/g, '') }:${ obj.nuGolEquipeDois.replace(/\W/g, '') }
                 `)
                 break;
 

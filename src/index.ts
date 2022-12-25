@@ -16,7 +16,7 @@ async function main() {
     await updateRaffle('federal');
     await updateRaffle('diadesorte');
     await updateRaffle('supersete');
-    await updateRaffle('loteca', 99);
+    await updateRaffle('loteca');
 }
 
 main();

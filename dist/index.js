@@ -25,7 +25,7 @@ function main() {
         yield (0, helpers_1.default)('federal');
         yield (0, helpers_1.default)('diadesorte');
         yield (0, helpers_1.default)('supersete');
-        yield (0, helpers_1.default)('loteca', 99);
+        yield (0, helpers_1.default)('loteca');
     });
 }
 main();

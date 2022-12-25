@@ -10,6 +10,7 @@ on:
 
 jobs:
   fetch-data:
+  
     runs-on: ubuntu-latest
 
     steps:
@@ -28,3 +29,11 @@ jobs:
 
       - name: Run Script
         run: yarn start
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: '.'
+          author_name: Guilherme Neves
+          author_email: guilhermeasn@yahoo.com.br
+          message: 'fetch data'

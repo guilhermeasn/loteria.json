@@ -63,32 +63,32 @@ export async function getResult(lottery : Lottery, number ?: number) : Promise<R
     try {
 
         const http = await axios.get(`${ API }/${ lottery }/${ number?.toString() || '' }`);
-        let result : Array<string | number> = [];
+        let data : Format = [];
 
         switch(lottery) {
 
             case 'timemania':
             case 'diadesorte':
-                result = [
+                data = [
                     ...http.data.dezenasSorteadasOrdemSorteio,
                     http.data.nomeTimeCoracaoMesSorte
                 ];
                 break;
 
             case 'loteca':
-                result = http.data.listaResultadoEquipeEsportiva.map((obj : any) => `
+                data = http.data.listaResultadoEquipeEsportiva.map((obj : any) => `
                     ${ obj.nomeEquipeUm.replace(/\W/g, '') }:${ obj.nuGolEquipeUm.replace(/\W/g, '') }-
                     ${ obj.nomeEquipeDois.replace(/\W/g, '') }:${ obj.nuGolEquipeDois.replace(/\W/g, '') }
                 `)
                 break;
 
             default:
-                result = http.data.dezenasSorteadasOrdemSorteio;
+                data = http.data.dezenasSorteadasOrdemSorteio;
                 break;
 
         }
 
-        return { [http.data.numero]: result }
+        return { [http.data.numero]: data }
 
     } catch(error) {
 

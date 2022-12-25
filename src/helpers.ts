@@ -1,8 +1,9 @@
 import axios from 'axios';
 import { writeFileSync } from 'fs';
 import { join } from 'path';
+import { Agent } from 'http';
 
-const API = 'http://servicebus2.caixa.gov.br/portaldeloterias/api';
+const API = 'https://servicebus2.caixa.gov.br/portaldeloterias/api';
 
 export type Format = Array<number | string>;
 export type Raffle = { [key in number]: Format };
@@ -22,14 +23,15 @@ export type Lottery = (
     'supersete'
 );
 
-export default async function updateRaffle(lottery : Lottery, count : number = 0, data : Raffle = (require(`../data/${ lottery }.json`) || {})) {
+export default async function updateRaffle(lottery : Lottery, count : number = 0, data ?: Raffle) {
 
-    let raffle : Raffle = data;
+    const last : Result = await getResult(lottery);
+
+    let raffle : Raffle = data || require(`../data/${ lottery }.json`) || {};
     let result : Result = null;
 
-    while(true) if(!(++count in data)) {
+    while(true) if(!(++count in raffle)) {
 
-        const last : Result = (await getResult(lottery));
         result = await getResult(lottery, count);
 
         if(!result) {
@@ -61,8 +63,12 @@ process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
 export async function getResult(lottery : Lottery, number ?: number) : Promise<Result> {
 
     try {
+        
+        const request = await axios.get(`${ API }/${ lottery }/${ number?.toString() || '' }`, {
+            httpAgent: new Agent({ keepAlive: true }),
+            headers: { Host: API.replace(/^(https?:\/\/)?([\w\.]+).*/, '$2') }
+        });
 
-        const http = await axios.get(`${ API }/${ lottery }/${ number?.toString() || '' }`);
         let data : Format = [];
 
         switch(lottery) {
@@ -70,25 +76,25 @@ export async function getResult(lottery : Lottery, number ?: number) : Promise<R
             case 'timemania':
             case 'diadesorte':
                 data = [
-                    ...http.data.dezenasSorteadasOrdemSorteio,
-                    http.data.nomeTimeCoracaoMesSorte
+                    ...request.data.dezenasSorteadasOrdemSorteio,
+                    request.data.nomeTimeCoracaoMesSorte
                 ];
                 break;
 
             case 'loteca':
-                data = http.data.listaResultadoEquipeEsportiva.map((obj : any) => `
+                data = request.data.listaResultadoEquipeEsportiva.map((obj : any) => `
                     ${ obj.nomeEquipeUm.replace(/\W/g, '') }:${ obj.nuGolEquipeUm.replace(/\W/g, '') }-
                     ${ obj.nomeEquipeDois.replace(/\W/g, '') }:${ obj.nuGolEquipeDois.replace(/\W/g, '') }
                 `)
                 break;
 
             default:
-                data = http.data.dezenasSorteadasOrdemSorteio;
+                data = request.data.dezenasSorteadasOrdemSorteio;
                 break;
 
         }
 
-        return { [http.data.numero]: data }
+        return { [request.data.numero]: data }
 
     } catch(error) {
 

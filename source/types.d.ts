@@ -19,9 +19,11 @@ export type Lottery = (
 export type Numerical = { [key in number] : number };
 
 export type Analytic = {
+    ones       : Numerical;
+    tens       : Numerical;
     sums       : Numerical;
     pairs      : Numerical;
     primes     : Numerical;
     quantity   : Numerical;
-    sequential : Raffle
+    sequential : Numerical;
 }

@@ -16,6 +16,7 @@ export type Lottery = (
     'supersete'
 );
 
+export type AnalysisGroup = { [key in Lottery] : Analytic };
 export type Numerical = { [key in number] : number };
 
 export type Analytic = {
@@ -25,5 +26,5 @@ export type Analytic = {
     pairs      : Numerical;
     primes     : Numerical;
     quantity   : Numerical;
-    sequential : Numerical;
+    sequential : Numerical[];
 }

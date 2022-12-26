@@ -1,3 +1,4 @@
+import analyze from "./analytic";
 import updateRaffle from "./fetchdata";
 
 /* RECOVERY */
@@ -7,23 +8,27 @@ import updateRaffle from "./fetchdata";
 
 async function main() {
 
-    await updateRaffle('maismilionaria');
-    await updateRaffle('megasena');
-    await updateRaffle('lotofacil');
-    await updateRaffle('quina');
-    await updateRaffle('lotomania');
-    await updateRaffle('timemania');
-    await updateRaffle('duplasena');
-    await updateRaffle('federal');
-    await updateRaffle('diadesorte');
-    await updateRaffle('supersete');
-    await updateRaffle('loteca');
+    // await updateRaffle('diadesorte');
+    // await updateRaffle('duplasena');
+    // await updateRaffle('federal');
+    // await updateRaffle('loteca');
+    // await updateRaffle('lotofacil');
+    // await updateRaffle('lotomania');
+    // await updateRaffle('maismilionaria');
+    // await updateRaffle('megasena');
+    // await updateRaffle('quina');
+    // await updateRaffle('supersete');
+    // await updateRaffle('timemania');
 
-    if(new Date().getUTCDay() === 0) {
-        console.log('analytic in sunday')
-    } else {
-        console.log('don\'t analytic');
-    }
+    analyze('diadesorte', [ 7 ]);
+    analyze('duplasena');
+    analyze('lotofacil');
+    analyze('lotomania');
+    analyze('maismilionaria', [ 6, 7 ]);
+    analyze('megasena');
+    analyze('quina');
+    analyze('supersete');
+    analyze('timemania', [ 7 ]);
     
 }
 

@@ -1,39 +1,40 @@
-name: Fetch Data
+# name: Fetch Data
 
-on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
-  schedule:
-    - cron: '0 1,23 * * *'
+# on:
+#   push:
+#     branches: [ master ]
+#   pull_request:
+#     branches: [ master ]
+#   schedule:
+#     - cron: '0 1 * * *'
+#     - cron: '0 23 * * *'
 
-jobs:
-  fetch-data:
+# jobs:
+#   fetch-data:
   
-    runs-on: ubuntu-latest
+#     runs-on: ubuntu-latest
 
-    steps:
+#     steps:
 
-      - name: Checkout
-        uses: actions/checkout@v3
+#       - name: Checkout
+#         uses: actions/checkout@v3
 
-      - name: Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18.7.0
-          cache: 'yarn'
+#       - name: Node.js
+#         uses: actions/setup-node@v3
+#         with:
+#           node-version: 18.7.0
+#           cache: 'yarn'
 
-      - name: Install Modules
-        run: yarn
+#       - name: Install Modules
+#         run: yarn
 
-      - name: Run Script
-        run: yarn start
+#       - name: Run Script
+#         run: yarn start
 
-      - name: Commit
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: '.'
-          author_name: Guilherme Neves
-          author_email: guilhermeasn@yahoo.com.br
-          message: 'fetch data'
+#       - name: Commit
+#         uses: EndBug/add-and-commit@v9
+#         with:
+#           add: '.'
+#           author_name: Guilherme Neves
+#           author_email: guilhermeasn@yahoo.com.br
+#           message: 'fetch data'

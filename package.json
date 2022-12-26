@@ -4,9 +4,10 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc --project tsconfig.build.json",
     "start": "node .",
     "dev": "ts-node src",
+    "bin:megasena": "ts-node bin/megasena.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

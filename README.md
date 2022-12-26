@@ -39,19 +39,19 @@ Algumas análises dos resultados são realizadas e salvas na pasta *data*, com e
  - A **chave *pairs***: informa a quantidade de sorteios de acordo com a quantidade de números **pares**.
  - A **chave *primes***: informa a quantidade de sorteios de acordo com a quantidade de números **primos**.
  - A **chave *quantity***: informa a quantidade de **vezes** que um número foi sorteado.
- - A **chave *sequential***: informa a quantidade de vezes que um número foi sorteado de acordo com a **sequência** de sorteio.
+ - A **chave *sequential***: informa a quantidade de vezes que um número foi sorteado de acordo com a **ordem** de sorteio.
 
 ### Formato
 
 ```
 {
-    ones       : { [key in number] : number };
-    tens       : { [key in number] : number };
-    sums       : { [key in number] : number };
-    pairs      : { [key in number] : number };
-    primes     : { [key in number] : number };
-    quantity   : { [key in number] : number };
-    sequential : Array<{ [key in number] : number }>;
+    ones       : { [key in string] : number };
+    tens       : { [key in string] : number };
+    sums       : { [key in string] : number };
+    pairs      : { [key in string] : number };
+    primes     : { [key in string] : number };
+    quantity   : { [key in string] : number };
+    sequential : Array<{ [key in string] : number }>;
 }
 ```
 

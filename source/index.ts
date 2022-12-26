@@ -1,11 +1,11 @@
-import updateRaffle from "./helpers";
+import updateRaffle from "./fetchdata";
 
 /* RECOVERY */
 // import { recovery } from './helpers';
 // import { timemania_1_1876 } from '../recovery/lotteryRecovery.json';
 // recovery('timemania', timemania_1_1876);
 
-async function main() {
+async function fetchdata() {
     await updateRaffle('maismilionaria');
     await updateRaffle('megasena');
     await updateRaffle('lotofacil');
@@ -19,4 +19,4 @@ async function main() {
     await updateRaffle('loteca');
 }
 
-main();
+fetchdata();

@@ -36,4 +36,4 @@ jobs:
           add: '.'
           author_name: Guilherme Neves
           author_email: guilhermeasn@yahoo.com.br
-          message: 'fetch data'
+          message: 'Continuous Integration'

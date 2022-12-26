@@ -5,7 +5,8 @@ import updateRaffle from "./fetchdata";
 // import { timemania_1_1876 } from '../recovery/lotteryRecovery.json';
 // recovery('timemania', timemania_1_1876);
 
-async function fetchdata() {
+async function main() {
+
     await updateRaffle('maismilionaria');
     await updateRaffle('megasena');
     await updateRaffle('lotofacil');
@@ -17,6 +18,13 @@ async function fetchdata() {
     await updateRaffle('diadesorte');
     await updateRaffle('supersete');
     await updateRaffle('loteca');
+
+    if(new Date().getUTCDay() === 0) {
+        console.log('analytic in sunday')
+    } else {
+        console.log('don\'t analytic');
+    }
+    
 }
 
-fetchdata();
+main();

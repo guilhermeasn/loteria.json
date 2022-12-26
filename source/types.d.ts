@@ -15,3 +15,13 @@ export type Lottery = (
     'diadesorte'     |
     'supersete'
 );
+
+export type Numerical = { [key in number] : number };
+
+export type Analytic = {
+    sums       : Numerical;
+    pairs      : Numerical;
+    primes     : Numerical;
+    quantity   : Numerical;
+    sequential : Raffle
+}

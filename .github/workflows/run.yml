@@ -1,4 +1,4 @@
-name: Fetch Data
+name: Run Script
 
 on:
   push:
@@ -6,11 +6,10 @@ on:
   pull_request:
     branches: [ master ]
   schedule:
-    - cron: '0 1 * * *'
-    - cron: '0 23 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
-  fetch-data:
+  run-script:
   
     runs-on: ubuntu-latest
 

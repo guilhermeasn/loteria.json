@@ -30,6 +30,10 @@ Obtenha os dados via GET nos seguintes *endpoints*:
  - **Dupla Sena**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/duplasena.json
  - **Timemania**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/timemania.json
 
+## Analítico
+
+Uma análise dos resultados é realizada e salvo no arquivo ...
+
 ## Autor
 
 * **Guilherme Neves** - [github](https://github.com/guilhermeasn/) - [website](https://gn.dev.br/)

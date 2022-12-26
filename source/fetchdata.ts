@@ -3,25 +3,14 @@ import { writeFileSync } from 'fs';
 import { join } from 'path';
 import { Agent } from 'http';
 
+import type {
+    Format,
+    Lottery,
+    Raffle,
+    Result
+} from './types';
+
 const API = 'https://servicebus2.caixa.gov.br/portaldeloterias/api';
-
-export type Format = Array<number | string>;
-export type Raffle = { [key in number]: Format };
-export type Result = Raffle | null;
-
-export type Lottery = (
-    'maismilionaria' |
-    'megasena'       |
-    'lotofacil'      |
-    'quina'          |
-    'lotomania'      |
-    'timemania'      |
-    'duplasena'      |
-    'federal'        |
-    'loteca'         |
-    'diadesorte'     |
-    'supersete'
-);
 
 export default async function updateRaffle(lottery : Lottery, count : number = 0, data ?: Raffle) {
 
@@ -49,7 +38,7 @@ export default async function updateRaffle(lottery : Lottery, count : number = 0
 
 }
 
-export function writeRaffle(lottery : Lottery, raffle : Raffle) {
+function writeRaffle(lottery : Lottery, raffle : Raffle) {
 
     writeFileSync(
         join('data', lottery + '.json'),
@@ -60,7 +49,7 @@ export function writeRaffle(lottery : Lottery, raffle : Raffle) {
 
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
 
-export async function getResult(lottery : Lottery, number ?: number) : Promise<Result> {
+async function getResult(lottery : Lottery, number ?: number) : Promise<Result> {
 
     try {
         

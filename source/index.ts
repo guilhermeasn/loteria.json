@@ -8,17 +8,17 @@ import updateRaffle from "./fetchdata";
 
 async function main() {
 
-    // await updateRaffle('diadesorte');
-    // await updateRaffle('duplasena');
-    // await updateRaffle('federal');
-    // await updateRaffle('loteca');
-    // await updateRaffle('lotofacil');
-    // await updateRaffle('lotomania');
-    // await updateRaffle('maismilionaria');
-    // await updateRaffle('megasena');
-    // await updateRaffle('quina');
-    // await updateRaffle('supersete');
-    // await updateRaffle('timemania');
+    await updateRaffle('diadesorte');
+    await updateRaffle('duplasena');
+    await updateRaffle('federal');
+    await updateRaffle('loteca');
+    await updateRaffle('lotofacil');
+    await updateRaffle('lotomania');
+    await updateRaffle('maismilionaria');
+    await updateRaffle('megasena');
+    await updateRaffle('quina');
+    await updateRaffle('supersete');
+    await updateRaffle('timemania');
 
     analyze('diadesorte', [ 7 ]);
     analyze('duplasena');

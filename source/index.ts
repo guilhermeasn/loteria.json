@@ -8,28 +8,36 @@ import updateRaffle from "./fetchdata";
 
 async function main() {
 
-    await updateRaffle('diadesorte');
-    await updateRaffle('duplasena');
-    await updateRaffle('federal');
-    await updateRaffle('loteca');
-    await updateRaffle('lotofacil');
-    await updateRaffle('lotomania');
-    await updateRaffle('maismilionaria');
-    await updateRaffle('megasena');
-    await updateRaffle('quina');
-    await updateRaffle('supersete');
-    await updateRaffle('timemania');
+    if(await updateRaffle('diadesorte'))
+        analyze('diadesorte', [ 7 ]);
 
-    analyze('diadesorte', [ 7 ]);
-    analyze('duplasena');
-    analyze('lotofacil');
-    analyze('lotomania');
-    analyze('maismilionaria', [ 6, 7 ]);
-    analyze('megasena');
-    analyze('quina');
-    analyze('supersete');
-    analyze('timemania', [ 7 ]);
+    if(await updateRaffle('duplasena'))
+        analyze('duplasena');
+
+    if(await updateRaffle('lotofacil'))
+        analyze('lotofacil');
+
+    if(await updateRaffle('lotomania'))
+        analyze('lotomania');
+
+    if(await updateRaffle('maismilionaria'))
+        analyze('maismilionaria', [ 6, 7 ]);
+
+    if(await updateRaffle('megasena'))
+        analyze('megasena');
+
+    if(await updateRaffle('quina'))
+        analyze('quina');
+
+    if(await updateRaffle('supersete'))
+        analyze('supersete');
+
+    if(await updateRaffle('timemania'))
+        analyze('timemania', [ 7 ]);
     
+    await updateRaffle('federal', 5376);
+    await updateRaffle('loteca', 100);
+
 }
 
 main();

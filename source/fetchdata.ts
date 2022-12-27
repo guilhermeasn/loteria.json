@@ -12,8 +12,10 @@ import type {
 
 const API = 'https://servicebus2.caixa.gov.br/portaldeloterias/api';
 
-export default async function updateRaffle(lottery : Lottery, count : number = 0, data ?: Raffle) {
+export default async function updateRaffle(lottery : Lottery, count : number = 0, data ?: Raffle) : Promise<boolean> {
 
+    let updated : boolean = false;
+    
     const last : Result = await getResult(lottery);
 
     let raffle : Raffle = data || require(`../data/${ lottery }.json`) || {};
@@ -24,17 +26,22 @@ export default async function updateRaffle(lottery : Lottery, count : number = 0
         result = await getResult(lottery, count);
 
         if(!result) {
-            if(last && parseInt(Object.keys(last)?.[0] ?? 0) > count) await updateRaffle(lottery, count, raffle);
-            else console.warn(`The search for result of lottery ${ lottery.toUpperCase() } ended in raffle ${ count - 1 }`);
+            if(last && parseInt(Object.keys(last)?.[0] ?? 0) > count) {
+                if(await updateRaffle(lottery, count, raffle))
+                    updated = true;
+            } else console.warn(`The search for result of lottery ${ lottery.toUpperCase() } ended in raffle ${ count - 1 }`);
             break;
         }
         
         raffle = { ...raffle, ...result };
         writeRaffle(lottery, raffle);
+        updated = true;
 
         console.log(`Added in '${ lottery }': ${ JSON.stringify(result) }`);
 
     };
+
+    return updated;
 
 }
 

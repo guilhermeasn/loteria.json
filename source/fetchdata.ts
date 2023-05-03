@@ -63,7 +63,7 @@ function writeLastRaffle(lottery : Lottery, lastRaffle : number, content : Forma
     const file : string = 'README.md';
     const sign : string = `<!--${lottery}-->`;
     const data : string = readFileSync(file).toString();
-    const nums : string = JSON.stringify(content?.sort((a, b) => parseInt(a.toString()) - parseInt(b.toString())))?.replace(/[\[\]"\s]/gim,'').replace(/,/gim, ', ');
+    const nums : string = JSON.stringify(content).replace(/[\[\]"\s]/g,'').replace(/,/g, ', ');
 
     writeFileSync(file, data.replace(new RegExp(sign + '.+'), sign + lastRaffle.toLocaleString('pt-BR') + ' => ' + nums));
 

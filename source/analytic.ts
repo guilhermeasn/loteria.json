@@ -4,6 +4,7 @@ import { join } from 'path';
 import type {
     Analytic,
     Lottery,
+    Numerical,
     Raffle
 } from './types';
 
@@ -26,7 +27,7 @@ const primes = (data : number[][]) => data.map(raffle => {
 
 });
 
-function occurences(arr : number[] = []) {
+function occurences(arr : number[] = []) : Numerical {
 
     const map : { [k: number] : number } = {};
 

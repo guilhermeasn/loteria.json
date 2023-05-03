@@ -1,12 +1,13 @@
 import axios from 'axios';
-import { writeFileSync } from 'fs';
-import { join } from 'path';
+import { readFileSync, writeFileSync } from 'fs';
 import { Agent } from 'http';
+import { join } from 'path';
 
 import type {
     Format,
     Lottery,
     Raffle,
+    Registry,
     Result
 } from './types';
 
@@ -29,7 +30,11 @@ export default async function updateRaffle(lottery : Lottery, count : number = 0
             if(last && parseInt(Object.keys(last)?.[0] ?? 0) > count) {
                 if(await updateRaffle(lottery, count, raffle))
                     updated = true;
-            } else console.warn(`The search for result of lottery ${ lottery.toUpperCase() } ended in raffle ${ count - 1 }`);
+            } else {
+                const last = count - 1;
+                writeLastRaffle(lottery, last);
+                console.warn(`The search for result of lottery ${ lottery.toUpperCase() } ended in raffle ${ last }`);
+            }
             break;
         }
         
@@ -50,6 +55,20 @@ function writeRaffle(lottery : Lottery, raffle : Raffle) {
     writeFileSync(
         join('data', lottery + '.json'),
         JSON.stringify(raffle)
+    );
+
+}
+
+function writeLastRaffle(lottery : Lottery, lastRaffle : number) {
+
+    const registry : Registry = JSON.parse(readFileSync(join('data', '__registry__.json')).toString());
+
+    writeFileSync(
+        join('data', '__registry__.json'),
+        JSON.stringify({
+            ...registry,
+            [lottery] : lastRaffle
+        }, undefined, 2)
     );
 
 }

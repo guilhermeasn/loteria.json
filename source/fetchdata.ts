@@ -31,8 +31,8 @@ export default async function updateRaffle(lottery : Lottery, count : number = 0
                     updated = true;
             } else {
                 const last = count - 1;
-                writeLastRaffle(lottery, last);
                 console.warn(`The search for result of lottery ${ lottery.toUpperCase() } ended in raffle ${ last }`);
+                writeLastRaffle(lottery, last, raffle[last]);
             }
             break;
         }
@@ -58,13 +58,14 @@ function writeRaffle(lottery : Lottery, raffle : Raffle) {
 
 }
 
-function writeLastRaffle(lottery : Lottery, lastRaffle : number) {
+function writeLastRaffle(lottery : Lottery, lastRaffle : number, content : Format) {
 
     const file : string = 'README.md';
     const sign : string = `<!--${lottery}-->`;
     const data : string = readFileSync(file).toString();
+    const nums : string = ' ' + JSON.stringify(content?.sort((a, b) => parseInt(a.toString()) - parseInt(b.toString())))?.replace(/\s/gim,'');
 
-    writeFileSync(file, data.replace(new RegExp(sign + '[\\d.]+'), sign + lastRaffle.toLocaleString('pt-BR')));
+    writeFileSync(file, data.replace(new RegExp(sign + '.+'), sign + lastRaffle.toLocaleString('pt-BR') + nums));
 
 }
 

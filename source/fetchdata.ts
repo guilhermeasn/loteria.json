@@ -64,7 +64,7 @@ function writeLastRaffle(lottery : Lottery, lastRaffle : number) {
     const sign : string = `<!--${lottery}-->`;
     const data : string = readFileSync(file).toString();
 
-    writeFileSync(file, data.replace(new RegExp(sign + '[\\d.]+'), sign + lastRaffle.toLocaleString('pt-br')));
+    writeFileSync(file, data.replace(new RegExp(sign + '[\\d.]+'), sign + lastRaffle.toLocaleString('pt-BR')));
 
 }
 

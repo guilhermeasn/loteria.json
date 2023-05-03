@@ -65,7 +65,7 @@ function writeLastRaffle(lottery : Lottery, lastRaffle : number, content : Forma
     const data : string = readFileSync(file).toString();
     const nums : string = JSON.stringify(content?.sort((a, b) => parseInt(a.toString()) - parseInt(b.toString())))?.replace(/\s/gim,'');
 
-    writeFileSync(file, data.replace(new RegExp(sign + '.+'), sign + lastRaffle.toLocaleString('pt-BR') + ':' + nums));
+    writeFileSync(file, data.replace(new RegExp(sign + '.+'), sign + lastRaffle + ':' + nums));
 
 }
 

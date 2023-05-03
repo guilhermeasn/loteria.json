@@ -61,10 +61,11 @@ function writeRaffle(lottery : Lottery, raffle : Raffle) {
 
 function writeLastRaffle(lottery : Lottery, lastRaffle : number) {
 
-    const registry : Registry = JSON.parse(readFileSync(join('data', '__registry__.json')).toString());
+    const file : string = join('data', '__registry__.json');
+    const registry : Registry = JSON.parse(readFileSync(file).toString());
 
     writeFileSync(
-        join('data', '__registry__.json'),
+        file,
         JSON.stringify({
             ...registry,
             [lottery] : lastRaffle

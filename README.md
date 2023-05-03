@@ -4,6 +4,20 @@
 
 Todos os resultados atualizados e analisados das loterias da Caixa Econômica Federal em arquivos JSON. A atualização dos arquivos são feitas automaticamente, todos os dias, com Cron Job via GitHub Actions.
 
+Últimos sorteios registrados:
+
+ - **Dia de Sorte**: <!--diadesorte-->752
+ - **Dupla Sena**: <!--duplasena-->2.509
+ - **Federal**: <!--federal-->5.760
+ - **Lotofácil**: <!--lotofacil-->2.801
+ - **Lotomania**: <!--lotomania-->2.462
+ - **+Milionária**: <!--maismilionaria-->49
+ - **Mega Sena**: <!--megasena-->2.587
+ - **Quina**: <!--quina-->6.138
+ - **Super Sete**: <!--supersete-->387
+ - **Timemania**: <!--timemania-->1.931
+ <!-- - **Loteca**: 0 -->
+
 ## Sorteios
 
 Os arquivos de sorteios que estão na pasta *data* contém um *object* no seguinte formato: suas **chaves** são formadas pelos **números dos sorteios** e os **valores** contém um **array com as dezenas sorteadas por ordem de sorteio**.

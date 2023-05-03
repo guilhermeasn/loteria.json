@@ -7,7 +7,6 @@ import type {
     Format,
     Lottery,
     Raffle,
-    Registry,
     Result
 } from './types';
 
@@ -61,16 +60,11 @@ function writeRaffle(lottery : Lottery, raffle : Raffle) {
 
 function writeLastRaffle(lottery : Lottery, lastRaffle : number) {
 
-    const file : string = join('data', '__registry__.json');
-    const registry : Registry = JSON.parse(readFileSync(file).toString());
+    const file : string = 'README.md';
+    const sign : string = `<!--${lottery}-->`;
+    const data : string = readFileSync(file).toString();
 
-    writeFileSync(
-        file,
-        JSON.stringify({
-            ...registry,
-            [lottery] : lastRaffle
-        }, undefined, 2)
-    );
+    writeFileSync(file, data.replace(new RegExp(sign + '[\\d.]+'), sign + lastRaffle.toLocaleString('pt-br')));
 
 }
 

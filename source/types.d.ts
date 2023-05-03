@@ -16,8 +16,6 @@ export type Lottery = (
     'supersete'
 );
 
-export type Registry = { [key in Lottery] : number };
-
 export type AnalysisGroup = { [key in Lottery] : Analytic };
 export type Numerical = { [key in string] : number };
 

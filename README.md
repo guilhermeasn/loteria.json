@@ -9,11 +9,11 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->752 => 16, 04, 17, 11, 14, 05, 21, Março
  - **Dupla Sena**: <!--duplasena-->2.509 => 34, 07, 36, 37, 45, 01, 35, 20, 12, 14, 28, 27
  - **Federal**: <!--federal-->5.761 => 028250, 089762, 036734, 065802, 081143
- - **Lotofácil**: <!--lotofacil-->2.801 => 01, 25, 09, 20, 24, 07, 03, 16, 15, 19, 02, 12, 22, 17, 18
- - **Lotomania**: <!--lotomania-->2.462 => 40, 61, 95, 97, 48, 29, 21, 50, 73, 28, 33, 00, 52, 56, 92, 27, 43, 22, 63, 36
+ - **Lotofácil**: <!--lotofacil-->2.802 => 18, 23, 03, 06, 16, 25, 09, 01, 13, 08, 22, 17, 02, 12, 04
+ - **Lotomania**: <!--lotomania-->2.463 => 67, 75, 08, 86, 09, 30, 79, 03, 60, 19, 31, 04, 58, 70, 18, 24, 90, 05, 01, 77
  - **+Milionária**: <!--maismilionaria-->49 => 36, 21, 04, 30, 48, 13, 03, 02
- - **Mega Sena**: <!--megasena-->2.587 => 05, 22, 11, 37, 10, 23
- - **Quina**: <!--quina-->6.138 => 31, 44, 03, 55, 08
+ - **Mega Sena**: <!--megasena-->2.588 => 31, 22, 09, 13, 57, 58
+ - **Quina**: <!--quina-->6.139 => 69, 50, 12, 20, 52
  - **Super Sete**: <!--supersete-->388 => 5, 9, 2, 1, 5, 3, 3
  - **Timemania**: <!--timemania-->1.931 => 45, 44, 41, 06, 38, 21, 42, BAHIA/BA
  <!-- - **Loteca**: 0 -->

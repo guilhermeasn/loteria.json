@@ -1,7 +1,6 @@
 import axios from 'axios';
-import { readFileSync, writeFileSync } from 'fs';
+
 import { Agent } from 'http';
-import { join } from 'path';
 
 import type {
     Format,
@@ -9,6 +8,11 @@ import type {
     Raffle,
     Result
 } from './types';
+
+import {
+    writeLastRaffle,
+    writeRaffle
+} from './filewriter';
 
 const API = 'https://servicebus2.caixa.gov.br/portaldeloterias/api';
 
@@ -46,26 +50,6 @@ export default async function updateRaffle(lottery : Lottery, count : number = 0
     };
 
     return updated;
-
-}
-
-function writeRaffle(lottery : Lottery, raffle : Raffle) {
-
-    writeFileSync(
-        join('data', lottery + '.json'),
-        JSON.stringify(raffle)
-    );
-
-}
-
-function writeLastRaffle(lottery : Lottery, lastRaffle : number, content : Format) {
-
-    const file : string = 'README.md';
-    const sign : string = `<!--${lottery}-->`;
-    const data : string = readFileSync(file).toString();
-    const nums : string = JSON.stringify(content)?.replace(/[\[\]"\s]/g,'')?.replace(/,/g, ', ');
-
-    writeFileSync(file, data.replace(new RegExp(sign + '.+'), sign + lastRaffle.toLocaleString('pt-BR') + ' => ' + nums));
 
 }
 

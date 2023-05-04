@@ -1,8 +1,6 @@
-import { writeFileSync } from 'fs';
-import { join } from 'path';
+import { writeAnalytic } from './filewriter';
 
 import type {
-    Analytic,
     Lottery,
     Numerical,
     Raffle
@@ -27,18 +25,6 @@ const primes = (data : number[][]) => data.map(raffle => {
 
 });
 
-function occurences(arr : number[] = []) : Numerical {
-
-    const map : { [k: number] : number } = {};
-
-    arr.forEach(v => { map?.[v] ? map[v]++ : map[v] = 1 });
-
-    return Object.entries(map)
-        .sort(([,a], [,b]) => b - a)
-        .reduce((r, [k, v]) => ({ ...r, [`#${k}`]: v }), {});
-        
-}
-
 const tens = (data : number[][]) => {
     const ten = (n : number) => ((--n - n % 10) / 10 + 1) * 10;
     return data.reduce((p, c) => (
@@ -55,6 +41,18 @@ const quantity = (data : number[][]) => data.reduce((p, c) => [ ...p, ...c ], []
 const sequential = (data : number[][]) => data.reduce((p : any, c: number[]) => [
     ...c.map((v, i) => [ ...(p?.[i] ?? []), v ])
 ], []);
+
+function occurences(arr : number[] = []) : Numerical {
+
+    const map : { [k: number] : number } = {};
+
+    arr.forEach(v => { map?.[v] ? map[v]++ : map[v] = 1 });
+
+    return Object.entries(map)
+        .sort(([,a], [,b]) => b - a)
+        .reduce((r, [k, v]) => ({ ...r, [`#${k}`]: v }), {});
+        
+}
 
 export default function analyze(lottery : Lottery, ignore : number[] = []) {
 
@@ -73,14 +71,5 @@ export default function analyze(lottery : Lottery, ignore : number[] = []) {
     });
 
     console.log(`Full review of '${ lottery }'`);
-
-}
-
-function writeAnalytic(lottery : Lottery, analytic : Analytic) {
-
-    writeFileSync(
-        join('data', lottery + '.analytic.json'),
-        JSON.stringify(analytic, undefined, 2)
-    );
 
 }

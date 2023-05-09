@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->754 => 23, 13, 24, 27, 26, 19, 30, Fevereiro
  - **Dupla Sena**: <!--duplasena-->2.511 => 18, 36, 20, 26, 32, 23, 37, 25, 47, 45, 08, 29
  - **Federal**: <!--federal-->5.762 => 015030, 015777, 080841, 048964, 078678
- - **Lotofácil**: <!--lotofacil-->2.805 => 10, 05, 11, 19, 07, 18, 25, 06, 14, 08, 13, 20, 22, 12, 23
- - **Lotomania**: <!--lotomania-->2.464 => 24, 80, 16, 45, 10, 18, 94, 08, 97, 41, 96, 26, 54, 70, 87, 51, 11, 29, 59, 17
+ - **Lotofácil**: <!--lotofacil-->2.806 => 19, 23, 05, 20, 25, 04, 13, 01, 16, 11, 03, 12, 14, 02, 17
+ - **Lotomania**: <!--lotomania-->2.465 => 43, 85, 63, 76, 80, 59, 30, 93, 35, 81, 29, 75, 64, 99, 07, 87, 13, 40, 34, 28
  - **+Milionária**: <!--maismilionaria-->50 => 26, 49, 35, 24, 21, 12, 06, 01
  - **Mega Sena**: <!--megasena-->2.589 => 36, 01, 16, 32, 15, 25
- - **Quina**: <!--quina-->6.142 => 09, 79, 02, 64, 32
- - **Super Sete**: <!--supersete-->389 => 6, 0, 3, 6, 3, 0, 1
+ - **Quina**: <!--quina-->6.143 => 39, 70, 67, 10, 63
+ - **Super Sete**: <!--supersete-->390 => 5, 2, 8, 8, 4, 3, 4
  - **Timemania**: <!--timemania-->1.933 => 67, 70, 47, 50, 11, 31, 58, SPORT/PE
  <!-- - **Loteca**: 0 -->
 

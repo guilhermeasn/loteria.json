@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->754 => 23, 13, 24, 27, 26, 19, 30, Fevereiro
- - **Dupla Sena**: <!--duplasena-->2.511 => 18, 36, 20, 26, 32, 23, 37, 25, 47, 45, 08, 29
+ - **Dia de Sorte**: <!--diadesorte-->755 => 10, 17, 04, 22, 12, 20, 03, Dezembro
+ - **Dupla Sena**: <!--duplasena-->2.512 => 43, 48, 45, 50, 30, 47, 38, 50, 35, 22, 36, 25
  - **Federal**: <!--federal-->5.762 => 015030, 015777, 080841, 048964, 078678
- - **Lotofácil**: <!--lotofacil-->2.806 => 19, 23, 05, 20, 25, 04, 13, 01, 16, 11, 03, 12, 14, 02, 17
+ - **Lotofácil**: <!--lotofacil-->2.807 => 06, 01, 12, 05, 07, 03, 13, 24, 10, 11, 16, 22, 09, 15, 14
  - **Lotomania**: <!--lotomania-->2.465 => 43, 85, 63, 76, 80, 59, 30, 93, 35, 81, 29, 75, 64, 99, 07, 87, 13, 40, 34, 28
  - **+Milionária**: <!--maismilionaria-->50 => 26, 49, 35, 24, 21, 12, 06, 01
- - **Mega Sena**: <!--megasena-->2.589 => 36, 01, 16, 32, 15, 25
- - **Quina**: <!--quina-->6.143 => 39, 70, 67, 10, 63
+ - **Mega Sena**: <!--megasena-->2.590 => 43, 36, 02, 48, 28, 12
+ - **Quina**: <!--quina-->6.144 => 05, 80, 42, 10, 78
  - **Super Sete**: <!--supersete-->390 => 5, 2, 8, 8, 4, 3, 4
- - **Timemania**: <!--timemania-->1.933 => 67, 70, 47, 50, 11, 31, 58, SPORT/PE
+ - **Timemania**: <!--timemania-->1.934 => 05, 43, 33, 57, 32, 02, 24, NOVORIZONTINO/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

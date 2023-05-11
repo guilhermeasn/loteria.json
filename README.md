@@ -8,13 +8,13 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->755 => 10, 17, 04, 22, 12, 20, 03, Dezembro
  - **Dupla Sena**: <!--duplasena-->2.512 => 43, 48, 45, 50, 30, 47, 38, 50, 35, 22, 36, 25
- - **Federal**: <!--federal-->5.762 => 015030, 015777, 080841, 048964, 078678
- - **Lotofácil**: <!--lotofacil-->2.807 => 06, 01, 12, 05, 07, 03, 13, 24, 10, 11, 16, 22, 09, 15, 14
- - **Lotomania**: <!--lotomania-->2.465 => 43, 85, 63, 76, 80, 59, 30, 93, 35, 81, 29, 75, 64, 99, 07, 87, 13, 40, 34, 28
+ - **Federal**: <!--federal-->5.763 => 045261, 029512, 097258, 086239, 002040
+ - **Lotofácil**: <!--lotofacil-->2.808 => 04, 15, 14, 24, 12, 08, 09, 21, 20, 10, 13, 22, 19, 18, 06
+ - **Lotomania**: <!--lotomania-->2.466 => 28, 05, 62, 70, 91, 32, 61, 86, 21, 03, 24, 94, 42, 55, 36, 35, 73, 83, 30, 13
  - **+Milionária**: <!--maismilionaria-->50 => 26, 49, 35, 24, 21, 12, 06, 01
  - **Mega Sena**: <!--megasena-->2.590 => 43, 36, 02, 48, 28, 12
- - **Quina**: <!--quina-->6.144 => 05, 80, 42, 10, 78
- - **Super Sete**: <!--supersete-->390 => 5, 2, 8, 8, 4, 3, 4
+ - **Quina**: <!--quina-->6.145 => 23, 52, 10, 55, 71
+ - **Super Sete**: <!--supersete-->391 => 8, 3, 6, 5, 2, 0, 6
  - **Timemania**: <!--timemania-->1.934 => 05, 43, 33, 57, 32, 02, 24, NOVORIZONTINO/SP
  <!-- - **Loteca**: 0 -->
 

@@ -6,13 +6,13 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->756 => 31, 17, 12, 08, 04, 26, 19, Março
+ - **Dia de Sorte**: <!--diadesorte-->757 => 17, 07, 06, 14, 28, 31, 18, Maio
  - **Dupla Sena**: <!--duplasena-->2.513 => 25, 13, 03, 26, 21, 35, 39, 12, 10, 22, 46, 17
- - **Federal**: <!--federal-->5.763 => 045261, 029512, 097258, 086239, 002040
+ - **Federal**: <!--federal-->5.764 => 015553, 046292, 062555, 036827, 019717
  - **Lotofácil**: <!--lotofacil-->2.810 => 02, 11, 23, 25, 13, 05, 04, 18, 12, 19, 20, 24, 07, 10, 14
  - **Lotomania**: <!--lotomania-->2.467 => 09, 13, 41, 56, 14, 18, 20, 07, 22, 50, 23, 71, 65, 84, 34, 10, 06, 44, 32, 25
- - **+Milionária**: <!--maismilionaria-->50 => 26, 49, 35, 24, 21, 12, 06, 01
- - **Mega Sena**: <!--megasena-->2.591 => 30, 28, 23, 11, 21, 10
+ - **+Milionária**: <!--maismilionaria-->51 => 18, 50, 17, 14, 34, 46, 03, 05
+ - **Mega Sena**: <!--megasena-->2.592 => 51, 35, 34, 28, 15, 17
  - **Quina**: <!--quina-->6.147 => 16, 64, 02, 60, 79
  - **Super Sete**: <!--supersete-->392 => 1, 5, 8, 0, 3, 7, 9
  - **Timemania**: <!--timemania-->1.935 => 07, 13, 33, 38, 72, 76, 11, ATLETICO/AC

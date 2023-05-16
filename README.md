@@ -9,11 +9,11 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->757 => 17, 07, 06, 14, 28, 31, 18, Maio
  - **Dupla Sena**: <!--duplasena-->2.514 => 21, 11, 18, 24, 02, 38, 48, 21, 19, 20, 38, 04
  - **Federal**: <!--federal-->5.764 => 015553, 046292, 062555, 036827, 019717
- - **Lotofácil**: <!--lotofacil-->2.811 => 05, 22, 06, 08, 02, 23, 11, 07, 16, 15, 04, 03, 25, 10, 09
- - **Lotomania**: <!--lotomania-->2.467 => 09, 13, 41, 56, 14, 18, 20, 07, 22, 50, 23, 71, 65, 84, 34, 10, 06, 44, 32, 25
+ - **Lotofácil**: <!--lotofacil-->2.812 => 19, 24, 21, 14, 15, 13, 03, 23, 11, 22, 12, 25, 08, 20, 01
+ - **Lotomania**: <!--lotomania-->2.468 => 43, 81, 40, 15, 45, 32, 93, 14, 06, 92, 20, 01, 99, 94, 67, 74, 57, 54, 04, 75
  - **+Milionária**: <!--maismilionaria-->51 => 18, 50, 17, 14, 34, 46, 03, 05
  - **Mega Sena**: <!--megasena-->2.592 => 51, 35, 34, 28, 15, 17
- - **Quina**: <!--quina-->6.148 => 46, 27, 54, 65, 40
+ - **Quina**: <!--quina-->6.149 => 73, 56, 74, 33, 51
  - **Super Sete**: <!--supersete-->392 => 1, 5, 8, 0, 3, 7, 9
  - **Timemania**: <!--timemania-->1.936 => 59, 34, 70, 55, 66, 14, 45, AVAI/SC
  <!-- - **Loteca**: 0 -->

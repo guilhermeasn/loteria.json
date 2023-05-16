@@ -14,7 +14,7 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **+Milionária**: <!--maismilionaria-->51 => 18, 50, 17, 14, 34, 46, 03, 05
  - **Mega Sena**: <!--megasena-->2.592 => 51, 35, 34, 28, 15, 17
  - **Quina**: <!--quina-->6.149 => 73, 56, 74, 33, 51
- - **Super Sete**: <!--supersete-->392 => 1, 5, 8, 0, 3, 7, 9
+ - **Super Sete**: <!--supersete-->393 => 1, 5, 5, 1, 7, 7, 8
  - **Timemania**: <!--timemania-->1.936 => 59, 34, 70, 55, 66, 14, 45, AVAI/SC
  <!-- - **Loteca**: 0 -->
 

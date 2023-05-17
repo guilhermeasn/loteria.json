@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->757 => 17, 07, 06, 14, 28, 31, 18, Maio
- - **Dupla Sena**: <!--duplasena-->2.514 => 21, 11, 18, 24, 02, 38, 48, 21, 19, 20, 38, 04
+ - **Dia de Sorte**: <!--diadesorte-->758 => 31, 03, 20, 02, 22, 26, 07, Julho
+ - **Dupla Sena**: <!--duplasena-->2.515 => 50, 39, 34, 04, 13, 47, 09, 11, 41, 30, 28, 15
  - **Federal**: <!--federal-->5.764 => 015553, 046292, 062555, 036827, 019717
- - **Lotofácil**: <!--lotofacil-->2.812 => 19, 24, 21, 14, 15, 13, 03, 23, 11, 22, 12, 25, 08, 20, 01
+ - **Lotofácil**: <!--lotofacil-->2.813 => 04, 24, 07, 22, 15, 11, 03, 02, 25, 19, 18, 21, 13, 14, 01
  - **Lotomania**: <!--lotomania-->2.468 => 43, 81, 40, 15, 45, 32, 93, 14, 06, 92, 20, 01, 99, 94, 67, 74, 57, 54, 04, 75
  - **+Milionária**: <!--maismilionaria-->51 => 18, 50, 17, 14, 34, 46, 03, 05
  - **Mega Sena**: <!--megasena-->2.592 => 51, 35, 34, 28, 15, 17
- - **Quina**: <!--quina-->6.149 => 73, 56, 74, 33, 51
+ - **Quina**: <!--quina-->6.150 => 19, 51, 20, 30, 58
  - **Super Sete**: <!--supersete-->393 => 1, 5, 5, 1, 7, 7, 8
- - **Timemania**: <!--timemania-->1.936 => 59, 34, 70, 55, 66, 14, 45, AVAI/SC
+ - **Timemania**: <!--timemania-->1.937 => 20, 24, 80, 44, 11, 31, 62, JUAZEIRENSE/BA
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

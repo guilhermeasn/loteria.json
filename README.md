@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->758 => 31, 03, 20, 02, 22, 26, 07, Julho
- - **Dupla Sena**: <!--duplasena-->2.515 => 50, 39, 34, 04, 13, 47, 09, 11, 41, 30, 28, 15
+ - **Dia de Sorte**: <!--diadesorte-->759 => 18, 30, 11, 12, 23, 25, 09, Novembro
+ - **Dupla Sena**: <!--duplasena-->2.516 => 15, 11, 41, 36, 02, 30, 38, 46, 32, 13, 06, 40
  - **Federal**: <!--federal-->5.765 => 033770, 063511, 096610, 013902, 068410
- - **Lotofácil**: <!--lotofacil-->2.814 => 04, 15, 11, 25, 22, 24, 13, 08, 20, 02, 12, 07, 19, 01, 23
+ - **Lotofácil**: <!--lotofacil-->2.815 => 09, 03, 13, 05, 22, 18, 19, 08, 07, 10, 04, 24, 25, 06, 16
  - **Lotomania**: <!--lotomania-->2.469 => 15, 92, 10, 65, 93, 47, 31, 36, 68, 60, 35, 99, 07, 23, 97, 61, 29, 11, 70, 86
  - **+Milionária**: <!--maismilionaria-->51 => 18, 50, 17, 14, 34, 46, 03, 05
  - **Mega Sena**: <!--megasena-->2.593 => 14, 17, 10, 32, 25, 39
- - **Quina**: <!--quina-->6.151 => 33, 23, 54, 78, 10
+ - **Quina**: <!--quina-->6.152 => 77, 33, 21, 18, 30
  - **Super Sete**: <!--supersete-->394 => 7, 6, 9, 6, 1, 3, 1
- - **Timemania**: <!--timemania-->1.937 => 20, 24, 80, 44, 11, 31, 62, JUAZEIRENSE/BA
+ - **Timemania**: <!--timemania-->1.938 => 22, 54, 34, 60, 44, 43, 35, ALTOS/PI
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

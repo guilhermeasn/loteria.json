@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->759 => 18, 30, 11, 12, 23, 25, 09, Novembro
  - **Dupla Sena**: <!--duplasena-->2.516 => 15, 11, 41, 36, 02, 30, 38, 46, 32, 13, 06, 40
  - **Federal**: <!--federal-->5.765 => 033770, 063511, 096610, 013902, 068410
- - **Lotofácil**: <!--lotofacil-->2.815 => 09, 03, 13, 05, 22, 18, 19, 08, 07, 10, 04, 24, 25, 06, 16
- - **Lotomania**: <!--lotomania-->2.469 => 15, 92, 10, 65, 93, 47, 31, 36, 68, 60, 35, 99, 07, 23, 97, 61, 29, 11, 70, 86
+ - **Lotofácil**: <!--lotofacil-->2.816 => 09, 11, 21, 24, 01, 08, 18, 16, 13, 25, 15, 02, 19, 14, 22
+ - **Lotomania**: <!--lotomania-->2.470 => 23, 14, 53, 56, 96, 69, 49, 06, 91, 61, 04, 00, 25, 42, 97, 33, 60, 84, 37, 62
  - **+Milionária**: <!--maismilionaria-->51 => 18, 50, 17, 14, 34, 46, 03, 05
  - **Mega Sena**: <!--megasena-->2.593 => 14, 17, 10, 32, 25, 39
- - **Quina**: <!--quina-->6.152 => 77, 33, 21, 18, 30
- - **Super Sete**: <!--supersete-->394 => 7, 6, 9, 6, 1, 3, 1
+ - **Quina**: <!--quina-->6.153 => 22, 41, 70, 24, 57
+ - **Super Sete**: <!--supersete-->395 => 3, 6, 4, 1, 2, 8, 5
  - **Timemania**: <!--timemania-->1.938 => 22, 54, 34, 60, 44, 43, 35, ALTOS/PI
  <!-- - **Loteca**: 0 -->
 

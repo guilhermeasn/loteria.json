@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->760 => 09, 17, 28, 31, 01, 16, 08, Dezembro
- - **Dupla Sena**: <!--duplasena-->2.517 => 13, 48, 06, 05, 07, 08, 16, 15, 36, 50, 23, 05
+ - **Dia de Sorte**: <!--diadesorte-->761 => 06, 09, 17, 31, 25, 22, 10, Junho
+ - **Dupla Sena**: <!--duplasena-->2.518 => 15, 10, 48, 07, 03, 40, 32, 15, 25, 39, 46, 29
  - **Federal**: <!--federal-->5.766 => 012955, 097894, 085445, 054667, 098909
- - **Lotofácil**: <!--lotofacil-->2.818 => 17, 01, 11, 04, 09, 07, 05, 13, 03, 02, 14, 12, 10, 24, 15
+ - **Lotofácil**: <!--lotofacil-->2.819 => 22, 02, 01, 23, 21, 10, 04, 11, 05, 06, 24, 08, 14, 18, 20
  - **Lotomania**: <!--lotomania-->2.471 => 51, 73, 38, 79, 05, 75, 65, 90, 03, 84, 35, 77, 26, 39, 98, 25, 69, 37, 14, 00
  - **+Milionária**: <!--maismilionaria-->52 => 49, 29, 36, 24, 31, 50, 04, 06
  - **Mega Sena**: <!--megasena-->2.594 => 07, 55, 32, 26, 49, 35
- - **Quina**: <!--quina-->6.155 => 71, 09, 18, 74, 43
+ - **Quina**: <!--quina-->6.156 => 79, 41, 62, 32, 69
  - **Super Sete**: <!--supersete-->396 => 6, 5, 0, 7, 8, 0, 2
- - **Timemania**: <!--timemania-->1.939 => 27, 41, 45, 02, 13, 33, 06, BOAVISTA/RJ
+ - **Timemania**: <!--timemania-->1.940 => 11, 51, 56, 39, 05, 28, 55, ATHLETICO/PR
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

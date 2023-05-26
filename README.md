@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->761 => 06, 09, 17, 31, 25, 22, 10, Junho
- - **Dupla Sena**: <!--duplasena-->2.518 => 15, 10, 48, 07, 03, 40, 32, 15, 25, 39, 46, 29
+ - **Dia de Sorte**: <!--diadesorte-->762 => 04, 13, 30, 11, 17, 22, 31, Março
+ - **Dupla Sena**: <!--duplasena-->2.519 => 08, 11, 49, 48, 46, 50, 44, 30, 10, 45, 06, 24
  - **Federal**: <!--federal-->5.767 => 094475, 004528, 030136, 007287, 057715
- - **Lotofácil**: <!--lotofacil-->2.820 => 04, 05, 12, 06, 21, 25, 10, 09, 14, 23, 20, 19, 18, 17, 13
+ - **Lotofácil**: <!--lotofacil-->2.821 => 09, 12, 02, 20, 23, 13, 05, 04, 08, 06, 22, 21, 03, 10, 19
  - **Lotomania**: <!--lotomania-->2.472 => 95, 63, 82, 47, 51, 86, 71, 20, 54, 91, 28, 49, 61, 84, 43, 04, 58, 16, 03, 62
  - **+Milionária**: <!--maismilionaria-->52 => 49, 29, 36, 24, 31, 50, 04, 06
  - **Mega Sena**: <!--megasena-->2.595 => 52, 13, 01, 39, 50, 34
- - **Quina**: <!--quina-->6.157 => 35, 53, 37, 02, 25
+ - **Quina**: <!--quina-->6.158 => 20, 29, 21, 12, 01
  - **Super Sete**: <!--supersete-->397 => 6, 0, 1, 8, 0, 7, 5
- - **Timemania**: <!--timemania-->1.940 => 11, 51, 56, 39, 05, 28, 55, ATHLETICO/PR
+ - **Timemania**: <!--timemania-->1.941 => 15, 74, 41, 39, 37, 18, 56, BOTAFOGO/PB
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

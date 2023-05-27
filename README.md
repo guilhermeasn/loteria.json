@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->762 => 04, 13, 30, 11, 17, 22, 31, Março
  - **Dupla Sena**: <!--duplasena-->2.519 => 08, 11, 49, 48, 46, 50, 44, 30, 10, 45, 06, 24
  - **Federal**: <!--federal-->5.767 => 094475, 004528, 030136, 007287, 057715
- - **Lotofácil**: <!--lotofacil-->2.821 => 09, 12, 02, 20, 23, 13, 05, 04, 08, 06, 22, 21, 03, 10, 19
- - **Lotomania**: <!--lotomania-->2.472 => 95, 63, 82, 47, 51, 86, 71, 20, 54, 91, 28, 49, 61, 84, 43, 04, 58, 16, 03, 62
+ - **Lotofácil**: <!--lotofacil-->2.822 => 05, 10, 01, 20, 23, 09, 21, 17, 03, 25, 11, 12, 04, 24, 06
+ - **Lotomania**: <!--lotomania-->2.473 => 41, 90, 68, 02, 63, 72, 05, 19, 33, 18, 64, 95, 13, 79, 59, 30, 26, 45, 43, 67
  - **+Milionária**: <!--maismilionaria-->52 => 49, 29, 36, 24, 31, 50, 04, 06
  - **Mega Sena**: <!--megasena-->2.595 => 52, 13, 01, 39, 50, 34
- - **Quina**: <!--quina-->6.158 => 20, 29, 21, 12, 01
- - **Super Sete**: <!--supersete-->397 => 6, 0, 1, 8, 0, 7, 5
+ - **Quina**: <!--quina-->6.159 => 57, 14, 11, 52, 18
+ - **Super Sete**: <!--supersete-->398 => 3, 5, 4, 7, 3, 8, 5
  - **Timemania**: <!--timemania-->1.941 => 15, 74, 41, 39, 37, 18, 56, BOTAFOGO/PB
  <!-- - **Loteca**: 0 -->
 

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->762 => 04, 13, 30, 11, 17, 22, 31, Março
- - **Dupla Sena**: <!--duplasena-->2.519 => 08, 11, 49, 48, 46, 50, 44, 30, 10, 45, 06, 24
+ - **Dia de Sorte**: <!--diadesorte-->763 => 25, 23, 05, 04, 07, 12, 18, Dezembro
+ - **Dupla Sena**: <!--duplasena-->2.520 => 37, 03, 12, 33, 02, 19, 17, 26, 11, 44, 07, 46
  - **Federal**: <!--federal-->5.768 => 039766, 041793, 054048, 063652, 041689
- - **Lotofácil**: <!--lotofacil-->2.822 => 05, 10, 01, 20, 23, 09, 21, 17, 03, 25, 11, 12, 04, 24, 06
+ - **Lotofácil**: <!--lotofacil-->2.823 => 24, 16, 20, 14, 21, 01, 15, 18, 19, 04, 25, 13, 23, 17, 06
  - **Lotomania**: <!--lotomania-->2.473 => 41, 90, 68, 02, 63, 72, 05, 19, 33, 18, 64, 95, 13, 79, 59, 30, 26, 45, 43, 67
  - **+Milionária**: <!--maismilionaria-->53 => 33, 23, 02, 35, 44, 16, 01, 06
- - **Mega Sena**: <!--megasena-->2.595 => 52, 13, 01, 39, 50, 34
- - **Quina**: <!--quina-->6.159 => 57, 14, 11, 52, 18
+ - **Mega Sena**: <!--megasena-->2.596 => 35, 47, 56, 39, 51, 34
+ - **Quina**: <!--quina-->6.160 => 64, 67, 26, 65, 49
  - **Super Sete**: <!--supersete-->398 => 3, 5, 4, 7, 3, 8, 5
- - **Timemania**: <!--timemania-->1.941 => 15, 74, 41, 39, 37, 18, 56, BOTAFOGO/PB
+ - **Timemania**: <!--timemania-->1.942 => 64, 62, 28, 65, 24, 39, 48, ATLETICO/GO
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->763 => 25, 23, 05, 04, 07, 12, 18, Dezembro
  - **Dupla Sena**: <!--duplasena-->2.520 => 37, 03, 12, 33, 02, 19, 17, 26, 11, 44, 07, 46
  - **Federal**: <!--federal-->5.768 => 039766, 041793, 054048, 063652, 041689
- - **Lotofácil**: <!--lotofacil-->2.823 => 24, 16, 20, 14, 21, 01, 15, 18, 19, 04, 25, 13, 23, 17, 06
- - **Lotomania**: <!--lotomania-->2.473 => 41, 90, 68, 02, 63, 72, 05, 19, 33, 18, 64, 95, 13, 79, 59, 30, 26, 45, 43, 67
+ - **Lotofácil**: <!--lotofacil-->2.824 => 21, 05, 14, 09, 02, 01, 13, 25, 07, 16, 20, 24, 22, 15, 12
+ - **Lotomania**: <!--lotomania-->2.474 => 26, 46, 43, 51, 36, 69, 14, 64, 94, 75, 12, 50, 32, 48, 07, 31, 19, 11, 28, 22
  - **+Milionária**: <!--maismilionaria-->53 => 33, 23, 02, 35, 44, 16, 01, 06
  - **Mega Sena**: <!--megasena-->2.596 => 35, 47, 56, 39, 51, 34
- - **Quina**: <!--quina-->6.160 => 64, 67, 26, 65, 49
- - **Super Sete**: <!--supersete-->398 => 3, 5, 4, 7, 3, 8, 5
+ - **Quina**: <!--quina-->6.161 => 76, 05, 16, 14, 24
+ - **Super Sete**: <!--supersete-->399 => 2, 5, 2, 6, 6, 4, 8
  - **Timemania**: <!--timemania-->1.942 => 64, 62, 28, 65, 24, 39, 48, ATLETICO/GO
  <!-- - **Loteca**: 0 -->
 

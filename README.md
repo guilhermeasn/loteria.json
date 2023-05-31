@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->763 => 25, 23, 05, 04, 07, 12, 18, Dezembro
- - **Dupla Sena**: <!--duplasena-->2.520 => 37, 03, 12, 33, 02, 19, 17, 26, 11, 44, 07, 46
+ - **Dia de Sorte**: <!--diadesorte-->764 => 23, 24, 19, 30, 17, 09, 07, Junho
+ - **Dupla Sena**: <!--duplasena-->2.521 => 31, 11, 06, 41, 36, 19, 41, 47, 17, 35, 05, 31
  - **Federal**: <!--federal-->5.768 => 039766, 041793, 054048, 063652, 041689
- - **Lotofácil**: <!--lotofacil-->2.824 => 21, 05, 14, 09, 02, 01, 13, 25, 07, 16, 20, 24, 22, 15, 12
+ - **Lotofácil**: <!--lotofacil-->2.825 => 20, 08, 03, 24, 18, 21, 02, 09, 22, 06, 04, 17, 25, 07, 14
  - **Lotomania**: <!--lotomania-->2.474 => 26, 46, 43, 51, 36, 69, 14, 64, 94, 75, 12, 50, 32, 48, 07, 31, 19, 11, 28, 22
  - **+Milionária**: <!--maismilionaria-->53 => 33, 23, 02, 35, 44, 16, 01, 06
  - **Mega Sena**: <!--megasena-->2.596 => 35, 47, 56, 39, 51, 34
- - **Quina**: <!--quina-->6.161 => 76, 05, 16, 14, 24
+ - **Quina**: <!--quina-->6.162 => 45, 29, 79, 19, 25
  - **Super Sete**: <!--supersete-->399 => 2, 5, 2, 6, 6, 4, 8
- - **Timemania**: <!--timemania-->1.942 => 64, 62, 28, 65, 24, 39, 48, ATLETICO/GO
+ - **Timemania**: <!--timemania-->1.943 => 54, 15, 46, 55, 33, 20, 61, LUVERDENSE/MT
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -8,13 +8,13 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->764 => 23, 24, 19, 30, 17, 09, 07, Junho
  - **Dupla Sena**: <!--duplasena-->2.521 => 31, 11, 06, 41, 36, 19, 41, 47, 17, 35, 05, 31
- - **Federal**: <!--federal-->5.768 => 039766, 041793, 054048, 063652, 041689
- - **Lotofácil**: <!--lotofacil-->2.825 => 20, 08, 03, 24, 18, 21, 02, 09, 22, 06, 04, 17, 25, 07, 14
- - **Lotomania**: <!--lotomania-->2.474 => 26, 46, 43, 51, 36, 69, 14, 64, 94, 75, 12, 50, 32, 48, 07, 31, 19, 11, 28, 22
+ - **Federal**: <!--federal-->5.769 => 080884, 055181, 000875, 015502, 096767
+ - **Lotofácil**: <!--lotofacil-->2.826 => 23, 11, 02, 21, 13, 17, 05, 03, 18, 07, 09, 12, 16, 01, 19
+ - **Lotomania**: <!--lotomania-->2.475 => 99, 05, 56, 21, 83, 27, 47, 18, 29, 63, 50, 15, 33, 34, 06, 10, 42, 71, 41, 16
  - **+Milionária**: <!--maismilionaria-->53 => 33, 23, 02, 35, 44, 16, 01, 06
- - **Mega Sena**: <!--megasena-->2.596 => 35, 47, 56, 39, 51, 34
- - **Quina**: <!--quina-->6.162 => 45, 29, 79, 19, 25
- - **Super Sete**: <!--supersete-->399 => 2, 5, 2, 6, 6, 4, 8
+ - **Mega Sena**: <!--megasena-->2.597 => 58, 56, 54, 26, 14, 34
+ - **Quina**: <!--quina-->6.163 => 26, 80, 46, 73, 76
+ - **Super Sete**: <!--supersete-->400 => 0, 5, 5, 4, 2, 4, 3
  - **Timemania**: <!--timemania-->1.943 => 54, 15, 46, 55, 33, 20, 61, LUVERDENSE/MT
  <!-- - **Loteca**: 0 -->
 

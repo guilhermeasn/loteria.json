@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->764 => 23, 24, 19, 30, 17, 09, 07, Junho
- - **Dupla Sena**: <!--duplasena-->2.521 => 31, 11, 06, 41, 36, 19, 41, 47, 17, 35, 05, 31
+ - **Dia de Sorte**: <!--diadesorte-->765 => 28, 05, 22, 23, 29, 15, 31, Outubro
+ - **Dupla Sena**: <!--duplasena-->2.522 => 01, 27, 11, 39, 07, 17, 09, 34, 14, 25, 32, 30
  - **Federal**: <!--federal-->5.769 => 080884, 055181, 000875, 015502, 096767
- - **Lotofácil**: <!--lotofacil-->2.826 => 23, 11, 02, 21, 13, 17, 05, 03, 18, 07, 09, 12, 16, 01, 19
+ - **Lotofácil**: <!--lotofacil-->2.827 => 19, 02, 17, 05, 06, 13, 16, 24, 21, 07, 15, 01, 03, 18, 10
  - **Lotomania**: <!--lotomania-->2.475 => 99, 05, 56, 21, 83, 27, 47, 18, 29, 63, 50, 15, 33, 34, 06, 10, 42, 71, 41, 16
  - **+Milionária**: <!--maismilionaria-->53 => 33, 23, 02, 35, 44, 16, 01, 06
  - **Mega Sena**: <!--megasena-->2.597 => 58, 56, 54, 26, 14, 34
- - **Quina**: <!--quina-->6.163 => 26, 80, 46, 73, 76
+ - **Quina**: <!--quina-->6.164 => 18, 73, 26, 68, 25
  - **Super Sete**: <!--supersete-->400 => 0, 5, 5, 4, 2, 4, 3
- - **Timemania**: <!--timemania-->1.943 => 54, 15, 46, 55, 33, 20, 61, LUVERDENSE/MT
+ - **Timemania**: <!--timemania-->1.944 => 61, 45, 48, 58, 31, 26, 55, FERROVIARIO/CE
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->766 => 10, 21, 11, 18, 16, 17, 31, Setembro
- - **Dupla Sena**: <!--duplasena-->2.523 => 21, 04, 42, 19, 15, 18, 47, 27, 44, 48, 19, 14
+ - **Dia de Sorte**: <!--diadesorte-->767 => 22, 10, 29, 24, 16, 11, 04, Dezembro
+ - **Dupla Sena**: <!--duplasena-->2.524 => 11, 25, 20, 34, 09, 10, 03, 15, 31, 29, 37, 17
  - **Federal**: <!--federal-->5.770 => 027085, 002721, 004841, 063080, 083889
- - **Lotofácil**: <!--lotofacil-->2.830 => 17, 03, 12, 18, 11, 25, 02, 21, 08, 13, 22, 20, 10, 09, 04
+ - **Lotofácil**: <!--lotofacil-->2.831 => 07, 25, 05, 17, 15, 03, 14, 11, 10, 16, 20, 19, 02, 13, 22
  - **Lotomania**: <!--lotomania-->2.477 => 31, 67, 80, 63, 76, 02, 92, 96, 75, 58, 83, 22, 34, 12, 72, 89, 98, 64, 06, 70
  - **+Milionária**: <!--maismilionaria-->54 => 21, 08, 39, 11, 38, 13, 06, 02
  - **Mega Sena**: <!--megasena-->2.598 => 07, 53, 14, 58, 60, 24
- - **Quina**: <!--quina-->6.167 => 77, 18, 06, 65, 26
+ - **Quina**: <!--quina-->6.168 => 02, 69, 42, 26, 50
  - **Super Sete**: <!--supersete-->402 => 7, 2, 4, 9, 0, 1, 1
- - **Timemania**: <!--timemania-->1.945 => 14, 56, 35, 60, 22, 09, 34, APARECIDENSE/GO
+ - **Timemania**: <!--timemania-->1.946 => 29, 54, 14, 58, 79, 21, 02, CEARA/CE
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

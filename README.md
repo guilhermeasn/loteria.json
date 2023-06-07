@@ -50,6 +50,7 @@ Algumas análises dos resultados são realizadas e salvas na pasta *data*, com e
  - A **chave *ones***: informa a quantidade de números sorteados de acordo com o seu grupo de **unidade**.
  - A **chave *tens***: informa a quantidade de números sorteados de acordo com o seu grupo de **dezena**.
  - A **chave *sums***: informa a quantidade de sorteios de acordo com a **soma** de seus números.
+ - A **chave *mean***: informa a quantidade de sorteios de acordo com a **média** arredondada de seus números.
  - A **chave *pairs***: informa a quantidade de sorteios de acordo com a quantidade de números **pares**.
  - A **chave *primes***: informa a quantidade de sorteios de acordo com a quantidade de números **primos**.
  - A **chave *quantity***: informa a quantidade de **vezes** que um número foi sorteado.
@@ -62,6 +63,7 @@ Algumas análises dos resultados são realizadas e salvas na pasta *data*, com e
     ones       : { [key in string] : number };
     tens       : { [key in string] : number };
     sums       : { [key in string] : number };
+    mean       : { [key in string] : number };
     pairs      : { [key in string] : number };
     primes     : { [key in string] : number };
     quantity   : { [key in string] : number };

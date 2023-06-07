@@ -60,10 +60,13 @@ export default function analyze(lottery : Lottery, ignore : number[] = []) {
         v.map(i => parseInt(i.toString())).filter((_, k) => !ignore.find(i => i === k))
     ));
 
+    const calcSum = sum(data);
+
     writeAnalytic(lottery, {
         ones:       occurences(ones(data)),
         tens:       occurences(tens(data)),
-        sums:       occurences(sum(data)),
+        sums:       occurences(calcSum),
+        mean:       occurences(calcSum.map(s => Math.round(s/data[0].length))),
         pairs:      occurences(pair(data)),
         primes:     occurences(primes(data)),
         quantity:   occurences(quantity(data)),

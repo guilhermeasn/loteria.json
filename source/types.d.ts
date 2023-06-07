@@ -23,6 +23,7 @@ export type Analytic = {
     ones       : Numerical;
     tens       : Numerical;
     sums       : Numerical;
+    mean       : Numerical;
     pairs      : Numerical;
     primes     : Numerical;
     quantity   : Numerical;

@@ -8,13 +8,13 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->767 => 22, 10, 29, 24, 16, 11, 04, Dezembro
  - **Dupla Sena**: <!--duplasena-->2.524 => 11, 25, 20, 34, 09, 10, 03, 15, 31, 29, 37, 17
- - **Federal**: <!--federal-->5.770 => 027085, 002721, 004841, 063080, 083889
- - **Lotofácil**: <!--lotofacil-->2.831 => 07, 25, 05, 17, 15, 03, 14, 11, 10, 16, 20, 19, 02, 13, 22
- - **Lotomania**: <!--lotomania-->2.477 => 31, 67, 80, 63, 76, 02, 92, 96, 75, 58, 83, 22, 34, 12, 72, 89, 98, 64, 06, 70
+ - **Federal**: <!--federal-->5.771 => 036337, 080175, 019655, 039395, 086998
+ - **Lotofácil**: <!--lotofacil-->2.832 => 23, 02, 01, 11, 15, 24, 14, 21, 16, 03, 22, 19, 05, 20, 06
+ - **Lotomania**: <!--lotomania-->2.478 => 05, 92, 94, 00, 67, 88, 74, 83, 07, 90, 11, 35, 50, 66, 37, 86, 87, 80, 58, 22
  - **+Milionária**: <!--maismilionaria-->54 => 21, 08, 39, 11, 38, 13, 06, 02
- - **Mega Sena**: <!--megasena-->2.598 => 07, 53, 14, 58, 60, 24
- - **Quina**: <!--quina-->6.168 => 02, 69, 42, 26, 50
- - **Super Sete**: <!--supersete-->402 => 7, 2, 4, 9, 0, 1, 1
+ - **Mega Sena**: <!--megasena-->2.599 => 43, 28, 34, 23, 60, 47
+ - **Quina**: <!--quina-->6.169 => 46, 58, 01, 20, 31
+ - **Super Sete**: <!--supersete-->403 => 0, 8, 7, 6, 0, 6, 1
  - **Timemania**: <!--timemania-->1.946 => 29, 54, 14, 58, 79, 21, 02, CEARA/CE
  <!-- - **Loteca**: 0 -->
 

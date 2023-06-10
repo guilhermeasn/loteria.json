@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->767 => 22, 10, 29, 24, 16, 11, 04, Dezembro
- - **Dupla Sena**: <!--duplasena-->2.524 => 11, 25, 20, 34, 09, 10, 03, 15, 31, 29, 37, 17
+ - **Dia de Sorte**: <!--diadesorte-->768 => 13, 29, 18, 24, 27, 02, 17, Abril
+ - **Dupla Sena**: <!--duplasena-->2.525 => 15, 22, 30, 19, 14, 09, 45, 41, 44, 46, 43, 28
  - **Federal**: <!--federal-->5.771 => 036337, 080175, 019655, 039395, 086998
- - **Lotofácil**: <!--lotofacil-->2.832 => 23, 02, 01, 11, 15, 24, 14, 21, 16, 03, 22, 19, 05, 20, 06
- - **Lotomania**: <!--lotomania-->2.478 => 05, 92, 94, 00, 67, 88, 74, 83, 07, 90, 11, 35, 50, 66, 37, 86, 87, 80, 58, 22
+ - **Lotofácil**: <!--lotofacil-->2.833 => 06, 05, 14, 04, 18, 23, 16, 22, 24, 11, 02, 19, 13, 25, 03
+ - **Lotomania**: <!--lotomania-->2.479 => 90, 65, 13, 31, 59, 64, 62, 60, 82, 76, 61, 45, 18, 26, 58, 57, 89, 73, 44, 88
  - **+Milionária**: <!--maismilionaria-->54 => 21, 08, 39, 11, 38, 13, 06, 02
  - **Mega Sena**: <!--megasena-->2.599 => 43, 28, 34, 23, 60, 47
- - **Quina**: <!--quina-->6.169 => 46, 58, 01, 20, 31
- - **Super Sete**: <!--supersete-->403 => 0, 8, 7, 6, 0, 6, 1
- - **Timemania**: <!--timemania-->1.946 => 29, 54, 14, 58, 79, 21, 02, CEARA/CE
+ - **Quina**: <!--quina-->6.170 => 56, 70, 65, 50, 32
+ - **Super Sete**: <!--supersete-->404 => 0, 3, 4, 9, 2, 3, 9
+ - **Timemania**: <!--timemania-->1.947 => 49, 50, 25, 74, 19, 05, 45, SAOBENTO/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

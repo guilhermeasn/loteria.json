@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->770 => 28, 08, 29, 27, 12, 30, 15, Outubro
- - **Dupla Sena**: <!--duplasena-->2.527 => 41, 08, 12, 23, 36, 13, 32, 28, 04, 16, 29, 17
+ - **Dia de Sorte**: <!--diadesorte-->771 => 26, 27, 20, 13, 28, 19, 06, Fevereiro
+ - **Dupla Sena**: <!--duplasena-->2.528 => 50, 07, 32, 49, 11, 19, 28, 33, 20, 45, 48, 35
  - **Federal**: <!--federal-->5.773 => 009084, 079527, 056204, 007309, 016992
- - **Lotofácil**: <!--lotofacil-->2.837 => 10, 01, 22, 18, 24, 08, 05, 21, 20, 25, 06, 12, 17, 19, 02
+ - **Lotofácil**: <!--lotofacil-->2.838 => 13, 12, 11, 23, 15, 06, 03, 21, 16, 05, 10, 07, 08, 04, 25
  - **Lotomania**: <!--lotomania-->2.481 => 05, 18, 37, 08, 31, 56, 28, 60, 92, 75, 47, 55, 44, 52, 89, 32, 62, 78, 40, 21
  - **+Milionária**: <!--maismilionaria-->55 => 36, 25, 50, 40, 17, 46, 05, 01
  - **Mega Sena**: <!--megasena-->2.601 => 40, 08, 34, 03, 44, 55
  - **Quina**: <!--quina-->6.171 => 33, 78, 19, 61, 52
  - **Super Sete**: <!--supersete-->406 => 6, 2, 6, 5, 5, 9, 4
- - **Timemania**: <!--timemania-->1.949 => 46, 39, 80, 68, 10, 41, 61, CRB/AL
+ - **Timemania**: <!--timemania-->1.950 => 25, 51, 67, 44, 15, 09, 39, OESTE/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

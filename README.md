@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->772 => 27, 07, 10, 26, 17, 02, 09, Junho
  - **Dupla Sena**: <!--duplasena-->2.529 => 04, 44, 01, 49, 18, 43, 37, 01, 44, 16, 27, 41
  - **Federal**: <!--federal-->5.774 => 077129, 074899, 081190, 062639, 066177
- - **Lotofácil**: <!--lotofacil-->2.840 => 05, 11, 20, 10, 22, 24, 01, 07, 13, 25, 06, 16, 14, 02, 04
- - **Lotomania**: <!--lotomania-->2.482 => 90, 64, 33, 25, 13, 11, 87, 41, 83, 00, 78, 28, 63, 42, 31, 34, 17, 81, 39, 32
+ - **Lotofácil**: <!--lotofacil-->2.841 => 05, 23, 09, 03, 08, 18, 07, 14, 20, 19, 06, 25, 21, 24, 17
+ - **Lotomania**: <!--lotomania-->2.483 => 70, 74, 76, 69, 41, 14, 59, 02, 55, 90, 98, 27, 68, 38, 81, 99, 19, 60, 67, 78
  - **+Milionária**: <!--maismilionaria-->56 => 46, 28, 14, 01, 27, 44, 03, 04
  - **Mega Sena**: <!--megasena-->2.602 => 32, 30, 46, 11, 16, 14
  - **Quina**: <!--quina-->6.171 => 33, 78, 19, 61, 52
- - **Super Sete**: <!--supersete-->407 => 3, 6, 8, 3, 9, 2, 7
+ - **Super Sete**: <!--supersete-->408 => 9, 4, 4, 1, 4, 2, 3
  - **Timemania**: <!--timemania-->1.951 => 80, 43, 58, 15, 37, 31, 25, CEARA/CE
  <!-- - **Loteca**: 0 -->
 

@@ -8,13 +8,13 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->773 => 26, 12, 08, 22, 27, 11, 07, Maio
  - **Dupla Sena**: <!--duplasena-->2.530 => 20, 27, 36, 28, 34, 33, 18, 09, 02, 39, 40, 06
- - **Federal**: <!--federal-->5.774 => 077129, 074899, 081190, 062639, 066177
- - **Lotofácil**: <!--lotofacil-->2.842 => 18, 10, 03, 21, 08, 20, 06, 22, 24, 25, 17, 12, 07, 13, 11
- - **Lotomania**: <!--lotomania-->2.483 => 70, 74, 76, 69, 41, 14, 59, 02, 55, 90, 98, 27, 68, 38, 81, 99, 19, 60, 67, 78
+ - **Federal**: <!--federal-->5.775 => 027666, 090064, 048336, 093046, 015235
+ - **Lotofácil**: <!--lotofacil-->2.843 => 09, 10, 24, 02, 20, 21, 23, 18, 07, 22, 12, 04, 25, 13, 16
+ - **Lotomania**: <!--lotomania-->2.484 => 52, 82, 95, 21, 19, 40, 65, 09, 13, 06, 51, 18, 24, 54, 56, 86, 41, 79, 02, 53
  - **+Milionária**: <!--maismilionaria-->56 => 46, 28, 14, 01, 27, 44, 03, 04
- - **Mega Sena**: <!--megasena-->2.602 => 32, 30, 46, 11, 16, 14
+ - **Mega Sena**: <!--megasena-->2.603 => 03, 56, 29, 13, 52, 07
  - **Quina**: <!--quina-->6.171 => 33, 78, 19, 61, 52
- - **Super Sete**: <!--supersete-->408 => 9, 4, 4, 1, 4, 2, 3
+ - **Super Sete**: <!--supersete-->409 => 1, 5, 5, 2, 0, 1, 7
  - **Timemania**: <!--timemania-->1.952 => 21, 15, 43, 09, 61, 07, 79, GREMIO/RS
  <!-- - **Loteca**: 0 -->
 

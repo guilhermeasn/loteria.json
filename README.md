@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->773 => 26, 12, 08, 22, 27, 11, 07, Maio
- - **Dupla Sena**: <!--duplasena-->2.530 => 20, 27, 36, 28, 34, 33, 18, 09, 02, 39, 40, 06
+ - **Dia de Sorte**: <!--diadesorte-->774 => 16, 19, 18, 27, 30, 04, 06, Maio
+ - **Dupla Sena**: <!--duplasena-->2.531 => 39, 33, 31, 05, 07, 46, 45, 23, 21, 31, 26, 46
  - **Federal**: <!--federal-->5.775 => 027666, 090064, 048336, 093046, 015235
- - **Lotofácil**: <!--lotofacil-->2.843 => 09, 10, 24, 02, 20, 21, 23, 18, 07, 22, 12, 04, 25, 13, 16
+ - **Lotofácil**: <!--lotofacil-->2.844 => 10, 07, 25, 22, 12, 06, 05, 04, 23, 11, 14, 13, 17, 21, 24
  - **Lotomania**: <!--lotomania-->2.484 => 52, 82, 95, 21, 19, 40, 65, 09, 13, 06, 51, 18, 24, 54, 56, 86, 41, 79, 02, 53
  - **+Milionária**: <!--maismilionaria-->56 => 46, 28, 14, 01, 27, 44, 03, 04
  - **Mega Sena**: <!--megasena-->2.603 => 03, 56, 29, 13, 52, 07
  - **Quina**: <!--quina-->6.171 => 33, 78, 19, 61, 52
  - **Super Sete**: <!--supersete-->409 => 1, 5, 5, 2, 0, 1, 7
- - **Timemania**: <!--timemania-->1.952 => 21, 15, 43, 09, 61, 07, 79, GREMIO/RS
+ - **Timemania**: <!--timemania-->1.953 => 80, 65, 05, 18, 35, 38, 07, AMERICA/MG
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

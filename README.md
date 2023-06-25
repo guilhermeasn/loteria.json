@@ -8,12 +8,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->774 => 16, 19, 18, 27, 30, 04, 06, Maio
  - **Dupla Sena**: <!--duplasena-->2.531 => 39, 33, 31, 05, 07, 46, 45, 23, 21, 31, 26, 46
- - **Federal**: <!--federal-->5.775 => 027666, 090064, 048336, 093046, 015235
+ - **Federal**: <!--federal-->5.776 => 051399, 012763, 004489, 051606, 010814
  - **Lotofácil**: <!--lotofacil-->2.845 => 15, 19, 24, 01, 08, 11, 12, 02, 10, 07, 18, 20, 05, 17, 23
  - **Lotomania**: <!--lotomania-->2.485 => 12, 92, 43, 85, 05, 66, 07, 42, 79, 11, 06, 82, 84, 89, 44, 23, 76, 86, 74, 02
- - **+Milionária**: <!--maismilionaria-->56 => 46, 28, 14, 01, 27, 44, 03, 04
- - **Mega Sena**: <!--megasena-->2.603 => 03, 56, 29, 13, 52, 07
- - **Quina**: <!--quina-->6.171 => 33, 78, 19, 61, 52
+ - **+Milionária**: <!--maismilionaria-->57 => 26, 44, 16, 08, 40, 50, 02, 06
+ - **Mega Sena**: <!--megasena-->2.604 => 19, 16, 17, 22, 46, 57
+ - **Quina**: <!--quina-->6.172 => 70, 12, 47, 45, 13
  - **Super Sete**: <!--supersete-->410 => 7, 9, 0, 5, 2, 2, 1
  - **Timemania**: <!--timemania-->1.953 => 80, 65, 05, 18, 35, 38, 07, AMERICA/MG
  <!-- - **Loteca**: 0 -->

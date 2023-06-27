@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->775 => 21, 30, 08, 24, 14, 19, 17, Dezembro
  - **Dupla Sena**: <!--duplasena-->2.532 => 08, 24, 40, 25, 48, 28, 32, 03, 23, 18, 14, 48
  - **Federal**: <!--federal-->5.776 => 051399, 012763, 004489, 051606, 010814
- - **Lotofácil**: <!--lotofacil-->2.846 => 15, 24, 10, 12, 08, 23, 09, 19, 06, 20, 17, 21, 04, 13, 14
- - **Lotomania**: <!--lotomania-->2.485 => 12, 92, 43, 85, 05, 66, 07, 42, 79, 11, 06, 82, 84, 89, 44, 23, 76, 86, 74, 02
+ - **Lotofácil**: <!--lotofacil-->2.847 => 21, 10, 22, 09, 15, 05, 02, 24, 18, 13, 04, 08, 12, 06, 14
+ - **Lotomania**: <!--lotomania-->2.486 => 97, 33, 52, 94, 72, 48, 06, 40, 93, 28, 73, 45, 85, 79, 67, 46, 98, 16, 17, 13
  - **+Milionária**: <!--maismilionaria-->57 => 26, 44, 16, 08, 40, 50, 02, 06
  - **Mega Sena**: <!--megasena-->2.604 => 19, 16, 17, 22, 46, 57
- - **Quina**: <!--quina-->6.172 => 70, 12, 47, 45, 13
- - **Super Sete**: <!--supersete-->410 => 7, 9, 0, 5, 2, 2, 1
+ - **Quina**: <!--quina-->6.173 => 59, 17, 61, 76, 57
+ - **Super Sete**: <!--supersete-->411 => 9, 5, 5, 2, 5, 2, 0
  - **Timemania**: <!--timemania-->1.954 => 30, 52, 53, 44, 37, 16, 24, JACUIPENSE/BA
  <!-- - **Loteca**: 0 -->
 

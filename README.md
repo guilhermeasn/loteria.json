@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->775 => 21, 30, 08, 24, 14, 19, 17, Dezembro
- - **Dupla Sena**: <!--duplasena-->2.532 => 08, 24, 40, 25, 48, 28, 32, 03, 23, 18, 14, 48
+ - **Dia de Sorte**: <!--diadesorte-->776 => 20, 11, 16, 17, 18, 31, 13, Junho
+ - **Dupla Sena**: <!--duplasena-->2.533 => 18, 29, 12, 11, 44, 02, 48, 42, 35, 50, 20, 06
  - **Federal**: <!--federal-->5.776 => 051399, 012763, 004489, 051606, 010814
- - **Lotofácil**: <!--lotofacil-->2.847 => 21, 10, 22, 09, 15, 05, 02, 24, 18, 13, 04, 08, 12, 06, 14
+ - **Lotofácil**: <!--lotofacil-->2.848 => 13, 07, 19, 23, 02, 06, 25, 04, 01, 16, 11, 12, 17, 09, 24
  - **Lotomania**: <!--lotomania-->2.486 => 97, 33, 52, 94, 72, 48, 06, 40, 93, 28, 73, 45, 85, 79, 67, 46, 98, 16, 17, 13
  - **+Milionária**: <!--maismilionaria-->57 => 26, 44, 16, 08, 40, 50, 02, 06
- - **Mega Sena**: <!--megasena-->2.604 => 19, 16, 17, 22, 46, 57
- - **Quina**: <!--quina-->6.173 => 59, 17, 61, 76, 57
+ - **Mega Sena**: <!--megasena-->2.605 => 05, 54, 35, 46, 11, 26
+ - **Quina**: <!--quina-->6.174 => 30, 51, 46, 23, 56
  - **Super Sete**: <!--supersete-->411 => 9, 5, 5, 2, 5, 2, 0
- - **Timemania**: <!--timemania-->1.954 => 30, 52, 53, 44, 37, 16, 24, JACUIPENSE/BA
+ - **Timemania**: <!--timemania-->1.955 => 17, 12, 57, 18, 59, 01, 77, BOTAFOGO/RJ
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

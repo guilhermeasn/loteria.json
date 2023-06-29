@@ -8,13 +8,13 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->776 => 20, 11, 16, 17, 18, 31, 13, Junho
  - **Dupla Sena**: <!--duplasena-->2.533 => 18, 29, 12, 11, 44, 02, 48, 42, 35, 50, 20, 06
- - **Federal**: <!--federal-->5.776 => 051399, 012763, 004489, 051606, 010814
- - **Lotofácil**: <!--lotofacil-->2.848 => 13, 07, 19, 23, 02, 06, 25, 04, 01, 16, 11, 12, 17, 09, 24
- - **Lotomania**: <!--lotomania-->2.486 => 97, 33, 52, 94, 72, 48, 06, 40, 93, 28, 73, 45, 85, 79, 67, 46, 98, 16, 17, 13
+ - **Federal**: <!--federal-->5.777 => 095554, 088828, 020790, 022562, 060445
+ - **Lotofácil**: <!--lotofacil-->2.849 => 12, 20, 10, 06, 01, 16, 19, 25, 21, 15, 11, 18, 24, 09, 02
+ - **Lotomania**: <!--lotomania-->2.487 => 65, 76, 25, 91, 90, 08, 00, 02, 95, 31, 48, 18, 84, 23, 27, 62, 88, 14, 03, 83
  - **+Milionária**: <!--maismilionaria-->57 => 26, 44, 16, 08, 40, 50, 02, 06
  - **Mega Sena**: <!--megasena-->2.605 => 05, 54, 35, 46, 11, 26
- - **Quina**: <!--quina-->6.174 => 30, 51, 46, 23, 56
- - **Super Sete**: <!--supersete-->411 => 9, 5, 5, 2, 5, 2, 0
+ - **Quina**: <!--quina-->6.175 => 79, 73, 54, 75, 16
+ - **Super Sete**: <!--supersete-->412 => 2, 1, 3, 6, 6, 7, 7
  - **Timemania**: <!--timemania-->1.955 => 17, 12, 57, 18, 59, 01, 77, BOTAFOGO/RJ
  <!-- - **Loteca**: 0 -->
 

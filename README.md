@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->777 => 12, 31, 30, 14, 02, 25, 05, Fevereiro
  - **Dupla Sena**: <!--duplasena-->2.534 => 47, 46, 41, 07, 15, 29, 48, 10, 39, 18, 16, 19
  - **Federal**: <!--federal-->5.777 => 095554, 088828, 020790, 022562, 060445
- - **Lotofácil**: <!--lotofacil-->2.850 => 14, 09, 24, 16, 02, 11, 20, 06, 19, 01, 15, 23, 22, 12, 18
- - **Lotomania**: <!--lotomania-->2.487 => 65, 76, 25, 91, 90, 08, 00, 02, 95, 31, 48, 18, 84, 23, 27, 62, 88, 14, 03, 83
+ - **Lotofácil**: <!--lotofacil-->2.851 => 01, 22, 16, 20, 19, 25, 21, 15, 09, 06, 03, 10, 12, 08, 05
+ - **Lotomania**: <!--lotomania-->2.488 => 51, 19, 73, 20, 62, 27, 63, 09, 95, 81, 01, 02, 54, 59, 25, 56, 99, 67, 61, 90
  - **+Milionária**: <!--maismilionaria-->57 => 26, 44, 16, 08, 40, 50, 02, 06
  - **Mega Sena**: <!--megasena-->2.606 => 32, 45, 49, 16, 10, 02
- - **Quina**: <!--quina-->6.176 => 47, 09, 57, 56, 12
- - **Super Sete**: <!--supersete-->412 => 2, 1, 3, 6, 6, 7, 7
+ - **Quina**: <!--quina-->6.177 => 38, 25, 32, 36, 23
+ - **Super Sete**: <!--supersete-->413 => 9, 2, 3, 6, 8, 6, 8
  - **Timemania**: <!--timemania-->1.956 => 22, 63, 28, 33, 52, 37, 48, BOTAFOGO/RJ
  <!-- - **Loteca**: 0 -->
 

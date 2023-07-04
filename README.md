@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->778 => 06, 30, 10, 16, 02, 11, 09, Dezembro
  - **Dupla Sena**: <!--duplasena-->2.535 => 47, 22, 46, 13, 10, 43, 25, 04, 10, 13, 38, 28
  - **Federal**: <!--federal-->5.778 => 049105, 010599, 085524, 033568, 013738
- - **Lotofácil**: <!--lotofacil-->2.852 => 19, 09, 24, 02, 22, 10, 15, 01, 12, 04, 13, 17, 08, 06, 14
- - **Lotomania**: <!--lotomania-->2.488 => 51, 19, 73, 20, 62, 27, 63, 09, 95, 81, 01, 02, 54, 59, 25, 56, 99, 67, 61, 90
+ - **Lotofácil**: <!--lotofacil-->2.853 => 09, 24, 14, 04, 03, 02, 01, 11, 05, 22, 17, 13, 12, 21, 25
+ - **Lotomania**: <!--lotomania-->2.489 => 46, 04, 66, 87, 94, 53, 07, 77, 45, 76, 14, 93, 38, 37, 41, 22, 78, 81, 85, 21
  - **+Milionária**: <!--maismilionaria-->58 => 03, 26, 31, 18, 21, 28, 05, 03
  - **Mega Sena**: <!--megasena-->2.607 => 57, 25, 11, 60, 07, 51
- - **Quina**: <!--quina-->6.178 => 15, 03, 69, 40, 78
- - **Super Sete**: <!--supersete-->413 => 9, 2, 3, 6, 8, 6, 8
+ - **Quina**: <!--quina-->6.179 => 31, 66, 06, 23, 26
+ - **Super Sete**: <!--supersete-->414 => 5, 3, 6, 4, 9, 8, 7
  - **Timemania**: <!--timemania-->1.957 => 05, 40, 73, 15, 79, 64, 50, GOIAS/GO
  <!-- - **Loteca**: 0 -->
 

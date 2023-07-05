@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->778 => 06, 30, 10, 16, 02, 11, 09, Dezembro
- - **Dupla Sena**: <!--duplasena-->2.535 => 47, 22, 46, 13, 10, 43, 25, 04, 10, 13, 38, 28
+ - **Dia de Sorte**: <!--diadesorte-->779 => 21, 22, 14, 16, 31, 26, 29, Novembro
+ - **Dupla Sena**: <!--duplasena-->2.536 => 22, 16, 15, 31, 37, 45, 09, 10, 03, 18, 13, 20
  - **Federal**: <!--federal-->5.778 => 049105, 010599, 085524, 033568, 013738
- - **Lotofácil**: <!--lotofacil-->2.853 => 09, 24, 14, 04, 03, 02, 01, 11, 05, 22, 17, 13, 12, 21, 25
+ - **Lotofácil**: <!--lotofacil-->2.854 => 07, 14, 10, 05, 19, 09, 20, 01, 12, 23, 25, 08, 17, 03, 15
  - **Lotomania**: <!--lotomania-->2.489 => 46, 04, 66, 87, 94, 53, 07, 77, 45, 76, 14, 93, 38, 37, 41, 22, 78, 81, 85, 21
  - **+Milionária**: <!--maismilionaria-->58 => 03, 26, 31, 18, 21, 28, 05, 03
  - **Mega Sena**: <!--megasena-->2.607 => 57, 25, 11, 60, 07, 51
- - **Quina**: <!--quina-->6.179 => 31, 66, 06, 23, 26
+ - **Quina**: <!--quina-->6.180 => 70, 51, 60, 24, 08
  - **Super Sete**: <!--supersete-->414 => 5, 3, 6, 4, 9, 8, 7
- - **Timemania**: <!--timemania-->1.957 => 05, 40, 73, 15, 79, 64, 50, GOIAS/GO
+ - **Timemania**: <!--timemania-->1.958 => 59, 08, 13, 49, 35, 14, 29, SAORAIMUNDO/RR
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

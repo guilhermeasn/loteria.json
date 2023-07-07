@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->779 => 21, 22, 14, 16, 31, 26, 29, Novembro
- - **Dupla Sena**: <!--duplasena-->2.536 => 22, 16, 15, 31, 37, 45, 09, 10, 03, 18, 13, 20
+ - **Dia de Sorte**: <!--diadesorte-->780 => 15, 03, 11, 19, 27, 08, 29, Novembro
+ - **Dupla Sena**: <!--duplasena-->2.537 => 41, 37, 30, 47, 18, 32, 14, 15, 29, 50, 03, 22
  - **Federal**: <!--federal-->5.779 => 078866, 055746, 083144, 090186, 042792
- - **Lotofácil**: <!--lotofacil-->2.855 => 23, 19, 24, 09, 07, 10, 01, 02, 16, 17, 04, 08, 03, 21, 22
+ - **Lotofácil**: <!--lotofacil-->2.856 => 04, 24, 02, 01, 12, 23, 05, 22, 18, 25, 03, 09, 20, 07, 15
  - **Lotomania**: <!--lotomania-->2.490 => 45, 77, 52, 23, 35, 92, 90, 13, 42, 00, 79, 81, 40, 02, 31, 28, 10, 64, 88, 37
  - **+Milionária**: <!--maismilionaria-->58 => 03, 26, 31, 18, 21, 28, 05, 03
  - **Mega Sena**: <!--megasena-->2.608 => 07, 13, 29, 17, 52, 24
- - **Quina**: <!--quina-->6.181 => 60, 18, 30, 14, 51
+ - **Quina**: <!--quina-->6.182 => 25, 44, 53, 61, 41
  - **Super Sete**: <!--supersete-->415 => 9, 3, 4, 0, 2, 7, 3
- - **Timemania**: <!--timemania-->1.958 => 59, 08, 13, 49, 35, 14, 29, SAORAIMUNDO/RR
+ - **Timemania**: <!--timemania-->1.959 => 61, 65, 50, 72, 45, 78, 17, VASCODAGAMA/RJ
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

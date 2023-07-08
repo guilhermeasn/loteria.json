@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->780 => 15, 03, 11, 19, 27, 08, 29, Novembro
  - **Dupla Sena**: <!--duplasena-->2.537 => 41, 37, 30, 47, 18, 32, 14, 15, 29, 50, 03, 22
  - **Federal**: <!--federal-->5.779 => 078866, 055746, 083144, 090186, 042792
- - **Lotofácil**: <!--lotofacil-->2.856 => 04, 24, 02, 01, 12, 23, 05, 22, 18, 25, 03, 09, 20, 07, 15
- - **Lotomania**: <!--lotomania-->2.490 => 45, 77, 52, 23, 35, 92, 90, 13, 42, 00, 79, 81, 40, 02, 31, 28, 10, 64, 88, 37
+ - **Lotofácil**: <!--lotofacil-->2.857 => 03, 07, 06, 23, 08, 17, 22, 10, 15, 01, 04, 12, 19, 09, 16
+ - **Lotomania**: <!--lotomania-->2.491 => 32, 50, 14, 40, 99, 63, 82, 85, 70, 26, 00, 11, 61, 73, 78, 57, 20, 49, 15, 01
  - **+Milionária**: <!--maismilionaria-->58 => 03, 26, 31, 18, 21, 28, 05, 03
  - **Mega Sena**: <!--megasena-->2.608 => 07, 13, 29, 17, 52, 24
- - **Quina**: <!--quina-->6.182 => 25, 44, 53, 61, 41
- - **Super Sete**: <!--supersete-->415 => 9, 3, 4, 0, 2, 7, 3
+ - **Quina**: <!--quina-->6.183 => 34, 25, 37, 68, 32
+ - **Super Sete**: <!--supersete-->416 => 6, 7, 5, 3, 9, 9, 8
  - **Timemania**: <!--timemania-->1.959 => 61, 65, 50, 72, 45, 78, 17, VASCODAGAMA/RJ
  <!-- - **Loteca**: 0 -->
 

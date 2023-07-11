@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->781 => 14, 12, 18, 07, 05, 11, 13, Junho
  - **Dupla Sena**: <!--duplasena-->2.538 => 50, 25, 01, 41, 35, 28, 12, 42, 21, 44, 43, 14
  - **Federal**: <!--federal-->5.780 => 081120, 093393, 099514, 007413, 037069
- - **Lotofácil**: <!--lotofacil-->2.858 => 01, 11, 06, 20, 17, 13, 12, 05, 02, 19, 24, 15, 04, 22, 08
- - **Lotomania**: <!--lotomania-->2.491 => 32, 50, 14, 40, 99, 63, 82, 85, 70, 26, 00, 11, 61, 73, 78, 57, 20, 49, 15, 01
+ - **Lotofácil**: <!--lotofacil-->2.859 => 05, 25, 08, 01, 09, 17, 22, 12, 02, 11, 21, 14, 06, 18, 10
+ - **Lotomania**: <!--lotomania-->2.492 => 77, 48, 17, 15, 30, 97, 78, 01, 54, 37, 02, 12, 28, 86, 83, 27, 55, 10, 26, 71
  - **+Milionária**: <!--maismilionaria-->59 => 21, 16, 22, 34, 48, 09, 01, 02
  - **Mega Sena**: <!--megasena-->2.609 => 21, 35, 27, 60, 03, 32
- - **Quina**: <!--quina-->6.184 => 53, 01, 09, 27, 77
- - **Super Sete**: <!--supersete-->416 => 6, 7, 5, 3, 9, 9, 8
+ - **Quina**: <!--quina-->6.185 => 61, 51, 11, 77, 17
+ - **Super Sete**: <!--supersete-->417 => 0, 2, 2, 1, 1, 2, 9
  - **Timemania**: <!--timemania-->1.960 => 27, 07, 77, 19, 36, 74, 56, OESTE/SP
  <!-- - **Loteca**: 0 -->
 

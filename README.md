@@ -8,13 +8,13 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->782 => 05, 04, 21, 08, 11, 25, 09, Setembro
  - **Dupla Sena**: <!--duplasena-->2.539 => 02, 03, 19, 12, 50, 37, 48, 24, 03, 28, 06, 49
- - **Federal**: <!--federal-->5.780 => 081120, 093393, 099514, 007413, 037069
- - **Lotofácil**: <!--lotofacil-->2.860 => 12, 05, 13, 21, 08, 14, 01, 03, 18, 09, 15, 02, 20, 04, 16
- - **Lotomania**: <!--lotomania-->2.492 => 77, 48, 17, 15, 30, 97, 78, 01, 54, 37, 02, 12, 28, 86, 83, 27, 55, 10, 26, 71
+ - **Federal**: <!--federal-->5.781 => 035303, 017491, 023345, 036183, 097349
+ - **Lotofácil**: <!--lotofacil-->2.861 => 18, 16, 07, 19, 25, 12, 01, 20, 14, 10, 11, 17, 05, 21, 15
+ - **Lotomania**: <!--lotomania-->2.493 => 75, 74, 63, 69, 99, 26, 25, 92, 84, 28, 49, 89, 54, 46, 78, 12, 82, 88, 24, 15
  - **+Milionária**: <!--maismilionaria-->59 => 21, 16, 22, 34, 48, 09, 01, 02
- - **Mega Sena**: <!--megasena-->2.609 => 21, 35, 27, 60, 03, 32
- - **Quina**: <!--quina-->6.186 => 76, 29, 39, 43, 73
- - **Super Sete**: <!--supersete-->417 => 0, 2, 2, 1, 1, 2, 9
+ - **Mega Sena**: <!--megasena-->2.610 => 53, 55, 10, 23, 34, 57
+ - **Quina**: <!--quina-->6.187 => 53, 03, 37, 63, 41
+ - **Super Sete**: <!--supersete-->418 => 6, 6, 5, 2, 1, 9, 9
  - **Timemania**: <!--timemania-->1.961 => 20, 71, 74, 27, 11, 26, 78, CAMPINENSE/PB
  <!-- - **Loteca**: 0 -->
 

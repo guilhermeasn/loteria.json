@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->782 => 05, 04, 21, 08, 11, 25, 09, Setembro
- - **Dupla Sena**: <!--duplasena-->2.539 => 02, 03, 19, 12, 50, 37, 48, 24, 03, 28, 06, 49
+ - **Dia de Sorte**: <!--diadesorte-->783 => 04, 11, 19, 16, 21, 23, 12, Novembro
+ - **Dupla Sena**: <!--duplasena-->2.540 => 29, 24, 15, 05, 13, 19, 04, 37, 19, 11, 13, 39
  - **Federal**: <!--federal-->5.781 => 035303, 017491, 023345, 036183, 097349
- - **Lotofácil**: <!--lotofacil-->2.861 => 18, 16, 07, 19, 25, 12, 01, 20, 14, 10, 11, 17, 05, 21, 15
+ - **Lotofácil**: <!--lotofacil-->2.862 => 12, 20, 18, 08, 04, 13, 22, 02, 21, 23, 03, 16, 01, 09, 06
  - **Lotomania**: <!--lotomania-->2.493 => 75, 74, 63, 69, 99, 26, 25, 92, 84, 28, 49, 89, 54, 46, 78, 12, 82, 88, 24, 15
  - **+Milionária**: <!--maismilionaria-->59 => 21, 16, 22, 34, 48, 09, 01, 02
  - **Mega Sena**: <!--megasena-->2.610 => 53, 55, 10, 23, 34, 57
- - **Quina**: <!--quina-->6.187 => 53, 03, 37, 63, 41
+ - **Quina**: <!--quina-->6.188 => 17, 57, 47, 16, 44
  - **Super Sete**: <!--supersete-->418 => 6, 6, 5, 2, 1, 9, 9
- - **Timemania**: <!--timemania-->1.961 => 20, 71, 74, 27, 11, 26, 78, CAMPINENSE/PB
+ - **Timemania**: <!--timemania-->1.962 => 51, 12, 40, 53, 66, 49, 10, OPERARIO/PR
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

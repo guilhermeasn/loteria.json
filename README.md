@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->783 => 04, 11, 19, 16, 21, 23, 12, Novembro
  - **Dupla Sena**: <!--duplasena-->2.540 => 29, 24, 15, 05, 13, 19, 04, 37, 19, 11, 13, 39
  - **Federal**: <!--federal-->5.781 => 035303, 017491, 023345, 036183, 097349
- - **Lotofácil**: <!--lotofacil-->2.862 => 12, 20, 18, 08, 04, 13, 22, 02, 21, 23, 03, 16, 01, 09, 06
- - **Lotomania**: <!--lotomania-->2.493 => 75, 74, 63, 69, 99, 26, 25, 92, 84, 28, 49, 89, 54, 46, 78, 12, 82, 88, 24, 15
+ - **Lotofácil**: <!--lotofacil-->2.863 => 01, 11, 13, 20, 08, 06, 14, 21, 09, 22, 02, 25, 05, 07, 19
+ - **Lotomania**: <!--lotomania-->2.494 => 39, 36, 38, 64, 65, 57, 80, 47, 58, 50, 89, 86, 74, 77, 07, 53, 24, 56, 71, 81
  - **+Milionária**: <!--maismilionaria-->59 => 21, 16, 22, 34, 48, 09, 01, 02
  - **Mega Sena**: <!--megasena-->2.610 => 53, 55, 10, 23, 34, 57
- - **Quina**: <!--quina-->6.188 => 17, 57, 47, 16, 44
- - **Super Sete**: <!--supersete-->418 => 6, 6, 5, 2, 1, 9, 9
+ - **Quina**: <!--quina-->6.189 => 63, 36, 21, 26, 42
+ - **Super Sete**: <!--supersete-->419 => 7, 3, 2, 1, 6, 3, 1
  - **Timemania**: <!--timemania-->1.962 => 51, 12, 40, 53, 66, 49, 10, OPERARIO/PR
  <!-- - **Loteca**: 0 -->
 

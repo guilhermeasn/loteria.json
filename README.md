@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->784 => 04, 20, 14, 12, 02, 17, 11, Fevereiro
  - **Dupla Sena**: <!--duplasena-->2.541 => 36, 34, 20, 45, 50, 18, 27, 09, 44, 02, 39, 25
  - **Federal**: <!--federal-->5.782 => 032542, 070173, 095479, 032550, 084353
- - **Lotofácil**: <!--lotofacil-->2.864 => 19, 10, 15, 06, 03, 05, 07, 04, 09, 16, 17, 11, 23, 22, 08
- - **Lotomania**: <!--lotomania-->2.494 => 39, 36, 38, 64, 65, 57, 80, 47, 58, 50, 89, 86, 74, 77, 07, 53, 24, 56, 71, 81
+ - **Lotofácil**: <!--lotofacil-->2.865 => 12, 18, 14, 13, 09, 22, 21, 04, 20, 05, 23, 11, 15, 02, 06
+ - **Lotomania**: <!--lotomania-->2.495 => 98, 91, 19, 68, 78, 85, 49, 69, 23, 66, 79, 42, 95, 88, 84, 48, 63, 36, 97, 05
  - **+Milionária**: <!--maismilionaria-->60 => 04, 27, 41, 07, 17, 36, 05, 04
  - **Mega Sena**: <!--megasena-->2.611 => 25, 18, 04, 49, 21, 12
- - **Quina**: <!--quina-->6.190 => 07, 39, 21, 49, 78
- - **Super Sete**: <!--supersete-->419 => 7, 3, 2, 1, 6, 3, 1
+ - **Quina**: <!--quina-->6.191 => 60, 64, 63, 78, 10
+ - **Super Sete**: <!--supersete-->420 => 2, 8, 1, 5, 3, 2, 6
  - **Timemania**: <!--timemania-->1.963 => 24, 58, 49, 03, 56, 57, 54, PAYSANDU/PA
  <!-- - **Loteca**: 0 -->
 

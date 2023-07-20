@@ -8,13 +8,13 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->785 => 09, 16, 03, 15, 21, 20, 25, Março
  - **Dupla Sena**: <!--duplasena-->2.542 => 50, 45, 46, 39, 07, 20, 33, 11, 16, 07, 01, 49
- - **Federal**: <!--federal-->5.782 => 032542, 070173, 095479, 032550, 084353
- - **Lotofácil**: <!--lotofacil-->2.866 => 17, 22, 03, 11, 02, 14, 12, 21, 07, 01, 25, 24, 16, 09, 08
- - **Lotomania**: <!--lotomania-->2.495 => 98, 91, 19, 68, 78, 85, 49, 69, 23, 66, 79, 42, 95, 88, 84, 48, 63, 36, 97, 05
- - **+Milionária**: <!--maismilionaria-->60 => 04, 27, 41, 07, 17, 36, 05, 04
- - **Mega Sena**: <!--megasena-->2.611 => 25, 18, 04, 49, 21, 12
- - **Quina**: <!--quina-->6.192 => 71, 59, 27, 63, 60
- - **Super Sete**: <!--supersete-->420 => 2, 8, 1, 5, 3, 2, 6
+ - **Federal**: <!--federal-->5.783 => 021712, 081258, 013399, 060243, 050176
+ - **Lotofácil**: <!--lotofacil-->2.867 => 25, 07, 15, 21, 12, 20, 14, 13, 22, 18, 23, 10, 09, 05, 01
+ - **Lotomania**: <!--lotomania-->2.496 => 07, 61, 51, 38, 58, 83, 30, 97, 00, 52, 34, 43, 54, 35, 88, 57, 74, 69, 20, 82
+ - **+Milionária**: <!--maismilionaria-->61 => 23, 06, 14, 25, 45, 15, 04, 05
+ - **Mega Sena**: <!--megasena-->2.612 => 44, 50, 34, 27, 54, 20
+ - **Quina**: <!--quina-->6.193 => 71, 29, 49, 42, 73
+ - **Super Sete**: <!--supersete-->421 => 7, 8, 0, 0, 6, 9, 6
  - **Timemania**: <!--timemania-->1.964 => 56, 34, 23, 69, 71, 48, 09, FLORESTA/CE
  <!-- - **Loteca**: 0 -->
 

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->785 => 09, 16, 03, 15, 21, 20, 25, Março
- - **Dupla Sena**: <!--duplasena-->2.542 => 50, 45, 46, 39, 07, 20, 33, 11, 16, 07, 01, 49
+ - **Dia de Sorte**: <!--diadesorte-->786 => 08, 14, 01, 06, 21, 13, 17, Outubro
+ - **Dupla Sena**: <!--duplasena-->2.543 => 17, 50, 14, 27, 02, 10, 06, 10, 45, 31, 23, 27
  - **Federal**: <!--federal-->5.783 => 021712, 081258, 013399, 060243, 050176
- - **Lotofácil**: <!--lotofacil-->2.867 => 25, 07, 15, 21, 12, 20, 14, 13, 22, 18, 23, 10, 09, 05, 01
+ - **Lotofácil**: <!--lotofacil-->2.868 => 01, 10, 08, 24, 02, 03, 22, 09, 14, 17, 25, 07, 23, 04, 06
  - **Lotomania**: <!--lotomania-->2.496 => 07, 61, 51, 38, 58, 83, 30, 97, 00, 52, 34, 43, 54, 35, 88, 57, 74, 69, 20, 82
  - **+Milionária**: <!--maismilionaria-->61 => 23, 06, 14, 25, 45, 15, 04, 05
  - **Mega Sena**: <!--megasena-->2.612 => 44, 50, 34, 27, 54, 20
- - **Quina**: <!--quina-->6.193 => 71, 29, 49, 42, 73
+ - **Quina**: <!--quina-->6.194 => 26, 47, 36, 38, 52
  - **Super Sete**: <!--supersete-->421 => 7, 8, 0, 0, 6, 9, 6
- - **Timemania**: <!--timemania-->1.964 => 56, 34, 23, 69, 71, 48, 09, FLORESTA/CE
+ - **Timemania**: <!--timemania-->1.965 => 29, 01, 51, 66, 26, 14, 71, INTERNACIONAL/RS
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

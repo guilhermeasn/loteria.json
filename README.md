@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->786 => 08, 14, 01, 06, 21, 13, 17, Outubro
  - **Dupla Sena**: <!--duplasena-->2.543 => 17, 50, 14, 27, 02, 10, 06, 10, 45, 31, 23, 27
  - **Federal**: <!--federal-->5.783 => 021712, 081258, 013399, 060243, 050176
- - **Lotofácil**: <!--lotofacil-->2.868 => 01, 10, 08, 24, 02, 03, 22, 09, 14, 17, 25, 07, 23, 04, 06
- - **Lotomania**: <!--lotomania-->2.496 => 07, 61, 51, 38, 58, 83, 30, 97, 00, 52, 34, 43, 54, 35, 88, 57, 74, 69, 20, 82
+ - **Lotofácil**: <!--lotofacil-->2.869 => 03, 16, 25, 11, 01, 06, 23, 02, 19, 09, 04, 13, 10, 24, 07
+ - **Lotomania**: <!--lotomania-->2.497 => 25, 12, 17, 49, 82, 10, 16, 07, 76, 23, 32, 47, 45, 24, 03, 33, 83, 02, 34, 74
  - **+Milionária**: <!--maismilionaria-->61 => 23, 06, 14, 25, 45, 15, 04, 05
  - **Mega Sena**: <!--megasena-->2.612 => 44, 50, 34, 27, 54, 20
- - **Quina**: <!--quina-->6.194 => 26, 47, 36, 38, 52
- - **Super Sete**: <!--supersete-->421 => 7, 8, 0, 0, 6, 9, 6
+ - **Quina**: <!--quina-->6.195 => 42, 08, 21, 57, 20
+ - **Super Sete**: <!--supersete-->422 => 9, 2, 0, 3, 8, 2, 2
  - **Timemania**: <!--timemania-->1.965 => 29, 01, 51, 66, 26, 14, 71, INTERNACIONAL/RS
  <!-- - **Loteca**: 0 -->
 

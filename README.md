@@ -8,13 +8,13 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->788 => 11, 28, 03, 21, 27, 06, 23, Maio
  - **Dupla Sena**: <!--duplasena-->2.545 => 31, 35, 34, 32, 38, 09, 45, 30, 35, 17, 19, 33
- - **Federal**: <!--federal-->5.784 => 026034, 063921, 000044, 086133, 024856
- - **Lotofácil**: <!--lotofacil-->2.872 => 23, 06, 02, 25, 17, 07, 19, 14, 12, 21, 18, 13, 09, 22, 01
- - **Lotomania**: <!--lotomania-->2.498 => 68, 27, 08, 90, 89, 32, 63, 85, 61, 35, 13, 75, 62, 92, 94, 06, 04, 05, 39, 44
- - **+Milionária**: <!--maismilionaria-->62 => 29, 25, 47, 04, 35, 44, 05, 01
+ - **Federal**: <!--federal-->5.785 => 091855, 003844, 096369, 037032, 062811
+ - **Lotofácil**: <!--lotofacil-->2.873 => 24, 18, 22, 25, 15, 12, 10, 14, 21, 08, 16, 01, 23, 07, 06
+ - **Lotomania**: <!--lotomania-->2.499 => 02, 44, 89, 37, 90, 86, 80, 34, 06, 65, 05, 00, 28, 33, 68, 53, 21, 61, 92, 78
+ - **+Milionária**: <!--maismilionaria-->63 => 22, 46, 43, 28, 24, 32, 01, 03
  - **Mega Sena**: <!--megasena-->2.614 => 03, 25, 19, 14, 13, 08
- - **Quina**: <!--quina-->6.198 => 12, 05, 53, 42, 11
- - **Super Sete**: <!--supersete-->423 => 7, 3, 4, 0, 3, 7, 3
+ - **Quina**: <!--quina-->6.199 => 36, 68, 56, 15, 61
+ - **Super Sete**: <!--supersete-->424 => 5, 2, 4, 3, 2, 0, 0
  - **Timemania**: <!--timemania-->1.967 => 48, 79, 75, 63, 33, 60, 10, ATLETICO/GO
  <!-- - **Loteca**: 0 -->
 

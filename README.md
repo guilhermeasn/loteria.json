@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->788 => 11, 28, 03, 21, 27, 06, 23, Maio
- - **Dupla Sena**: <!--duplasena-->2.545 => 31, 35, 34, 32, 38, 09, 45, 30, 35, 17, 19, 33
+ - **Dia de Sorte**: <!--diadesorte-->789 => 11, 01, 03, 28, 19, 04, 15, Março
+ - **Dupla Sena**: <!--duplasena-->2.546 => 15, 08, 46, 14, 39, 31, 02, 41, 32, 07, 08, 23
  - **Federal**: <!--federal-->5.785 => 091855, 003844, 096369, 037032, 062811
- - **Lotofácil**: <!--lotofacil-->2.873 => 24, 18, 22, 25, 15, 12, 10, 14, 21, 08, 16, 01, 23, 07, 06
+ - **Lotofácil**: <!--lotofacil-->2.874 => 04, 03, 06, 20, 11, 10, 17, 12, 19, 09, 13, 18, 07, 01, 23
  - **Lotomania**: <!--lotomania-->2.499 => 02, 44, 89, 37, 90, 86, 80, 34, 06, 65, 05, 00, 28, 33, 68, 53, 21, 61, 92, 78
  - **+Milionária**: <!--maismilionaria-->63 => 22, 46, 43, 28, 24, 32, 01, 03
- - **Mega Sena**: <!--megasena-->2.614 => 03, 25, 19, 14, 13, 08
- - **Quina**: <!--quina-->6.199 => 36, 68, 56, 15, 61
+ - **Mega Sena**: <!--megasena-->2.615 => 41, 23, 59, 22, 07, 05
+ - **Quina**: <!--quina-->6.200 => 77, 14, 17, 34, 49
  - **Super Sete**: <!--supersete-->424 => 5, 2, 4, 3, 2, 0, 0
- - **Timemania**: <!--timemania-->1.967 => 48, 79, 75, 63, 33, 60, 10, ATLETICO/GO
+ - **Timemania**: <!--timemania-->1.968 => 26, 68, 76, 04, 49, 48, 47, CRUZEIRO/MG
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->789 => 11, 01, 03, 28, 19, 04, 15, Março
  - **Dupla Sena**: <!--duplasena-->2.546 => 15, 08, 46, 14, 39, 31, 02, 41, 32, 07, 08, 23
  - **Federal**: <!--federal-->5.785 => 091855, 003844, 096369, 037032, 062811
- - **Lotofácil**: <!--lotofacil-->2.874 => 04, 03, 06, 20, 11, 10, 17, 12, 19, 09, 13, 18, 07, 01, 23
- - **Lotomania**: <!--lotomania-->2.499 => 02, 44, 89, 37, 90, 86, 80, 34, 06, 65, 05, 00, 28, 33, 68, 53, 21, 61, 92, 78
+ - **Lotofácil**: <!--lotofacil-->2.875 => 15, 04, 25, 11, 14, 13, 12, 18, 01, 19, 06, 02, 08, 09, 07
+ - **Lotomania**: <!--lotomania-->2.500 => 56, 48, 93, 75, 73, 76, 74, 67, 55, 46, 27, 90, 24, 91, 41, 35, 57, 34, 51, 31
  - **+Milionária**: <!--maismilionaria-->63 => 22, 46, 43, 28, 24, 32, 01, 03
  - **Mega Sena**: <!--megasena-->2.615 => 41, 23, 59, 22, 07, 05
- - **Quina**: <!--quina-->6.200 => 77, 14, 17, 34, 49
- - **Super Sete**: <!--supersete-->424 => 5, 2, 4, 3, 2, 0, 0
+ - **Quina**: <!--quina-->6.201 => 21, 38, 49, 32, 37
+ - **Super Sete**: <!--supersete-->425 => 9, 7, 5, 8, 4, 1, 8
  - **Timemania**: <!--timemania-->1.968 => 26, 68, 76, 04, 49, 48, 47, CRUZEIRO/MG
  <!-- - **Loteca**: 0 -->
 

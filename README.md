@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->790 => 13, 18, 02, 24, 01, 07, 21, Julho
- - **Dupla Sena**: <!--duplasena-->2.547 => 16, 33, 12, 11, 01, 32, 10, 32, 41, 33, 15, 12
+ - **Dia de Sorte**: <!--diadesorte-->791 => 24, 17, 01, 03, 10, 23, 12, Novembro
+ - **Dupla Sena**: <!--duplasena-->2.548 => 12, 14, 32, 24, 50, 03, 31, 17, 49, 24, 42, 22
  - **Federal**: <!--federal-->5.786 => 090778, 073564, 049371, 052779, 041586
- - **Lotofácil**: <!--lotofacil-->2.877 => 19, 24, 14, 22, 13, 01, 03, 15, 17, 10, 09, 12, 07, 20, 25
+ - **Lotofácil**: <!--lotofacil-->2.878 => 11, 14, 13, 21, 07, 01, 15, 05, 12, 04, 24, 02, 22, 18, 20
  - **Lotomania**: <!--lotomania-->2.501 => 13, 83, 62, 29, 75, 79, 95, 45, 71, 90, 50, 40, 86, 67, 81, 28, 58, 02, 21, 19
  - **+Milionária**: <!--maismilionaria-->64 => 18, 49, 13, 33, 21, 42, 04, 01
  - **Mega Sena**: <!--megasena-->2.616 => 49, 38, 06, 23, 35, 16
- - **Quina**: <!--quina-->6.203 => 63, 46, 14, 01, 75
+ - **Quina**: <!--quina-->6.204 => 61, 80, 53, 28, 57
  - **Super Sete**: <!--supersete-->426 => 6, 6, 9, 9, 3, 1, 7
- - **Timemania**: <!--timemania-->1.969 => 70, 11, 49, 78, 18, 45, 66, GOIAS/GO
+ - **Timemania**: <!--timemania-->1.970 => 58, 80, 60, 01, 13, 57, 36, BOTAFOGO/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

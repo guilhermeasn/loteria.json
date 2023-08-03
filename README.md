@@ -8,13 +8,13 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->791 => 24, 17, 01, 03, 10, 23, 12, Novembro
  - **Dupla Sena**: <!--duplasena-->2.548 => 12, 14, 32, 24, 50, 03, 31, 17, 49, 24, 42, 22
- - **Federal**: <!--federal-->5.786 => 090778, 073564, 049371, 052779, 041586
- - **Lotofácil**: <!--lotofacil-->2.878 => 11, 14, 13, 21, 07, 01, 15, 05, 12, 04, 24, 02, 22, 18, 20
- - **Lotomania**: <!--lotomania-->2.501 => 13, 83, 62, 29, 75, 79, 95, 45, 71, 90, 50, 40, 86, 67, 81, 28, 58, 02, 21, 19
- - **+Milionária**: <!--maismilionaria-->64 => 18, 49, 13, 33, 21, 42, 04, 01
- - **Mega Sena**: <!--megasena-->2.616 => 49, 38, 06, 23, 35, 16
- - **Quina**: <!--quina-->6.204 => 61, 80, 53, 28, 57
- - **Super Sete**: <!--supersete-->426 => 6, 6, 9, 9, 3, 1, 7
+ - **Federal**: <!--federal-->5.787 => 019258, 054266, 069713, 008037, 068267
+ - **Lotofácil**: <!--lotofacil-->2.879 => 20, 12, 17, 16, 01, 19, 13, 25, 03, 06, 04, 24, 02, 10, 07
+ - **Lotomania**: <!--lotomania-->2.502 => 61, 28, 48, 93, 44, 45, 11, 53, 78, 90, 99, 77, 01, 91, 21, 89, 73, 79, 03, 25
+ - **+Milionária**: <!--maismilionaria-->65 => 43, 31, 15, 23, 11, 09, 02, 05
+ - **Mega Sena**: <!--megasena-->2.617 => 44, 42, 36, 03, 14, 43
+ - **Quina**: <!--quina-->6.205 => 09, 18, 67, 25, 08
+ - **Super Sete**: <!--supersete-->427 => 4, 4, 3, 4, 4, 2, 2
  - **Timemania**: <!--timemania-->1.970 => 58, 80, 60, 01, 13, 57, 36, BOTAFOGO/SP
  <!-- - **Loteca**: 0 -->
 

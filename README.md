@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->791 => 24, 17, 01, 03, 10, 23, 12, Novembro
- - **Dupla Sena**: <!--duplasena-->2.548 => 12, 14, 32, 24, 50, 03, 31, 17, 49, 24, 42, 22
+ - **Dia de Sorte**: <!--diadesorte-->792 => 11, 06, 13, 19, 23, 05, 17, Fevereiro
+ - **Dupla Sena**: <!--duplasena-->2.549 => 28, 42, 37, 49, 47, 27, 40, 16, 33, 50, 31, 05
  - **Federal**: <!--federal-->5.787 => 019258, 054266, 069713, 008037, 068267
- - **Lotofácil**: <!--lotofacil-->2.879 => 20, 12, 17, 16, 01, 19, 13, 25, 03, 06, 04, 24, 02, 10, 07
+ - **Lotofácil**: <!--lotofacil-->2.880 => 04, 08, 22, 12, 14, 15, 13, 07, 02, 01, 05, 21, 23, 09, 25
  - **Lotomania**: <!--lotomania-->2.502 => 61, 28, 48, 93, 44, 45, 11, 53, 78, 90, 99, 77, 01, 91, 21, 89, 73, 79, 03, 25
  - **+Milionária**: <!--maismilionaria-->65 => 43, 31, 15, 23, 11, 09, 02, 05
  - **Mega Sena**: <!--megasena-->2.617 => 44, 42, 36, 03, 14, 43
- - **Quina**: <!--quina-->6.205 => 09, 18, 67, 25, 08
+ - **Quina**: <!--quina-->6.206 => 53, 27, 72, 77, 26
  - **Super Sete**: <!--supersete-->427 => 4, 4, 3, 4, 4, 2, 2
- - **Timemania**: <!--timemania-->1.970 => 58, 80, 60, 01, 13, 57, 36, BOTAFOGO/SP
+ - **Timemania**: <!--timemania-->1.971 => 07, 77, 50, 03, 59, 57, 72, OPERARIO/PR
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

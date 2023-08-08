@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->793 => 04, 22, 05, 02, 20, 30, 29, Julho
  - **Dupla Sena**: <!--duplasena-->2.550 => 24, 42, 04, 45, 40, 15, 16, 15, 33, 37, 19, 34
  - **Federal**: <!--federal-->5.788 => 063104, 087466, 020161, 081255, 023675
- - **Lotofácil**: <!--lotofacil-->2.882 => 19, 23, 14, 20, 16, 09, 02, 24, 22, 17, 03, 07, 06, 10, 21
- - **Lotomania**: <!--lotomania-->2.503 => 53, 04, 45, 18, 24, 07, 28, 79, 99, 02, 37, 13, 54, 39, 23, 94, 76, 87, 14, 26
+ - **Lotofácil**: <!--lotofacil-->2.883 => 20, 15, 17, 09, 08, 25, 10, 05, 12, 11, 18, 07, 21, 19, 13
+ - **Lotomania**: <!--lotomania-->2.504 => 68, 39, 61, 11, 22, 34, 87, 94, 40, 59, 50, 25, 80, 47, 33, 57, 00, 63, 67, 60
  - **+Milionária**: <!--maismilionaria-->66 => 28, 17, 50, 46, 02, 20, 01, 02
  - **Mega Sena**: <!--megasena-->2.618 => 45, 17, 29, 35, 48, 06
- - **Quina**: <!--quina-->6.208 => 54, 79, 35, 08, 47
- - **Super Sete**: <!--supersete-->428 => 3, 4, 3, 2, 7, 9, 8
+ - **Quina**: <!--quina-->6.209 => 47, 46, 49, 64, 09
+ - **Super Sete**: <!--supersete-->429 => 5, 7, 4, 0, 5, 0, 9
  - **Timemania**: <!--timemania-->1.972 => 31, 34, 44, 47, 68, 13, 75, SAOBENTO/SP
  <!-- - **Loteca**: 0 -->
 

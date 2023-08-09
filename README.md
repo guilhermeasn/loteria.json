@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->793 => 04, 22, 05, 02, 20, 30, 29, Julho
- - **Dupla Sena**: <!--duplasena-->2.550 => 24, 42, 04, 45, 40, 15, 16, 15, 33, 37, 19, 34
+ - **Dia de Sorte**: <!--diadesorte-->794 => 21, 14, 07, 29, 25, 12, 15, Agosto
+ - **Dupla Sena**: <!--duplasena-->2.551 => 38, 39, 18, 14, 04, 25, 48, 19, 47, 17, 26, 44
  - **Federal**: <!--federal-->5.788 => 063104, 087466, 020161, 081255, 023675
- - **Lotofácil**: <!--lotofacil-->2.883 => 20, 15, 17, 09, 08, 25, 10, 05, 12, 11, 18, 07, 21, 19, 13
+ - **Lotofácil**: <!--lotofacil-->2.884 => 01, 06, 03, 12, 23, 22, 16, 20, 02, 18, 11, 21, 14, 10, 07
  - **Lotomania**: <!--lotomania-->2.504 => 68, 39, 61, 11, 22, 34, 87, 94, 40, 59, 50, 25, 80, 47, 33, 57, 00, 63, 67, 60
  - **+Milionária**: <!--maismilionaria-->66 => 28, 17, 50, 46, 02, 20, 01, 02
  - **Mega Sena**: <!--megasena-->2.618 => 45, 17, 29, 35, 48, 06
- - **Quina**: <!--quina-->6.209 => 47, 46, 49, 64, 09
+ - **Quina**: <!--quina-->6.210 => 59, 44, 14, 53, 21
  - **Super Sete**: <!--supersete-->429 => 5, 7, 4, 0, 5, 0, 9
- - **Timemania**: <!--timemania-->1.972 => 31, 34, 44, 47, 68, 13, 75, SAOBENTO/SP
+ - **Timemania**: <!--timemania-->1.973 => 25, 65, 43, 70, 32, 52, 28, PAYSANDU/PA
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -8,13 +8,13 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->794 => 21, 14, 07, 29, 25, 12, 15, Agosto
  - **Dupla Sena**: <!--duplasena-->2.551 => 38, 39, 18, 14, 04, 25, 48, 19, 47, 17, 26, 44
- - **Federal**: <!--federal-->5.788 => 063104, 087466, 020161, 081255, 023675
- - **Lotofácil**: <!--lotofacil-->2.884 => 01, 06, 03, 12, 23, 22, 16, 20, 02, 18, 11, 21, 14, 10, 07
- - **Lotomania**: <!--lotomania-->2.504 => 68, 39, 61, 11, 22, 34, 87, 94, 40, 59, 50, 25, 80, 47, 33, 57, 00, 63, 67, 60
- - **+Milionária**: <!--maismilionaria-->66 => 28, 17, 50, 46, 02, 20, 01, 02
- - **Mega Sena**: <!--megasena-->2.618 => 45, 17, 29, 35, 48, 06
- - **Quina**: <!--quina-->6.210 => 59, 44, 14, 53, 21
- - **Super Sete**: <!--supersete-->429 => 5, 7, 4, 0, 5, 0, 9
+ - **Federal**: <!--federal-->5.789 => 007263, 038381, 081687, 007434, 015500
+ - **Lotofácil**: <!--lotofacil-->2.885 => 24, 11, 22, 07, 14, 18, 03, 23, 19, 16, 10, 08, 02, 21, 17
+ - **Lotomania**: <!--lotomania-->2.505 => 01, 73, 71, 29, 03, 58, 50, 11, 10, 25, 18, 24, 44, 41, 96, 34, 14, 52, 16, 70
+ - **+Milionária**: <!--maismilionaria-->67 => 20, 10, 01, 08, 28, 39, 05, 04
+ - **Mega Sena**: <!--megasena-->2.619 => 41, 05, 50, 39, 44, 36
+ - **Quina**: <!--quina-->6.211 => 23, 34, 10, 01, 16
+ - **Super Sete**: <!--supersete-->430 => 4, 6, 4, 1, 8, 6, 7
  - **Timemania**: <!--timemania-->1.973 => 25, 65, 43, 70, 32, 52, 28, PAYSANDU/PA
  <!-- - **Loteca**: 0 -->
 

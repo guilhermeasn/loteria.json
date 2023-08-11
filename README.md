@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->794 => 21, 14, 07, 29, 25, 12, 15, Agosto
- - **Dupla Sena**: <!--duplasena-->2.551 => 38, 39, 18, 14, 04, 25, 48, 19, 47, 17, 26, 44
+ - **Dia de Sorte**: <!--diadesorte-->795 => 14, 19, 28, 17, 24, 15, 18, Junho
+ - **Dupla Sena**: <!--duplasena-->2.552 => 37, 28, 01, 08, 27, 33, 26, 13, 05, 45, 04, 11
  - **Federal**: <!--federal-->5.789 => 007263, 038381, 081687, 007434, 015500
- - **Lotofácil**: <!--lotofacil-->2.885 => 24, 11, 22, 07, 14, 18, 03, 23, 19, 16, 10, 08, 02, 21, 17
+ - **Lotofácil**: <!--lotofacil-->2.886 => 09, 17, 25, 19, 08, 01, 04, 24, 15, 07, 16, 05, 22, 13, 14
  - **Lotomania**: <!--lotomania-->2.505 => 01, 73, 71, 29, 03, 58, 50, 11, 10, 25, 18, 24, 44, 41, 96, 34, 14, 52, 16, 70
  - **+Milionária**: <!--maismilionaria-->67 => 20, 10, 01, 08, 28, 39, 05, 04
  - **Mega Sena**: <!--megasena-->2.619 => 41, 05, 50, 39, 44, 36
- - **Quina**: <!--quina-->6.211 => 23, 34, 10, 01, 16
+ - **Quina**: <!--quina-->6.212 => 35, 32, 38, 78, 55
  - **Super Sete**: <!--supersete-->430 => 4, 6, 4, 1, 8, 6, 7
- - **Timemania**: <!--timemania-->1.973 => 25, 65, 43, 70, 32, 52, 28, PAYSANDU/PA
+ - **Timemania**: <!--timemania-->1.974 => 33, 35, 58, 51, 52, 50, 06, VILANOVA/GO
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->795 => 14, 19, 28, 17, 24, 15, 18, Junho
  - **Dupla Sena**: <!--duplasena-->2.552 => 37, 28, 01, 08, 27, 33, 26, 13, 05, 45, 04, 11
  - **Federal**: <!--federal-->5.789 => 007263, 038381, 081687, 007434, 015500
- - **Lotofácil**: <!--lotofacil-->2.886 => 09, 17, 25, 19, 08, 01, 04, 24, 15, 07, 16, 05, 22, 13, 14
- - **Lotomania**: <!--lotomania-->2.505 => 01, 73, 71, 29, 03, 58, 50, 11, 10, 25, 18, 24, 44, 41, 96, 34, 14, 52, 16, 70
+ - **Lotofácil**: <!--lotofacil-->2.887 => 22, 19, 10, 09, 03, 20, 12, 11, 01, 17, 18, 24, 02, 07, 21
+ - **Lotomania**: <!--lotomania-->2.506 => 05, 52, 49, 30, 54, 86, 19, 16, 93, 77, 14, 43, 29, 57, 83, 53, 33, 98, 61, 50
  - **+Milionária**: <!--maismilionaria-->67 => 20, 10, 01, 08, 28, 39, 05, 04
  - **Mega Sena**: <!--megasena-->2.619 => 41, 05, 50, 39, 44, 36
- - **Quina**: <!--quina-->6.212 => 35, 32, 38, 78, 55
- - **Super Sete**: <!--supersete-->430 => 4, 6, 4, 1, 8, 6, 7
+ - **Quina**: <!--quina-->6.213 => 59, 26, 80, 70, 12
+ - **Super Sete**: <!--supersete-->431 => 3, 0, 7, 8, 6, 1, 3
  - **Timemania**: <!--timemania-->1.974 => 33, 35, 58, 51, 52, 50, 06, VILANOVA/GO
  <!-- - **Loteca**: 0 -->
 

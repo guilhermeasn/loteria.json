@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->796 => 21, 17, 01, 09, 05, 31, 20, Fevereiro
- - **Dupla Sena**: <!--duplasena-->2.553 => 08, 01, 13, 21, 17, 12, 25, 01, 16, 13, 34, 32
+ - **Dia de Sorte**: <!--diadesorte-->797 => 31, 13, 01, 09, 27, 18, 07, Abril
+ - **Dupla Sena**: <!--duplasena-->2.554 => 07, 01, 39, 45, 19, 21, 17, 48, 25, 19, 46, 37
  - **Federal**: <!--federal-->5.790 => 063443, 084251, 038973, 030938, 002575
- - **Lotofácil**: <!--lotofacil-->2.889 => 06, 08, 15, 07, 20, 16, 12, 18, 10, 04, 24, 23, 02, 14, 25
+ - **Lotofácil**: <!--lotofacil-->2.890 => 07, 21, 16, 04, 18, 23, 01, 06, 20, 15, 09, 12, 11, 19, 10
  - **Lotomania**: <!--lotomania-->2.507 => 57, 29, 53, 75, 89, 84, 50, 26, 35, 62, 87, 37, 98, 19, 05, 25, 10, 22, 11, 18
  - **+Milionária**: <!--maismilionaria-->68 => 15, 04, 41, 38, 24, 29, 03, 04
  - **Mega Sena**: <!--megasena-->2.620 => 26, 21, 13, 04, 06, 28
- - **Quina**: <!--quina-->6.215 => 54, 52, 73, 58, 14
+ - **Quina**: <!--quina-->6.216 => 62, 39, 41, 44, 53
  - **Super Sete**: <!--supersete-->432 => 7, 9, 8, 1, 7, 1, 4
- - **Timemania**: <!--timemania-->1.975 => 20, 64, 38, 09, 19, 61, 30, IMPERATRIZ/MA
+ - **Timemania**: <!--timemania-->1.976 => 09, 68, 65, 69, 18, 55, 40, CUIABA/MT
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

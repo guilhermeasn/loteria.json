@@ -8,13 +8,13 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->797 => 31, 13, 01, 09, 27, 18, 07, Abril
  - **Dupla Sena**: <!--duplasena-->2.554 => 07, 01, 39, 45, 19, 21, 17, 48, 25, 19, 46, 37
- - **Federal**: <!--federal-->5.790 => 063443, 084251, 038973, 030938, 002575
- - **Lotofácil**: <!--lotofacil-->2.890 => 07, 21, 16, 04, 18, 23, 01, 06, 20, 15, 09, 12, 11, 19, 10
- - **Lotomania**: <!--lotomania-->2.507 => 57, 29, 53, 75, 89, 84, 50, 26, 35, 62, 87, 37, 98, 19, 05, 25, 10, 22, 11, 18
- - **+Milionária**: <!--maismilionaria-->68 => 15, 04, 41, 38, 24, 29, 03, 04
- - **Mega Sena**: <!--megasena-->2.620 => 26, 21, 13, 04, 06, 28
- - **Quina**: <!--quina-->6.216 => 62, 39, 41, 44, 53
- - **Super Sete**: <!--supersete-->432 => 7, 9, 8, 1, 7, 1, 4
+ - **Federal**: <!--federal-->5.791 => 027413, 083852, 007676, 011686, 028897
+ - **Lotofácil**: <!--lotofacil-->2.891 => 13, 17, 24, 12, 05, 10, 02, 21, 20, 01, 11, 23, 18, 15, 06
+ - **Lotomania**: <!--lotomania-->2.508 => 11, 09, 51, 22, 58, 87, 20, 10, 92, 99, 00, 46, 80, 60, 77, 73, 44, 40, 71, 02
+ - **+Milionária**: <!--maismilionaria-->69 => 41, 46, 43, 02, 09, 44, 03, 05
+ - **Mega Sena**: <!--megasena-->2.621 => 14, 47, 09, 16, 42, 06
+ - **Quina**: <!--quina-->6.217 => 25, 12, 32, 67, 79
+ - **Super Sete**: <!--supersete-->433 => 8, 4, 9, 8, 8, 7, 6
  - **Timemania**: <!--timemania-->1.976 => 09, 68, 65, 69, 18, 55, 40, CUIABA/MT
  <!-- - **Loteca**: 0 -->
 

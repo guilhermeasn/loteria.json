@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->797 => 31, 13, 01, 09, 27, 18, 07, Abril
- - **Dupla Sena**: <!--duplasena-->2.554 => 07, 01, 39, 45, 19, 21, 17, 48, 25, 19, 46, 37
+ - **Dia de Sorte**: <!--diadesorte-->798 => 06, 24, 18, 01, 25, 21, 30, Maio
+ - **Dupla Sena**: <!--duplasena-->2.555 => 18, 34, 12, 05, 26, 45, 31, 03, 50, 22, 20, 46
  - **Federal**: <!--federal-->5.791 => 027413, 083852, 007676, 011686, 028897
- - **Lotofácil**: <!--lotofacil-->2.891 => 13, 17, 24, 12, 05, 10, 02, 21, 20, 01, 11, 23, 18, 15, 06
+ - **Lotofácil**: <!--lotofacil-->2.892 => 19, 10, 22, 16, 20, 06, 09, 14, 05, 04, 17, 23, 08, 21, 18
  - **Lotomania**: <!--lotomania-->2.508 => 11, 09, 51, 22, 58, 87, 20, 10, 92, 99, 00, 46, 80, 60, 77, 73, 44, 40, 71, 02
  - **+Milionária**: <!--maismilionaria-->69 => 41, 46, 43, 02, 09, 44, 03, 05
  - **Mega Sena**: <!--megasena-->2.621 => 14, 47, 09, 16, 42, 06
- - **Quina**: <!--quina-->6.217 => 25, 12, 32, 67, 79
+ - **Quina**: <!--quina-->6.218 => 37, 61, 56, 68, 49
  - **Super Sete**: <!--supersete-->433 => 8, 4, 9, 8, 8, 7, 6
- - **Timemania**: <!--timemania-->1.976 => 09, 68, 65, 69, 18, 55, 40, CUIABA/MT
+ - **Timemania**: <!--timemania-->1.977 => 31, 39, 59, 24, 44, 78, 34, PARANA/PR
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->798 => 06, 24, 18, 01, 25, 21, 30, Maio
- - **Dupla Sena**: <!--duplasena-->2.555 => 18, 34, 12, 05, 26, 45, 31, 03, 50, 22, 20, 46
- - **Federal**: <!--federal-->5.791 => 027413, 083852, 007676, 011686, 028897
- - **Lotofácil**: <!--lotofacil-->2.893 => 08, 20, 19, 21, 11, 17, 23, 04, 06, 01, 25, 24, 09, 05, 10
+ - **Dia de Sorte**: <!--diadesorte-->799 => 13, 26, 11, 20, 10, 22, 25, Agosto
+ - **Dupla Sena**: <!--duplasena-->2.556 => 24, 50, 41, 34, 25, 36, 33, 31, 38, 36, 32, 16
+ - **Federal**: <!--federal-->5.792 => 012593, 071579, 078893, 057682, 004383
+ - **Lotofácil**: <!--lotofacil-->2.894 => 14, 05, 02, 03, 01, 17, 06, 15, 07, 13, 20, 22, 23, 08, 04
  - **Lotomania**: <!--lotomania-->2.509 => 06, 05, 15, 52, 63, 37, 92, 60, 59, 27, 71, 89, 55, 67, 16, 62, 00, 23, 34, 76
- - **+Milionária**: <!--maismilionaria-->69 => 41, 46, 43, 02, 09, 44, 03, 05
- - **Mega Sena**: <!--megasena-->2.621 => 14, 47, 09, 16, 42, 06
- - **Quina**: <!--quina-->6.219 => 75, 17, 16, 47, 71
+ - **+Milionária**: <!--maismilionaria-->70 => 32, 16, 02, 37, 01, 39, 06, 03
+ - **Mega Sena**: <!--megasena-->2.622 => 24, 22, 50, 19, 60, 09
+ - **Quina**: <!--quina-->6.220 => 56, 34, 17, 27, 46
  - **Super Sete**: <!--supersete-->434 => 7, 1, 2, 9, 5, 0, 3
- - **Timemania**: <!--timemania-->1.977 => 31, 39, 59, 24, 44, 78, 34, PARANA/PR
+ - **Timemania**: <!--timemania-->1.978 => 74, 38, 53, 44, 39, 23, 27, BOAESPORTE/MG
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

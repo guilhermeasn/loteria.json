@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->800 => 11, 15, 08, 06, 10, 21, 28, Abril
+ - **Dia de Sorte**: <!--diadesorte-->801 => 01, 31, 14, 18, 23, 09, 24, Novembro
  - **Dupla Sena**: <!--duplasena-->2.558 => 22, 44, 45, 08, 09, 41, 13, 36, 04, 20, 35, 22
  - **Federal**: <!--federal-->5.793 => 058775, 067454, 029873, 039314, 012093
- - **Lotofácil**: <!--lotofacil-->2.897 => 11, 14, 12, 18, 19, 17, 25, 21, 24, 13, 10, 09, 07, 01, 23
+ - **Lotofácil**: <!--lotofacil-->2.898 => 06, 20, 16, 10, 18, 01, 14, 12, 15, 17, 22, 23, 09, 21, 24
  - **Lotomania**: <!--lotomania-->2.511 => 84, 55, 72, 74, 41, 94, 95, 63, 62, 00, 30, 19, 99, 04, 35, 85, 16, 83, 46, 24
  - **+Milionária**: <!--maismilionaria-->71 => 47, 04, 23, 14, 45, 38, 06, 04
- - **Mega Sena**: <!--megasena-->2.623 => 59, 35, 10, 15, 20, 37
- - **Quina**: <!--quina-->6.223 => 32, 30, 44, 75, 06
+ - **Mega Sena**: <!--megasena-->2.624 => 31, 58, 05, 52, 37, 47
+ - **Quina**: <!--quina-->6.224 => 23, 04, 52, 47, 66
  - **Super Sete**: <!--supersete-->436 => 6, 6, 1, 4, 4, 9, 7
- - **Timemania**: <!--timemania-->1.979 => 54, 73, 61, 29, 12, 23, 18, BRAGANTINO/SP
+ - **Timemania**: <!--timemania-->1.980 => 24, 47, 74, 44, 51, 21, 22, PALMEIRAS/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

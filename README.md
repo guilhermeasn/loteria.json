@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->801 => 01, 31, 14, 18, 23, 09, 24, Novembro
+ - **Dia de Sorte**: <!--diadesorte-->802 => 01, 10, 25, 09, 07, 30, 14, Março
  - **Dupla Sena**: <!--duplasena-->2.559 => 26, 32, 35, 06, 01, 15, 04, 07, 01, 40, 31, 03
- - **Federal**: <!--federal-->5.793 => 058775, 067454, 029873, 039314, 012093
+ - **Federal**: <!--federal-->5.794 => 058532, 049105, 075607, 068554, 068394
  - **Lotofácil**: <!--lotofacil-->2.899 => 15, 22, 03, 07, 13, 16, 08, 14, 19, 18, 05, 25, 10, 02, 17
  - **Lotomania**: <!--lotomania-->2.512 => 74, 84, 85, 50, 04, 45, 81, 92, 58, 29, 11, 89, 33, 91, 00, 83, 10, 67, 27, 49
- - **+Milionária**: <!--maismilionaria-->71 => 47, 04, 23, 14, 45, 38, 06, 04
- - **Mega Sena**: <!--megasena-->2.624 => 31, 58, 05, 52, 37, 47
- - **Quina**: <!--quina-->6.225 => 60, 52, 06, 49, 44
+ - **+Milionária**: <!--maismilionaria-->72 => 06, 41, 25, 35, 07, 48, 02, 06
+ - **Mega Sena**: <!--megasena-->2.625 => 10, 35, 09, 55, 58, 44
+ - **Quina**: <!--quina-->6.226 => 27, 04, 06, 62, 60
  - **Super Sete**: <!--supersete-->437 => 0, 1, 8, 3, 4, 5, 3
- - **Timemania**: <!--timemania-->1.980 => 24, 47, 74, 44, 51, 21, 22, PALMEIRAS/SP
+ - **Timemania**: <!--timemania-->1.981 => 35, 29, 12, 61, 31, 24, 41, LONDRINA/PR
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->802 => 01, 10, 25, 09, 07, 30, 14, Março
+ - **Dia de Sorte**: <!--diadesorte-->803 => 06, 22, 19, 23, 26, 24, 04, Julho
  - **Dupla Sena**: <!--duplasena-->2.560 => 18, 45, 30, 41, 06, 03, 34, 28, 49, 12, 45, 23
  - **Federal**: <!--federal-->5.794 => 058532, 049105, 075607, 068554, 068394
  - **Lotofácil**: <!--lotofacil-->2.899 => 15, 22, 03, 07, 13, 16, 08, 14, 19, 18, 05, 25, 10, 02, 17
  - **Lotomania**: <!--lotomania-->2.513 => 56, 64, 40, 38, 68, 36, 59, 99, 50, 79, 19, 28, 48, 05, 25, 24, 69, 87, 98, 06
  - **+Milionária**: <!--maismilionaria-->72 => 06, 41, 25, 35, 07, 48, 02, 06
- - **Mega Sena**: <!--megasena-->2.625 => 10, 35, 09, 55, 58, 44
- - **Quina**: <!--quina-->6.227 => 02, 68, 13, 27, 36
+ - **Mega Sena**: <!--megasena-->2.626 => 16, 13, 09, 01, 59, 52
+ - **Quina**: <!--quina-->6.228 => 13, 21, 79, 24, 60
  - **Super Sete**: <!--supersete-->438 => 5, 5, 3, 0, 2, 4, 7
- - **Timemania**: <!--timemania-->1.981 => 35, 29, 12, 61, 31, 24, 41, LONDRINA/PR
+ - **Timemania**: <!--timemania-->1.982 => 29, 22, 39, 21, 78, 14, 08, BOTAFOGO/RJ
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

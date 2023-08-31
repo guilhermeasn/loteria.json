@@ -7,14 +7,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->803 => 06, 22, 19, 23, 26, 24, 04, Julho
- - **Dupla Sena**: <!--duplasena-->2.560 => 18, 45, 30, 41, 06, 03, 34, 28, 49, 12, 45, 23
- - **Federal**: <!--federal-->5.794 => 058532, 049105, 075607, 068554, 068394
+ - **Dupla Sena**: <!--duplasena-->2.561 => 36, 37, 24, 04, 47, 26, 38, 22, 14, 09, 11, 16
+ - **Federal**: <!--federal-->5.795 => 032516, 025554, 053467, 087264, 094751
  - **Lotofácil**: <!--lotofacil-->2.899 => 15, 22, 03, 07, 13, 16, 08, 14, 19, 18, 05, 25, 10, 02, 17
- - **Lotomania**: <!--lotomania-->2.513 => 56, 64, 40, 38, 68, 36, 59, 99, 50, 79, 19, 28, 48, 05, 25, 24, 69, 87, 98, 06
- - **+Milionária**: <!--maismilionaria-->72 => 06, 41, 25, 35, 07, 48, 02, 06
+ - **Lotomania**: <!--lotomania-->2.514 => 28, 68, 58, 23, 12, 96, 92, 93, 83, 05, 47, 81, 07, 31, 56, 40, 20, 76, 69, 80
+ - **+Milionária**: <!--maismilionaria-->73 => 27, 40, 06, 41, 17, 31, 05, 02
  - **Mega Sena**: <!--megasena-->2.626 => 16, 13, 09, 01, 59, 52
- - **Quina**: <!--quina-->6.228 => 13, 21, 79, 24, 60
- - **Super Sete**: <!--supersete-->438 => 5, 5, 3, 0, 2, 4, 7
+ - **Quina**: <!--quina-->6.229 => 05, 06, 55, 28, 39
+ - **Super Sete**: <!--supersete-->439 => 3, 4, 2, 7, 6, 5, 9
  - **Timemania**: <!--timemania-->1.982 => 29, 22, 39, 21, 78, 14, 08, BOTAFOGO/RJ
  <!-- - **Loteca**: 0 -->
 

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->804 => 25, 13, 09, 26, 01, 27, 29, Agosto
+ - **Dia de Sorte**: <!--diadesorte-->805 => 11, 17, 27, 25, 07, 19, 28, Fevereiro
  - **Dupla Sena**: <!--duplasena-->2.562 => 42, 13, 46, 19, 30, 03, 09, 43, 06, 11, 17, 32
- - **Federal**: <!--federal-->5.795 => 032516, 025554, 053467, 087264, 094751
+ - **Federal**: <!--federal-->5.796 => 083950, 010903, 036286, 070579, 050982
  - **Lotofácil**: <!--lotofacil-->2.899 => 15, 22, 03, 07, 13, 16, 08, 14, 19, 18, 05, 25, 10, 02, 17
  - **Lotomania**: <!--lotomania-->2.515 => 78, 46, 83, 15, 84, 87, 18, 13, 16, 28, 04, 61, 27, 35, 74, 07, 94, 19, 75, 73
- - **+Milionária**: <!--maismilionaria-->73 => 27, 40, 06, 41, 17, 31, 05, 02
- - **Mega Sena**: <!--megasena-->2.627 => 57, 31, 58, 43, 13, 25
- - **Quina**: <!--quina-->6.231 => 40, 62, 70, 23, 22
+ - **+Milionária**: <!--maismilionaria-->74 => 41, 33, 30, 13, 02, 32, 06, 02
+ - **Mega Sena**: <!--megasena-->2.628 => 54, 32, 05, 53, 40, 14
+ - **Quina**: <!--quina-->6.232 => 40, 77, 06, 04, 62
  - **Super Sete**: <!--supersete-->440 => 8, 8, 2, 5, 4, 8, 8
- - **Timemania**: <!--timemania-->1.983 => 16, 10, 38, 62, 73, 64, 57, CUIABA/MT
+ - **Timemania**: <!--timemania-->1.984 => 01, 24, 32, 14, 41, 79, 03, APARECIDENSE/GO
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

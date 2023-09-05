@@ -7,14 +7,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->805 => 11, 17, 27, 25, 07, 19, 28, Fevereiro
- - **Dupla Sena**: <!--duplasena-->2.562 => 42, 13, 46, 19, 30, 03, 09, 43, 06, 11, 17, 32
+ - **Dupla Sena**: <!--duplasena-->2.563 => 30, 36, 05, 28, 08, 35, 28, 23, 31, 22, 50, 13
  - **Federal**: <!--federal-->5.796 => 083950, 010903, 036286, 070579, 050982
  - **Lotofácil**: <!--lotofacil-->2.899 => 15, 22, 03, 07, 13, 16, 08, 14, 19, 18, 05, 25, 10, 02, 17
- - **Lotomania**: <!--lotomania-->2.515 => 78, 46, 83, 15, 84, 87, 18, 13, 16, 28, 04, 61, 27, 35, 74, 07, 94, 19, 75, 73
+ - **Lotomania**: <!--lotomania-->2.516 => 94, 43, 18, 28, 46, 79, 90, 85, 89, 34, 16, 53, 42, 63, 30, 81, 15, 60, 29, 77
  - **+Milionária**: <!--maismilionaria-->74 => 41, 33, 30, 13, 02, 32, 06, 02
  - **Mega Sena**: <!--megasena-->2.628 => 54, 32, 05, 53, 40, 14
- - **Quina**: <!--quina-->6.232 => 40, 77, 06, 04, 62
- - **Super Sete**: <!--supersete-->440 => 8, 8, 2, 5, 4, 8, 8
+ - **Quina**: <!--quina-->6.233 => 31, 59, 43, 05, 45
+ - **Super Sete**: <!--supersete-->441 => 2, 4, 4, 3, 8, 6, 7
  - **Timemania**: <!--timemania-->1.984 => 01, 24, 32, 14, 41, 79, 03, APARECIDENSE/GO
  <!-- - **Loteca**: 0 -->
 

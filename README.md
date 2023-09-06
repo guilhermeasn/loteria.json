@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->805 => 11, 17, 27, 25, 07, 19, 28, Fevereiro
+ - **Dia de Sorte**: <!--diadesorte-->806 => 02, 13, 10, 16, 11, 27, 19, Junho
  - **Dupla Sena**: <!--duplasena-->2.563 => 30, 36, 05, 28, 08, 35, 28, 23, 31, 22, 50, 13
  - **Federal**: <!--federal-->5.796 => 083950, 010903, 036286, 070579, 050982
  - **Lotofácil**: <!--lotofacil-->2.899 => 15, 22, 03, 07, 13, 16, 08, 14, 19, 18, 05, 25, 10, 02, 17
  - **Lotomania**: <!--lotomania-->2.516 => 94, 43, 18, 28, 46, 79, 90, 85, 89, 34, 16, 53, 42, 63, 30, 81, 15, 60, 29, 77
  - **+Milionária**: <!--maismilionaria-->74 => 41, 33, 30, 13, 02, 32, 06, 02
- - **Mega Sena**: <!--megasena-->2.628 => 54, 32, 05, 53, 40, 14
- - **Quina**: <!--quina-->6.233 => 31, 59, 43, 05, 45
+ - **Mega Sena**: <!--megasena-->2.629 => 48, 40, 35, 41, 11, 32
+ - **Quina**: <!--quina-->6.234 => 69, 48, 23, 57, 19
  - **Super Sete**: <!--supersete-->441 => 2, 4, 4, 3, 8, 6, 7
- - **Timemania**: <!--timemania-->1.984 => 01, 24, 32, 14, 41, 79, 03, APARECIDENSE/GO
+ - **Timemania**: <!--timemania-->1.985 => 63, 60, 71, 15, 24, 30, 28, ALTOS/PI
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

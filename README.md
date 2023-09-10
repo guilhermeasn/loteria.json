@@ -12,7 +12,7 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Lotofácil**: <!--lotofacil-->2.900 => 10, 03, 11, 18, 05, 14, 19, 04, 25, 07, 20, 01, 23, 06, 24
  - **Lotomania**: <!--lotomania-->2.518 => 08, 01, 51, 98, 42, 34, 92, 77, 53, 50, 91, 74, 95, 19, 73, 12, 45, 33, 60, 96
  - **+Milionária**: <!--maismilionaria-->76 => 23, 42, 49, 08, 16, 38, 03, 01
- - **Mega Sena**: <!--megasena-->2.629 => 48, 40, 35, 41, 11, 32
+ - **Mega Sena**: <!--megasena-->2.630 => 14, 18, 38, 31, 26, 22
  - **Quina**: <!--quina-->6.237 => 08, 45, 66, 51, 34
  - **Super Sete**: <!--supersete-->443 => 2, 2, 3, 6, 1, 3, 9
  - **Timemania**: <!--timemania-->1.987 => 23, 54, 45, 03, 29, 50, 61, CRUZEIRO/MG

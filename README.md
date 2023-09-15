@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->809 => 13, 29, 14, 21, 05, 30, 20, Julho
+ - **Dia de Sorte**: <!--diadesorte-->810 => 27, 15, 21, 07, 02, 05, 29, Abril
  - **Dupla Sena**: <!--duplasena-->2.567 => 23, 10, 29, 50, 32, 05, 41, 39, 04, 38, 36, 18
  - **Federal**: <!--federal-->5.799 => 074362, 046985, 027784, 061204, 072233
- - **Lotofácil**: <!--lotofacil-->2.903 => 16, 12, 05, 25, 10, 18, 14, 24, 03, 23, 04, 02, 17, 20, 21
+ - **Lotofácil**: <!--lotofacil-->2.904 => 21, 11, 05, 18, 09, 17, 10, 14, 01, 08, 24, 22, 02, 04, 20
  - **Lotomania**: <!--lotomania-->2.520 => 55, 16, 15, 82, 91, 19, 51, 05, 85, 46, 67, 44, 49, 56, 69, 09, 60, 33, 63, 42
  - **+Milionária**: <!--maismilionaria-->77 => 22, 41, 31, 48, 25, 21, 06, 05
- - **Mega Sena**: <!--megasena-->2.631 => 50, 53, 14, 36, 26, 39
- - **Quina**: <!--quina-->6.240 => 16, 11, 61, 62, 37
+ - **Mega Sena**: <!--megasena-->2.632 => 10, 57, 05, 56, 38, 27
+ - **Quina**: <!--quina-->6.241 => 21, 33, 71, 07, 27
  - **Super Sete**: <!--supersete-->445 => 0, 3, 6, 1, 3, 9, 3
- - **Timemania**: <!--timemania-->1.988 => 78, 59, 70, 21, 34, 48, 22, JUAZEIRENSE/BA
+ - **Timemania**: <!--timemania-->1.989 => 06, 37, 35, 20, 19, 55, 14, VITORIA/BA
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -7,14 +7,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->811 => 17, 04, 16, 26, 25, 05, 19, Setembro
- - **Dupla Sena**: <!--duplasena-->2.568 => 20, 12, 18, 43, 24, 49, 46, 43, 26, 47, 02, 42
+ - **Dupla Sena**: <!--duplasena-->2.569 => 46, 40, 47, 37, 22, 23, 35, 33, 23, 37, 03, 44
  - **Federal**: <!--federal-->5.800 => 077550, 079920, 032923, 086991, 082423
- - **Lotofácil**: <!--lotofacil-->2.906 => 20, 03, 18, 09, 13, 23, 19, 02, 06, 15, 01, 17, 07, 05, 16
- - **Lotomania**: <!--lotomania-->2.521 => 94, 90, 67, 19, 51, 99, 06, 18, 64, 14, 72, 48, 49, 53, 60, 70, 08, 96, 46, 34
+ - **Lotofácil**: <!--lotofacil-->2.907 => 20, 16, 02, 15, 03, 23, 08, 09, 13, 10, 01, 22, 14, 07, 17
+ - **Lotomania**: <!--lotomania-->2.522 => 73, 95, 43, 22, 65, 21, 05, 16, 98, 07, 70, 13, 19, 93, 33, 25, 37, 96, 78, 15
  - **+Milionária**: <!--maismilionaria-->78 => 05, 11, 12, 30, 49, 41, 04, 02
  - **Mega Sena**: <!--megasena-->2.633 => 33, 45, 02, 54, 25, 23
- - **Quina**: <!--quina-->6.243 => 03, 63, 74, 24, 37
- - **Super Sete**: <!--supersete-->446 => 7, 6, 0, 8, 3, 8, 8
+ - **Quina**: <!--quina-->6.244 => 40, 18, 01, 76, 09
+ - **Super Sete**: <!--supersete-->447 => 6, 6, 8, 7, 6, 6, 0
  - **Timemania**: <!--timemania-->1.990 => 01, 41, 46, 32, 17, 31, 23, CORINTHIANS/SP
  <!-- - **Loteca**: 0 -->
 

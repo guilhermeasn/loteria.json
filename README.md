@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->811 => 17, 04, 16, 26, 25, 05, 19, Setembro
+ - **Dia de Sorte**: <!--diadesorte-->812 => 17, 12, 18, 16, 25, 19, 27, Setembro
  - **Dupla Sena**: <!--duplasena-->2.569 => 46, 40, 47, 37, 22, 23, 35, 33, 23, 37, 03, 44
  - **Federal**: <!--federal-->5.800 => 077550, 079920, 032923, 086991, 082423
- - **Lotofácil**: <!--lotofacil-->2.907 => 20, 16, 02, 15, 03, 23, 08, 09, 13, 10, 01, 22, 14, 07, 17
+ - **Lotofácil**: <!--lotofacil-->2.908 => 10, 06, 22, 05, 07, 14, 19, 11, 17, 18, 12, 20, 16, 24, 13
  - **Lotomania**: <!--lotomania-->2.522 => 73, 95, 43, 22, 65, 21, 05, 16, 98, 07, 70, 13, 19, 93, 33, 25, 37, 96, 78, 15
  - **+Milionária**: <!--maismilionaria-->78 => 05, 11, 12, 30, 49, 41, 04, 02
- - **Mega Sena**: <!--megasena-->2.633 => 33, 45, 02, 54, 25, 23
- - **Quina**: <!--quina-->6.244 => 40, 18, 01, 76, 09
+ - **Mega Sena**: <!--megasena-->2.634 => 56, 08, 28, 48, 32, 27
+ - **Quina**: <!--quina-->6.245 => 37, 55, 57, 48, 34
  - **Super Sete**: <!--supersete-->447 => 6, 6, 8, 7, 6, 6, 0
- - **Timemania**: <!--timemania-->1.990 => 01, 41, 46, 32, 17, 31, 23, CORINTHIANS/SP
+ - **Timemania**: <!--timemania-->1.991 => 70, 61, 37, 72, 08, 38, 39, NAUTICO/PE
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

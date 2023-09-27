@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->814 => 29, 03, 06, 02, 25, 04, 08, Setembro
+ - **Dia de Sorte**: <!--diadesorte-->815 => 01, 25, 26, 03, 05, 08, 24, Setembro
  - **Dupla Sena**: <!--duplasena-->2.572 => 44, 08, 39, 41, 36, 11, 46, 36, 21, 10, 13, 41
  - **Federal**: <!--federal-->5.802 => 031330, 021635, 043006, 018395, 028376
- - **Lotofácil**: <!--lotofacil-->2.913 => 17, 09, 15, 10, 07, 22, 03, 24, 19, 08, 25, 04, 21, 06, 12
+ - **Lotofácil**: <!--lotofacil-->2.914 => 05, 10, 25, 17, 04, 20, 03, 18, 06, 11, 09, 16, 21, 07, 08
  - **Lotomania**: <!--lotomania-->2.525 => 02, 43, 87, 29, 60, 79, 83, 06, 99, 67, 86, 04, 31, 12, 05, 38, 62, 00, 39, 54
  - **+Milionária**: <!--maismilionaria-->80 => 41, 27, 47, 31, 22, 32, 03, 02
- - **Mega Sena**: <!--megasena-->2.636 => 43, 16, 05, 38, 42, 48
- - **Quina**: <!--quina-->6.250 => 45, 77, 53, 01, 78
+ - **Mega Sena**: <!--megasena-->2.637 => 32, 34, 10, 01, 59, 02
+ - **Quina**: <!--quina-->6.251 => 36, 76, 05, 55, 69
  - **Super Sete**: <!--supersete-->450 => 0, 6, 5, 9, 8, 1, 8
- - **Timemania**: <!--timemania-->1.993 => 18, 64, 65, 68, 74, 09, 16, FLAMENGO/RJ
+ - **Timemania**: <!--timemania-->1.994 => 24, 72, 69, 23, 59, 28, 61, BRAGANTINO/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

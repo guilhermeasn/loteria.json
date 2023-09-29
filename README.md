@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->815 => 01, 25, 26, 03, 05, 08, 24, Setembro
+ - **Dia de Sorte**: <!--diadesorte-->816 => 16, 21, 08, 23, 14, 18, 11, Julho
  - **Dupla Sena**: <!--duplasena-->2.573 => 21, 43, 41, 10, 28, 30, 31, 44, 15, 19, 34, 14
  - **Federal**: <!--federal-->5.803 => 047065, 077738, 044807, 014961, 072026
- - **Lotofácil**: <!--lotofacil-->2.915 => 14, 25, 13, 15, 16, 11, 04, 06, 02, 12, 07, 19, 23, 21, 09
+ - **Lotofácil**: <!--lotofacil-->2.916 => 22, 18, 25, 20, 12, 11, 24, 01, 17, 03, 21, 05, 15, 14, 19
  - **Lotomania**: <!--lotomania-->2.526 => 66, 87, 80, 63, 98, 81, 69, 02, 37, 84, 21, 27, 17, 65, 53, 41, 16, 47, 86, 42
  - **+Milionária**: <!--maismilionaria-->81 => 49, 06, 50, 38, 15, 04, 04, 03
- - **Mega Sena**: <!--megasena-->2.637 => 32, 34, 10, 01, 59, 02
- - **Quina**: <!--quina-->6.252 => 08, 30, 61, 55, 03
+ - **Mega Sena**: <!--megasena-->2.638 => 44, 55, 54, 30, 34, 09
+ - **Quina**: <!--quina-->6.253 => 16, 40, 45, 14, 51
  - **Super Sete**: <!--supersete-->451 => 6, 0, 5, 4, 7, 6, 7
- - **Timemania**: <!--timemania-->1.994 => 24, 72, 69, 23, 59, 28, 61, BRAGANTINO/SP
+ - **Timemania**: <!--timemania-->1.995 => 57, 55, 60, 27, 69, 06, 33, LUVERDENSE/MT
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

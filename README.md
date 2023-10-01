@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->816 => 16, 21, 08, 23, 14, 18, 11, Julho
+ - **Dia de Sorte**: <!--diadesorte-->817 => 29, 27, 24, 23, 03, 17, 25, Fevereiro
  - **Dupla Sena**: <!--duplasena-->2.574 => 47, 50, 39, 29, 17, 44, 17, 44, 11, 41, 03, 50
- - **Federal**: <!--federal-->5.803 => 047065, 077738, 044807, 014961, 072026
- - **Lotofácil**: <!--lotofacil-->2.917 => 16, 25, 23, 19, 04, 10, 06, 15, 14, 03, 20, 24, 21, 17, 09
+ - **Federal**: <!--federal-->5.804 => 054121, 055776, 080442, 073156, 059367
+ - **Lotofácil**: <!--lotofacil-->2.918 => 02, 10, 18, 08, 12, 23, 07, 20, 16, 15, 11, 14, 25, 06, 24
  - **Lotomania**: <!--lotomania-->2.527 => 36, 73, 47, 87, 49, 94, 83, 25, 61, 57, 37, 43, 63, 60, 66, 81, 68, 65, 17, 52
- - **+Milionária**: <!--maismilionaria-->81 => 49, 06, 50, 38, 15, 04, 04, 03
- - **Mega Sena**: <!--megasena-->2.638 => 44, 55, 54, 30, 34, 09
- - **Quina**: <!--quina-->6.254 => 71, 60, 64, 73, 16
+ - **+Milionária**: <!--maismilionaria-->82 => 21, 34, 12, 18, 27, 13, 02, 03
+ - **Mega Sena**: <!--megasena-->2.639 => 49, 22, 48, 08, 11, 02
+ - **Quina**: <!--quina-->6.255 => 20, 43, 42, 60, 47
  - **Super Sete**: <!--supersete-->452 => 4, 4, 7, 5, 9, 0, 3
- - **Timemania**: <!--timemania-->1.995 => 57, 55, 60, 27, 69, 06, 33, LUVERDENSE/MT
+ - **Timemania**: <!--timemania-->1.996 => 23, 78, 35, 47, 45, 63, 24, SAOPAULO/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

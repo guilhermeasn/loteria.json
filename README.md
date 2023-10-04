@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->817 => 29, 27, 24, 23, 03, 17, 25, Fevereiro
+ - **Dia de Sorte**: <!--diadesorte-->818 => 27, 01, 04, 07, 05, 21, 22, Maio
  - **Dupla Sena**: <!--duplasena-->2.575 => 22, 33, 21, 04, 01, 10, 02, 27, 36, 46, 20, 49
  - **Federal**: <!--federal-->5.804 => 054121, 055776, 080442, 073156, 059367
- - **Lotofácil**: <!--lotofacil-->2.919 => 22, 09, 13, 20, 10, 16, 05, 18, 06, 04, 03, 17, 07, 24, 25
+ - **Lotofácil**: <!--lotofacil-->2.920 => 21, 14, 05, 12, 18, 01, 07, 04, 02, 22, 10, 06, 09, 17, 13
  - **Lotomania**: <!--lotomania-->2.528 => 05, 06, 36, 41, 55, 14, 96, 23, 66, 83, 97, 11, 19, 84, 63, 08, 24, 54, 75, 67
  - **+Milionária**: <!--maismilionaria-->82 => 21, 34, 12, 18, 27, 13, 02, 03
- - **Mega Sena**: <!--megasena-->2.639 => 49, 22, 48, 08, 11, 02
- - **Quina**: <!--quina-->6.256 => 53, 29, 60, 26, 40
+ - **Mega Sena**: <!--megasena-->2.640 => 27, 32, 28, 08, 04, 10
+ - **Quina**: <!--quina-->6.257 => 71, 42, 80, 31, 45
  - **Super Sete**: <!--supersete-->453 => 8, 2, 8, 9, 7, 4, 6
- - **Timemania**: <!--timemania-->1.996 => 23, 78, 35, 47, 45, 63, 24, SAOPAULO/SP
+ - **Timemania**: <!--timemania-->1.997 => 32, 30, 29, 62, 48, 13, 24, PALMEIRAS/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->818 => 27, 01, 04, 07, 05, 21, 22, Maio
+ - **Dia de Sorte**: <!--diadesorte-->819 => 02, 19, 24, 04, 06, 27, 28, Agosto
  - **Dupla Sena**: <!--duplasena-->2.576 => 32, 39, 15, 45, 09, 44, 27, 03, 13, 17, 07, 47
  - **Federal**: <!--federal-->5.805 => 098586, 035385, 075526, 039803, 025621
- - **Lotofácil**: <!--lotofacil-->2.921 => 04, 24, 01, 07, 16, 15, 13, 17, 18, 22, 09, 03, 14, 21, 19
+ - **Lotofácil**: <!--lotofacil-->2.922 => 05, 19, 17, 11, 01, 04, 08, 21, 06, 16, 24, 12, 02, 15, 13
  - **Lotomania**: <!--lotomania-->2.529 => 39, 03, 77, 67, 35, 46, 00, 05, 63, 21, 12, 97, 99, 59, 53, 22, 54, 11, 86, 40
  - **+Milionária**: <!--maismilionaria-->83 => 27, 37, 15, 41, 01, 31, 02, 06
- - **Mega Sena**: <!--megasena-->2.640 => 27, 32, 28, 08, 04, 10
- - **Quina**: <!--quina-->6.258 => 37, 66, 61, 77, 42
+ - **Mega Sena**: <!--megasena-->2.641 => 39, 09, 45, 24, 50, 34
+ - **Quina**: <!--quina-->6.259 => 08, 39, 26, 13, 04
  - **Super Sete**: <!--supersete-->454 => 7, 4, 2, 3, 2, 2, 9
- - **Timemania**: <!--timemania-->1.997 => 32, 30, 29, 62, 48, 13, 24, PALMEIRAS/SP
+ - **Timemania**: <!--timemania-->1.998 => 17, 11, 76, 54, 05, 13, 06, ITUANO/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->819 => 02, 19, 24, 04, 06, 27, 28, Agosto
+ - **Dia de Sorte**: <!--diadesorte-->820 => 06, 15, 08, 16, 31, 07, 17, Setembro
  - **Dupla Sena**: <!--duplasena-->2.577 => 33, 02, 46, 19, 22, 18, 16, 40, 25, 03, 35, 31
  - **Federal**: <!--federal-->5.806 => 049829, 035887, 036754, 051444, 028769
- - **Lotofácil**: <!--lotofacil-->2.923 => 09, 22, 20, 24, 25, 16, 06, 12, 17, 07, 18, 23, 13, 04, 11
+ - **Lotofácil**: <!--lotofacil-->2.924 => 08, 09, 02, 06, 14, 24, 03, 04, 23, 18, 05, 07, 12, 20, 13
  - **Lotomania**: <!--lotomania-->2.530 => 56, 72, 14, 38, 69, 67, 37, 60, 85, 46, 82, 96, 88, 47, 51, 39, 62, 41, 00, 03
- - **+Milionária**: <!--maismilionaria-->83 => 27, 37, 15, 41, 01, 31, 02, 06
- - **Mega Sena**: <!--megasena-->2.641 => 39, 09, 45, 24, 50, 34
- - **Quina**: <!--quina-->6.260 => 67, 40, 39, 48, 56
+ - **+Milionária**: <!--maismilionaria-->84 => 27, 42, 44, 24, 35, 46, 01, 05
+ - **Mega Sena**: <!--megasena-->2.642 => 31, 08, 49, 33, 50, 13
+ - **Quina**: <!--quina-->6.261 => 15, 45, 58, 47, 59
  - **Super Sete**: <!--supersete-->455 => 8, 7, 5, 4, 9, 9, 5
- - **Timemania**: <!--timemania-->1.998 => 17, 11, 76, 54, 05, 13, 06, ITUANO/SP
+ - **Timemania**: <!--timemania-->1.999 => 72, 55, 38, 30, 70, 31, 39, FERROVIARIA/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -7,14 +7,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->820 => 06, 15, 08, 16, 31, 07, 17, Setembro
- - **Dupla Sena**: <!--duplasena-->2.577 => 33, 02, 46, 19, 22, 18, 16, 40, 25, 03, 35, 31
+ - **Dupla Sena**: <!--duplasena-->2.578 => 10, 03, 26, 46, 27, 32, 08, 33, 48, 26, 19, 37
  - **Federal**: <!--federal-->5.806 => 049829, 035887, 036754, 051444, 028769
- - **Lotofácil**: <!--lotofacil-->2.924 => 08, 09, 02, 06, 14, 24, 03, 04, 23, 18, 05, 07, 12, 20, 13
- - **Lotomania**: <!--lotomania-->2.530 => 56, 72, 14, 38, 69, 67, 37, 60, 85, 46, 82, 96, 88, 47, 51, 39, 62, 41, 00, 03
+ - **Lotofácil**: <!--lotofacil-->2.925 => 21, 11, 07, 22, 04, 10, 24, 18, 05, 25, 23, 09, 03, 08, 06
+ - **Lotomania**: <!--lotomania-->2.531 => 94, 81, 51, 40, 67, 27, 87, 03, 49, 54, 59, 13, 06, 74, 56, 55, 21, 80, 92, 48
  - **+Milionária**: <!--maismilionaria-->84 => 27, 42, 44, 24, 35, 46, 01, 05
  - **Mega Sena**: <!--megasena-->2.642 => 31, 08, 49, 33, 50, 13
- - **Quina**: <!--quina-->6.261 => 15, 45, 58, 47, 59
- - **Super Sete**: <!--supersete-->455 => 8, 7, 5, 4, 9, 9, 5
+ - **Quina**: <!--quina-->6.262 => 69, 56, 51, 29, 76
+ - **Super Sete**: <!--supersete-->456 => 2, 0, 8, 7, 7, 0, 7
  - **Timemania**: <!--timemania-->1.999 => 72, 55, 38, 30, 70, 31, 39, FERROVIARIA/SP
  <!-- - **Loteca**: 0 -->
 

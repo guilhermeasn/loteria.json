@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->820 => 06, 15, 08, 16, 31, 07, 17, Setembro
+ - **Dia de Sorte**: <!--diadesorte-->821 => 29, 20, 03, 23, 12, 31, 04, Agosto
  - **Dupla Sena**: <!--duplasena-->2.578 => 10, 03, 26, 46, 27, 32, 08, 33, 48, 26, 19, 37
  - **Federal**: <!--federal-->5.806 => 049829, 035887, 036754, 051444, 028769
- - **Lotofácil**: <!--lotofacil-->2.925 => 21, 11, 07, 22, 04, 10, 24, 18, 05, 25, 23, 09, 03, 08, 06
+ - **Lotofácil**: <!--lotofacil-->2.926 => 25, 24, 17, 22, 03, 18, 09, 15, 04, 08, 07, 02, 19, 13, 01
  - **Lotomania**: <!--lotomania-->2.531 => 94, 81, 51, 40, 67, 27, 87, 03, 49, 54, 59, 13, 06, 74, 56, 55, 21, 80, 92, 48
  - **+Milionária**: <!--maismilionaria-->84 => 27, 42, 44, 24, 35, 46, 01, 05
- - **Mega Sena**: <!--megasena-->2.642 => 31, 08, 49, 33, 50, 13
- - **Quina**: <!--quina-->6.262 => 69, 56, 51, 29, 76
+ - **Mega Sena**: <!--megasena-->2.643 => 10, 29, 56, 02, 59, 31
+ - **Quina**: <!--quina-->6.263 => 52, 03, 14, 23, 25
  - **Super Sete**: <!--supersete-->456 => 2, 0, 8, 7, 7, 0, 7
- - **Timemania**: <!--timemania-->1.999 => 72, 55, 38, 30, 70, 31, 39, FERROVIARIA/SP
+ - **Timemania**: <!--timemania-->2.000 => 08, 05, 58, 66, 41, 02, 70, FLORESTA/CE
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

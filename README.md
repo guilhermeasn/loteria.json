@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->824 => 29, 25, 10, 21, 08, 11, 28, Agosto
+ - **Dia de Sorte**: <!--diadesorte-->825 => 26, 18, 10, 31, 04, 09, 19, Outubro
  - **Dupla Sena**: <!--duplasena-->2.582 => 20, 08, 37, 03, 40, 31, 21, 19, 35, 02, 09, 46
  - **Federal**: <!--federal-->5.809 => 072525, 067514, 040220, 037984, 001591
- - **Lotofácil**: <!--lotofacil-->2.932 => 11, 16, 08, 07, 18, 20, 17, 24, 06, 09, 02, 05, 10, 21, 14
+ - **Lotofácil**: <!--lotofacil-->2.933 => 03, 08, 07, 22, 15, 02, 17, 01, 06, 04, 18, 14, 25, 10, 20
  - **Lotomania**: <!--lotomania-->2.535 => 18, 93, 11, 76, 04, 94, 24, 08, 98, 82, 80, 66, 79, 32, 61, 15, 29, 13, 30, 47
  - **+Milionária**: <!--maismilionaria-->87 => 02, 12, 49, 06, 03, 44, 05, 04
- - **Mega Sena**: <!--megasena-->2.645 => 34, 59, 22, 51, 42, 08
- - **Quina**: <!--quina-->6.269 => 35, 55, 77, 11, 46
+ - **Mega Sena**: <!--megasena-->2.646 => 58, 28, 41, 30, 18, 39
+ - **Quina**: <!--quina-->6.270 => 26, 54, 51, 05, 24
  - **Super Sete**: <!--supersete-->460 => 3, 2, 6, 8, 3, 7, 2
- - **Timemania**: <!--timemania-->2.003 => 58, 35, 20, 37, 78, 12, 41, GUARANI/SP
+ - **Timemania**: <!--timemania-->2.004 => 34, 60, 53, 18, 40, 37, 66, ATHLETICO/PR
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->826 => 15, 16, 08, 24, 29, 17, 05, Fevereiro
+ - **Dia de Sorte**: <!--diadesorte-->827 => 09, 19, 08, 18, 27, 25, 26, Julho
  - **Dupla Sena**: <!--duplasena-->2.584 => 13, 25, 18, 20, 38, 49, 24, 04, 13, 06, 15, 22
  - **Federal**: <!--federal-->5.810 => 051238, 036755, 060794, 046920, 072874
- - **Lotofácil**: <!--lotofacil-->2.936 => 20, 04, 16, 08, 13, 12, 19, 18, 23, 21, 01, 24, 11, 10, 09
+ - **Lotofácil**: <!--lotofacil-->2.937 => 09, 04, 17, 08, 06, 05, 21, 24, 23, 10, 02, 01, 25, 13, 03
  - **Lotomania**: <!--lotomania-->2.537 => 42, 39, 34, 03, 64, 09, 89, 65, 49, 51, 46, 69, 45, 10, 73, 80, 66, 81, 99, 05
  - **+Milionária**: <!--maismilionaria-->88 => 21, 36, 42, 02, 30, 44, 02, 03
- - **Mega Sena**: <!--megasena-->2.647 => 54, 33, 09, 50, 39, 43
- - **Quina**: <!--quina-->6.273 => 78, 67, 52, 53, 48
+ - **Mega Sena**: <!--megasena-->2.648 => 59, 45, 44, 46, 56, 20
+ - **Quina**: <!--quina-->6.274 => 29, 45, 60, 53, 37
  - **Super Sete**: <!--supersete-->462 => 6, 8, 5, 5, 8, 9, 6
- - **Timemania**: <!--timemania-->2.005 => 13, 28, 11, 25, 78, 16, 57, BOAVISTA/RJ
+ - **Timemania**: <!--timemania-->2.006 => 20, 33, 64, 09, 14, 17, 45, TREZE/PB
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->827 => 09, 19, 08, 18, 27, 25, 26, Julho
+ - **Dia de Sorte**: <!--diadesorte-->828 => 02, 12, 17, 21, 01, 11, 08, Maio
  - **Dupla Sena**: <!--duplasena-->2.585 => 06, 05, 41, 37, 15, 28, 29, 36, 24, 01, 31, 05
  - **Federal**: <!--federal-->5.811 => 019863, 059751, 048199, 018398, 032737
- - **Lotofácil**: <!--lotofacil-->2.938 => 05, 21, 06, 10, 03, 02, 15, 24, 11, 20, 09, 01, 08, 04, 17
+ - **Lotofácil**: <!--lotofacil-->2.939 => 09, 02, 13, 07, 05, 10, 18, 12, 23, 22, 17, 03, 11, 06, 20
  - **Lotomania**: <!--lotomania-->2.538 => 56, 29, 16, 22, 45, 69, 64, 95, 96, 40, 11, 13, 52, 86, 00, 94, 28, 25, 79, 38
  - **+Milionária**: <!--maismilionaria-->89 => 41, 21, 23, 09, 06, 02, 03, 06
- - **Mega Sena**: <!--megasena-->2.648 => 59, 45, 44, 46, 56, 20
- - **Quina**: <!--quina-->6.275 => 02, 44, 21, 51, 36
+ - **Mega Sena**: <!--megasena-->2.649 => 46, 32, 11, 56, 06, 26
+ - **Quina**: <!--quina-->6.276 => 30, 01, 62, 69, 14
  - **Super Sete**: <!--supersete-->463 => 6, 6, 8, 1, 9, 6, 4
- - **Timemania**: <!--timemania-->2.006 => 20, 33, 64, 09, 14, 17, 45, TREZE/PB
+ - **Timemania**: <!--timemania-->2.007 => 62, 19, 10, 36, 38, 63, 55, SANTOS/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

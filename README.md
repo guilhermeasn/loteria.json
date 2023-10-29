@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->828 => 02, 12, 17, 21, 01, 11, 08, Maio
+ - **Dia de Sorte**: <!--diadesorte-->829 => 24, 18, 26, 29, 16, 03, 14, Fevereiro
  - **Dupla Sena**: <!--duplasena-->2.586 => 38, 36, 50, 40, 46, 34, 48, 28, 11, 15, 46, 23
  - **Federal**: <!--federal-->5.812 => 042921, 027999, 047866, 040144, 005914
  - **Lotofácil**: <!--lotofacil-->2.940 => 13, 09, 07, 08, 25, 01, 15, 21, 20, 11, 14, 05, 24, 02, 12
  - **Lotomania**: <!--lotomania-->2.539 => 04, 36, 29, 48, 38, 51, 54, 61, 44, 02, 27, 21, 97, 56, 33, 39, 22, 76, 58, 88
- - **+Milionária**: <!--maismilionaria-->89 => 41, 21, 23, 09, 06, 02, 03, 06
- - **Mega Sena**: <!--megasena-->2.649 => 46, 32, 11, 56, 06, 26
- - **Quina**: <!--quina-->6.277 => 47, 26, 79, 42, 22
+ - **+Milionária**: <!--maismilionaria-->90 => 44, 11, 42, 30, 50, 17, 01, 04
+ - **Mega Sena**: <!--megasena-->2.650 => 37, 58, 18, 39, 29, 09
+ - **Quina**: <!--quina-->6.278 => 29, 66, 77, 33, 59
  - **Super Sete**: <!--supersete-->464 => 7, 7, 8, 4, 7, 1, 6
- - **Timemania**: <!--timemania-->2.007 => 62, 19, 10, 36, 38, 63, 55, SANTOS/SP
+ - **Timemania**: <!--timemania-->2.008 => 30, 59, 49, 64, 28, 33, 31, NAUTICO/PE
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -7,14 +7,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->829 => 24, 18, 26, 29, 16, 03, 14, Fevereiro
- - **Dupla Sena**: <!--duplasena-->2.586 => 38, 36, 50, 40, 46, 34, 48, 28, 11, 15, 46, 23
+ - **Dupla Sena**: <!--duplasena-->2.587 => 11, 36, 17, 16, 23, 21, 21, 07, 38, 32, 43, 45
  - **Federal**: <!--federal-->5.812 => 042921, 027999, 047866, 040144, 005914
- - **Lotofácil**: <!--lotofacil-->2.941 => 20, 17, 07, 08, 25, 12, 10, 21, 22, 11, 06, 04, 05, 24, 14
- - **Lotomania**: <!--lotomania-->2.539 => 04, 36, 29, 48, 38, 51, 54, 61, 44, 02, 27, 21, 97, 56, 33, 39, 22, 76, 58, 88
+ - **Lotofácil**: <!--lotofacil-->2.942 => 17, 06, 16, 10, 05, 08, 09, 19, 14, 18, 20, 04, 25, 23, 07
+ - **Lotomania**: <!--lotomania-->2.540 => 81, 01, 24, 53, 22, 80, 51, 68, 89, 67, 20, 19, 90, 13, 36, 37, 69, 28, 34, 85
  - **+Milionária**: <!--maismilionaria-->90 => 44, 11, 42, 30, 50, 17, 01, 04
  - **Mega Sena**: <!--megasena-->2.650 => 37, 58, 18, 39, 29, 09
- - **Quina**: <!--quina-->6.278 => 29, 66, 77, 33, 59
- - **Super Sete**: <!--supersete-->464 => 7, 7, 8, 4, 7, 1, 6
+ - **Quina**: <!--quina-->6.279 => 06, 69, 22, 62, 64
+ - **Super Sete**: <!--supersete-->465 => 1, 6, 1, 0, 8, 5, 8
  - **Timemania**: <!--timemania-->2.008 => 30, 59, 49, 64, 28, 33, 31, NAUTICO/PE
  <!-- - **Loteca**: 0 -->
 

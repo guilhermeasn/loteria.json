@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->829 => 24, 18, 26, 29, 16, 03, 14, Fevereiro
+ - **Dia de Sorte**: <!--diadesorte-->830 => 11, 08, 07, 29, 15, 25, 21, Outubro
  - **Dupla Sena**: <!--duplasena-->2.587 => 11, 36, 17, 16, 23, 21, 21, 07, 38, 32, 43, 45
  - **Federal**: <!--federal-->5.812 => 042921, 027999, 047866, 040144, 005914
- - **Lotofácil**: <!--lotofacil-->2.942 => 17, 06, 16, 10, 05, 08, 09, 19, 14, 18, 20, 04, 25, 23, 07
+ - **Lotofácil**: <!--lotofacil-->2.943 => 18, 04, 12, 01, 09, 10, 25, 11, 05, 20, 19, 08, 16, 17, 15
  - **Lotomania**: <!--lotomania-->2.540 => 81, 01, 24, 53, 22, 80, 51, 68, 89, 67, 20, 19, 90, 13, 36, 37, 69, 28, 34, 85
  - **+Milionária**: <!--maismilionaria-->90 => 44, 11, 42, 30, 50, 17, 01, 04
  - **Mega Sena**: <!--megasena-->2.650 => 37, 58, 18, 39, 29, 09
- - **Quina**: <!--quina-->6.279 => 06, 69, 22, 62, 64
+ - **Quina**: <!--quina-->6.280 => 06, 22, 58, 64, 77
  - **Super Sete**: <!--supersete-->465 => 1, 6, 1, 0, 8, 5, 8
- - **Timemania**: <!--timemania-->2.008 => 30, 59, 49, 64, 28, 33, 31, NAUTICO/PE
+ - **Timemania**: <!--timemania-->2.009 => 05, 50, 60, 65, 54, 06, 68, FERROVIARIA/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

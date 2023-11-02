@@ -7,14 +7,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->830 => 11, 08, 07, 29, 15, 25, 21, Outubro
- - **Dupla Sena**: <!--duplasena-->2.587 => 11, 36, 17, 16, 23, 21, 21, 07, 38, 32, 43, 45
- - **Federal**: <!--federal-->5.812 => 042921, 027999, 047866, 040144, 005914
- - **Lotofácil**: <!--lotofacil-->2.943 => 18, 04, 12, 01, 09, 10, 25, 11, 05, 20, 19, 08, 16, 17, 15
- - **Lotomania**: <!--lotomania-->2.540 => 81, 01, 24, 53, 22, 80, 51, 68, 89, 67, 20, 19, 90, 13, 36, 37, 69, 28, 34, 85
- - **+Milionária**: <!--maismilionaria-->90 => 44, 11, 42, 30, 50, 17, 01, 04
- - **Mega Sena**: <!--megasena-->2.650 => 37, 58, 18, 39, 29, 09
- - **Quina**: <!--quina-->6.280 => 06, 22, 58, 64, 77
- - **Super Sete**: <!--supersete-->465 => 1, 6, 1, 0, 8, 5, 8
+ - **Dupla Sena**: <!--duplasena-->2.588 => 09, 08, 39, 46, 28, 18, 10, 14, 22, 13, 43, 38
+ - **Federal**: <!--federal-->5.813 => 092854, 061619, 069443, 035260, 050266
+ - **Lotofácil**: <!--lotofacil-->2.944 => 17, 05, 18, 11, 13, 20, 02, 12, 15, 07, 04, 24, 01, 21, 06
+ - **Lotomania**: <!--lotomania-->2.541 => 82, 36, 19, 85, 14, 90, 75, 23, 09, 87, 17, 42, 46, 65, 27, 13, 49, 70, 59, 25
+ - **+Milionária**: <!--maismilionaria-->91 => 29, 13, 06, 20, 01, 39, 02, 04
+ - **Mega Sena**: <!--megasena-->2.651 => 23, 59, 36, 06, 35, 37
+ - **Quina**: <!--quina-->6.281 => 77, 41, 53, 06, 74
+ - **Super Sete**: <!--supersete-->466 => 3, 2, 0, 6, 3, 6, 3
  - **Timemania**: <!--timemania-->2.009 => 05, 50, 60, 65, 54, 06, 68, FERROVIARIA/SP
  <!-- - **Loteca**: 0 -->
 

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->831 => 02, 23, 26, 17, 07, 25, 20, Agosto
+ - **Dia de Sorte**: <!--diadesorte-->832 => 15, 20, 19, 11, 13, 22, 05, Maio
  - **Dupla Sena**: <!--duplasena-->2.589 => 29, 27, 15, 01, 18, 46, 14, 04, 08, 24, 21, 09
- - **Federal**: <!--federal-->5.813 => 092854, 061619, 069443, 035260, 050266
- - **Lotofácil**: <!--lotofacil-->2.945 => 10, 21, 07, 13, 20, 05, 25, 15, 14, 06, 18, 08, 19, 17, 22
+ - **Federal**: <!--federal-->5.814 => 030970, 060451, 057539, 073185, 074141
+ - **Lotofácil**: <!--lotofacil-->2.946 => 05, 01, 16, 20, 23, 03, 13, 15, 04, 24, 12, 14, 25, 19, 10
  - **Lotomania**: <!--lotomania-->2.542 => 91, 85, 25, 50, 63, 73, 04, 71, 13, 22, 20, 33, 10, 62, 38, 07, 75, 44, 27, 29
- - **+Milionária**: <!--maismilionaria-->91 => 29, 13, 06, 20, 01, 39, 02, 04
- - **Mega Sena**: <!--megasena-->2.651 => 23, 59, 36, 06, 35, 37
- - **Quina**: <!--quina-->6.282 => 10, 76, 21, 15, 26
+ - **+Milionária**: <!--maismilionaria-->92 => 45, 05, 33, 20, 49, 08, 03, 04
+ - **Mega Sena**: <!--megasena-->2.652 => 59, 45, 23, 13, 29, 26
+ - **Quina**: <!--quina-->6.283 => 10, 73, 57, 09, 07
  - **Super Sete**: <!--supersete-->467 => 4, 9, 0, 7, 4, 1, 0
- - **Timemania**: <!--timemania-->2.010 => 70, 21, 78, 13, 73, 15, 41, SAMPCORREA/MA
+ - **Timemania**: <!--timemania-->2.011 => 54, 42, 45, 11, 57, 40, 33, FLUMINENSE/RJ
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

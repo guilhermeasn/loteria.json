@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->833 => 13, 30, 16, 09, 10, 23, 20, Maio
+ - **Dia de Sorte**: <!--diadesorte-->834 => 18, 15, 10, 27, 01, 03, 13, Junho
  - **Dupla Sena**: <!--duplasena-->2.591 => 47, 33, 50, 39, 46, 25, 42, 37, 41, 45, 49, 19
  - **Federal**: <!--federal-->5.815 => 099434, 018781, 042617, 001865, 066153
- - **Lotofácil**: <!--lotofacil-->2.949 => 18, 23, 24, 20, 07, 14, 17, 21, 13, 09, 06, 16, 12, 15, 22
+ - **Lotofácil**: <!--lotofacil-->2.950 => 07, 01, 14, 08, 09, 25, 16, 06, 17, 20, 03, 22, 10, 19, 13
  - **Lotomania**: <!--lotomania-->2.544 => 79, 15, 54, 21, 50, 36, 24, 94, 41, 32, 00, 68, 38, 87, 84, 96, 66, 48, 14, 82
  - **+Milionária**: <!--maismilionaria-->93 => 19, 32, 11, 50, 13, 38, 05, 01
- - **Mega Sena**: <!--megasena-->2.653 => 43, 48, 60, 14, 41, 32
- - **Quina**: <!--quina-->6.286 => 38, 26, 20, 11, 73
+ - **Mega Sena**: <!--megasena-->2.654 => 23, 17, 47, 51, 36, 11
+ - **Quina**: <!--quina-->6.287 => 41, 77, 11, 38, 37
  - **Super Sete**: <!--supersete-->469 => 9, 9, 6, 5, 4, 6, 8
- - **Timemania**: <!--timemania-->2.012 => 49, 38, 17, 80, 47, 45, 65, BRASILDEPELOTAS/RS
+ - **Timemania**: <!--timemania-->2.013 => 01, 30, 08, 65, 35, 11, 80, FLORESTA/CE
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -7,14 +7,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->835 => 24, 01, 10, 06, 21, 29, 02, Abril
- - **Dupla Sena**: <!--duplasena-->2.592 => 06, 44, 12, 22, 35, 33, 29, 19, 01, 47, 42, 27
+ - **Dupla Sena**: <!--duplasena-->2.593 => 13, 08, 11, 32, 30, 23, 28, 24, 20, 48, 03, 18
  - **Federal**: <!--federal-->5.816 => 073411, 086661, 053288, 065917, 005835
- - **Lotofácil**: <!--lotofacil-->2.952 => 02, 05, 19, 20, 09, 03, 11, 04, 12, 21, 01, 08, 16, 22, 06
- - **Lotomania**: <!--lotomania-->2.545 => 63, 62, 41, 87, 31, 90, 84, 15, 19, 50, 52, 01, 28, 37, 42, 22, 93, 06, 25, 69
+ - **Lotofácil**: <!--lotofacil-->2.953 => 23, 13, 08, 20, 04, 09, 03, 05, 22, 01, 17, 19, 21, 07, 18
+ - **Lotomania**: <!--lotomania-->2.546 => 90, 83, 72, 09, 94, 27, 73, 93, 78, 88, 69, 17, 43, 85, 41, 96, 51, 23, 35, 12
  - **+Milionária**: <!--maismilionaria-->94 => 26, 50, 21, 24, 07, 20, 03, 06
  - **Mega Sena**: <!--megasena-->2.655 => 30, 31, 49, 23, 56, 10
- - **Quina**: <!--quina-->6.289 => 10, 31, 54, 42, 79
- - **Super Sete**: <!--supersete-->470 => 3, 1, 1, 1, 1, 5, 8
+ - **Quina**: <!--quina-->6.290 => 15, 11, 78, 52, 58
+ - **Super Sete**: <!--supersete-->471 => 4, 9, 3, 3, 0, 4, 6
  - **Timemania**: <!--timemania-->2.014 => 36, 32, 62, 72, 51, 05, 22, SPORT/PE
  <!-- - **Loteca**: 0 -->
 

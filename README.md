@@ -7,14 +7,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->838 => 21, 04, 24, 27, 19, 31, 18, Novembro
- - **Dupla Sena**: <!--duplasena-->2.594 => 25, 04, 44, 20, 43, 19, 12, 40, 28, 43, 14, 05
+ - **Dupla Sena**: <!--duplasena-->2.595 => 28, 39, 22, 14, 36, 27, 09, 46, 45, 44, 12, 48
  - **Federal**: <!--federal-->5.818 => 060687, 038506, 013421, 044343, 004938
- - **Lotofácil**: <!--lotofacil-->2.957 => 10, 21, 20, 01, 09, 11, 15, 05, 02, 08, 24, 17, 04, 07, 19
- - **Lotomania**: <!--lotomania-->2.548 => 24, 15, 51, 69, 13, 30, 94, 33, 22, 88, 50, 17, 62, 06, 67, 63, 41, 84, 86, 07
+ - **Lotofácil**: <!--lotofacil-->2.958 => 23, 25, 07, 10, 06, 12, 24, 22, 18, 04, 13, 14, 11, 20, 08
+ - **Lotomania**: <!--lotomania-->2.549 => 15, 84, 91, 58, 69, 23, 76, 79, 68, 57, 01, 96, 00, 05, 13, 82, 59, 28, 34, 26
  - **+Milionária**: <!--maismilionaria-->96 => 41, 34, 13, 22, 05, 15, 02, 05
  - **Mega Sena**: <!--megasena-->2.657 => 07, 53, 33, 36, 32, 27
- - **Quina**: <!--quina-->6.294 => 45, 62, 30, 78, 58
- - **Super Sete**: <!--supersete-->472 => 8, 7, 4, 8, 6, 8, 2
+ - **Quina**: <!--quina-->6.295 => 56, 45, 69, 16, 70
+ - **Super Sete**: <!--supersete-->473 => 5, 0, 0, 8, 4, 9, 4
  - **Timemania**: <!--timemania-->2.017 => 10, 04, 54, 63, 02, 40, 29, CIANORTE/PR
  <!-- - **Loteca**: 0 -->
 

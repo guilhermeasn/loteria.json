@@ -6,14 +6,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->839 => 26, 10, 13, 01, 20, 02, 08, Junho
+ - **Dia de Sorte**: <!--diadesorte-->840 => 13, 02, 06, 05, 24, 18, 25, Março
  - **Dupla Sena**: <!--duplasena-->2.596 => 10, 20, 30, 49, 41, 22, 46, 42, 03, 01, 41, 36
  - **Federal**: <!--federal-->5.819 => 005854, 080064, 027485, 036954, 062666
- - **Lotofácil**: <!--lotofacil-->2.960 => 11, 02, 15, 25, 09, 19, 01, 04, 03, 12, 23, 05, 08, 16, 20
+ - **Lotofácil**: <!--lotofacil-->2.961 => 03, 25, 09, 18, 01, 07, 08, 05, 23, 20, 13, 10, 04, 17, 15
  - **Lotomania**: <!--lotomania-->2.550 => 21, 33, 80, 11, 95, 24, 38, 97, 56, 69, 40, 66, 15, 19, 83, 05, 42, 81, 49, 78
  - **+Milionária**: <!--maismilionaria-->97 => 17, 34, 19, 02, 06, 30, 01, 06
- - **Mega Sena**: <!--megasena-->2.658 => 60, 51, 13, 05, 39, 58
- - **Quina**: <!--quina-->6.297 => 14, 46, 33, 10, 63
+ - **Mega Sena**: <!--megasena-->2.659 => 36, 55, 60, 53, 11, 46
+ - **Quina**: <!--quina-->6.298 => 68, 59, 55, 14, 12
  - **Super Sete**: <!--supersete-->474 => 1, 4, 5, 6, 7, 8, 5
  - **Timemania**: <!--timemania-->2.018 => 78, 37, 33, 45, 36, 20, 50, OPERARIO/PR
  <!-- - **Loteca**: 0 -->

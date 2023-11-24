@@ -15,7 +15,7 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Mega Sena**: <!--megasena-->2.659 => 36, 55, 60, 53, 11, 46
  - **Quina**: <!--quina-->6.298 => 68, 59, 55, 14, 12
  - **Super Sete**: <!--supersete-->474 => 1, 4, 5, 6, 7, 8, 5
- - **Timemania**: <!--timemania-->2.018 => 78, 37, 33, 45, 36, 20, 50, OPERARIO/PR
+ - **Timemania**: <!--timemania-->2.019 => 71, 63, 66, 34, 30, 41, 75, SAOPAULO/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

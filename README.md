@@ -7,14 +7,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->840 => 13, 02, 06, 05, 24, 18, 25, Março
- - **Dupla Sena**: <!--duplasena-->2.596 => 10, 20, 30, 49, 41, 22, 46, 42, 03, 01, 41, 36
+ - **Dupla Sena**: <!--duplasena-->2.597 => 11, 05, 01, 44, 41, 40, 49, 43, 06, 24, 36, 17
  - **Federal**: <!--federal-->5.819 => 005854, 080064, 027485, 036954, 062666
- - **Lotofácil**: <!--lotofacil-->2.961 => 03, 25, 09, 18, 01, 07, 08, 05, 23, 20, 13, 10, 04, 17, 15
- - **Lotomania**: <!--lotomania-->2.550 => 21, 33, 80, 11, 95, 24, 38, 97, 56, 69, 40, 66, 15, 19, 83, 05, 42, 81, 49, 78
+ - **Lotofácil**: <!--lotofacil-->2.962 => 09, 12, 22, 24, 15, 17, 25, 07, 03, 18, 20, 01, 06, 14, 11
+ - **Lotomania**: <!--lotomania-->2.551 => 67, 71, 42, 36, 05, 61, 98, 58, 39, 08, 03, 66, 43, 47, 23, 33, 85, 72, 12, 57
  - **+Milionária**: <!--maismilionaria-->97 => 17, 34, 19, 02, 06, 30, 01, 06
  - **Mega Sena**: <!--megasena-->2.659 => 36, 55, 60, 53, 11, 46
- - **Quina**: <!--quina-->6.298 => 68, 59, 55, 14, 12
- - **Super Sete**: <!--supersete-->474 => 1, 4, 5, 6, 7, 8, 5
+ - **Quina**: <!--quina-->6.299 => 53, 73, 72, 66, 43
+ - **Super Sete**: <!--supersete-->475 => 5, 8, 1, 8, 2, 1, 0
  - **Timemania**: <!--timemania-->2.019 => 71, 63, 66, 34, 30, 41, 75, SAOPAULO/SP
  <!-- - **Loteca**: 0 -->
 

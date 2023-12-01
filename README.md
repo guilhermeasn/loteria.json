@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->842 => 17, 18, 04, 27, 21, 10, 31, Janeiro
+ - **Dia de Sorte**: <!--diadesorte-->843 => 06, 20, 17, 03, 04, 18, 19, Agosto
  - **Dupla Sena**: <!--duplasena-->2.599 => 29, 40, 17, 23, 11, 10, 08, 41, 05, 49, 15, 07
  - **Federal**: <!--federal-->5.821 => 064124, 039479, 049065, 042395, 047774
- - **Lotofácil**: <!--lotofacil-->2.966 => 22, 18, 23, 13, 01, 06, 17, 03, 11, 19, 20, 12, 07, 04, 08
+ - **Lotofácil**: <!--lotofacil-->2.967 => 06, 07, 22, 03, 09, 19, 02, 20, 01, 08, 04, 25, 18, 14, 17
  - **Lotomania**: <!--lotomania-->2.553 => 29, 89, 85, 46, 93, 54, 25, 07, 17, 87, 43, 41, 66, 94, 30, 56, 40, 35, 78, 71
  - **+Milionária**: <!--maismilionaria-->99 => 33, 23, 20, 40, 08, 05, 04, 01
- - **Mega Sena**: <!--megasena-->2.661 => 35, 38, 30, 41, 56, 06
- - **Quina**: <!--quina-->6.303 => 11, 54, 08, 44, 68
+ - **Mega Sena**: <!--megasena-->2.662 => 31, 20, 42, 40, 17, 34
+ - **Quina**: <!--quina-->6.304 => 51, 32, 67, 27, 30
  - **Super Sete**: <!--supersete-->477 => 7, 2, 4, 6, 1, 9, 3
- - **Timemania**: <!--timemania-->2.021 => 23, 02, 78, 49, 01, 16, 61, JUAZEIRENSE/BA
+ - **Timemania**: <!--timemania-->2.022 => 58, 57, 70, 44, 43, 40, 42, PARANA/PR
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -7,14 +7,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->844 => 16, 31, 21, 19, 20, 13, 06, Novembro
- - **Dupla Sena**: <!--duplasena-->2.600 => 22, 28, 30, 18, 05, 01, 22, 21, 09, 17, 18, 39
+ - **Dupla Sena**: <!--duplasena-->2.601 => 03, 07, 23, 15, 18, 35, 38, 11, 18, 22, 03, 39
  - **Federal**: <!--federal-->5.822 => 072178, 098918, 059909, 041852, 000298
- - **Lotofácil**: <!--lotofacil-->2.969 => 17, 21, 03, 22, 24, 18, 19, 20, 11, 23, 05, 09, 04, 06, 13
- - **Lotomania**: <!--lotomania-->2.554 => 76, 50, 06, 93, 51, 98, 19, 07, 82, 27, 36, 54, 16, 03, 87, 24, 29, 25, 34, 30
+ - **Lotofácil**: <!--lotofacil-->2.970 => 02, 15, 20, 25, 03, 13, 08, 14, 22, 09, 18, 01, 11, 12, 21
+ - **Lotomania**: <!--lotomania-->2.555 => 65, 22, 20, 59, 33, 29, 64, 90, 60, 28, 99, 51, 05, 02, 50, 96, 30, 17, 56, 23
  - **+Milionária**: <!--maismilionaria-->100 => 36, 42, 21, 37, 32, 11, 06, 04
  - **Mega Sena**: <!--megasena-->2.663 => 27, 07, 56, 11, 41, 59
- - **Quina**: <!--quina-->6.306 => 62, 74, 68, 56, 66
- - **Super Sete**: <!--supersete-->478 => 2, 7, 1, 4, 2, 5, 7
+ - **Quina**: <!--quina-->6.307 => 08, 75, 34, 59, 04
+ - **Super Sete**: <!--supersete-->479 => 5, 8, 0, 2, 7, 4, 1
  - **Timemania**: <!--timemania-->2.023 => 44, 66, 58, 67, 04, 74, 43, MANAUS/AM
  <!-- - **Loteca**: 0 -->
 

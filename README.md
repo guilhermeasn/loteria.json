@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->844 => 16, 31, 21, 19, 20, 13, 06, Novembro
+ - **Dia de Sorte**: <!--diadesorte-->845 => 11, 17, 26, 20, 16, 10, 12, Junho
  - **Dupla Sena**: <!--duplasena-->2.601 => 03, 07, 23, 15, 18, 35, 38, 11, 18, 22, 03, 39
  - **Federal**: <!--federal-->5.822 => 072178, 098918, 059909, 041852, 000298
- - **Lotofácil**: <!--lotofacil-->2.970 => 02, 15, 20, 25, 03, 13, 08, 14, 22, 09, 18, 01, 11, 12, 21
+ - **Lotofácil**: <!--lotofacil-->2.971 => 11, 10, 16, 25, 12, 02, 21, 05, 14, 01, 20, 17, 15, 18, 04
  - **Lotomania**: <!--lotomania-->2.555 => 65, 22, 20, 59, 33, 29, 64, 90, 60, 28, 99, 51, 05, 02, 50, 96, 30, 17, 56, 23
  - **+Milionária**: <!--maismilionaria-->100 => 36, 42, 21, 37, 32, 11, 06, 04
- - **Mega Sena**: <!--megasena-->2.663 => 27, 07, 56, 11, 41, 59
- - **Quina**: <!--quina-->6.307 => 08, 75, 34, 59, 04
+ - **Mega Sena**: <!--megasena-->2.664 => 15, 40, 17, 12, 52, 30
+ - **Quina**: <!--quina-->6.308 => 78, 30, 42, 50, 28
  - **Super Sete**: <!--supersete-->479 => 5, 8, 0, 2, 7, 4, 1
- - **Timemania**: <!--timemania-->2.023 => 44, 66, 58, 67, 04, 74, 43, MANAUS/AM
+ - **Timemania**: <!--timemania-->2.024 => 27, 40, 69, 47, 51, 31, 37, MOTOCLUB/MA
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

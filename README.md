@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->845 => 11, 17, 26, 20, 16, 10, 12, Junho
+ - **Dia de Sorte**: <!--diadesorte-->846 => 18, 21, 07, 20, 26, 25, 29, Outubro
  - **Dupla Sena**: <!--duplasena-->2.602 => 31, 40, 39, 11, 30, 46, 40, 33, 18, 05, 03, 08
  - **Federal**: <!--federal-->5.823 => 054134, 026149, 043424, 073950, 091909
- - **Lotofácil**: <!--lotofacil-->2.972 => 12, 25, 18, 05, 06, 20, 19, 11, 03, 08, 13, 04, 14, 24, 21
+ - **Lotofácil**: <!--lotofacil-->2.973 => 17, 08, 14, 04, 20, 02, 06, 09, 19, 10, 11, 25, 18, 01, 16
  - **Lotomania**: <!--lotomania-->2.556 => 48, 28, 27, 50, 69, 08, 73, 49, 86, 13, 24, 10, 99, 77, 36, 05, 14, 34, 30, 23
  - **+Milionária**: <!--maismilionaria-->101 => 37, 44, 49, 31, 02, 25, 06, 01
- - **Mega Sena**: <!--megasena-->2.664 => 15, 40, 17, 12, 52, 30
- - **Quina**: <!--quina-->6.309 => 39, 36, 80, 53, 15
+ - **Mega Sena**: <!--megasena-->2.665 => 03, 39, 21, 22, 14, 37
+ - **Quina**: <!--quina-->6.310 => 25, 24, 34, 08, 61
  - **Super Sete**: <!--supersete-->480 => 1, 2, 5, 4, 4, 8, 6
- - **Timemania**: <!--timemania-->2.024 => 27, 40, 69, 47, 51, 31, 37, MOTOCLUB/MA
+ - **Timemania**: <!--timemania-->2.025 => 51, 26, 55, 64, 48, 74, 03, INTERNACIONAL/RS
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

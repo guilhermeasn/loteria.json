@@ -33,9 +33,9 @@ jobs:
 
       - name: Commit
         run: |
-          git config --global user.email "guilhermeasn@yahoo.com.br"
-          git config --global user.name "Guilherme Neves"
           if [[ ! -z $(git status -s) ]]; then
+            git config --global user.email "guilhermeasn@yahoo.com.br"
+            git config --global user.name "Guilherme Neves"
             git add .
             git commit -am 'Continuous Integration'
             git push

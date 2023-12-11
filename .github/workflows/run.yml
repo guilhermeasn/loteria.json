@@ -38,4 +38,4 @@ jobs:
           git config --global user.name "Guilherme Neves"
           git add .
           git commit -am 'Continuous Integration'
-          git push
+          if (git diff --quiet); then git push; fi

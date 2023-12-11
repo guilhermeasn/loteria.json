@@ -32,7 +32,6 @@ jobs:
         run: yarn start
 
       - name: Commit
-        continue-on-error: true
         run: |
           git config --global user.email "guilhermeasn@yahoo.com.br"
           git config --global user.name "Guilherme Neves"

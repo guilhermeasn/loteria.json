@@ -32,9 +32,9 @@ jobs:
         run: yarn start
 
       - name: Commit
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: '.'
-          author_name: Guilherme Neves
-          author_email: guilhermeasn@yahoo.com.br
-          message: 'Continuous Integration'
+        run: |
+          git config --global user.email "guilhermeasn@yahoo.com.br"
+          git config --global user.name "Guilherme Neves"
+          git add .
+          git commit -am 'Continuous Integration'
+          git push

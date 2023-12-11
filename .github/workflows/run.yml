@@ -28,7 +28,7 @@ jobs:
           yarn
           yarn start
 
-      - name: Commit
+      - name: Push
         run: |
           if [[ ! -z $(git status -s) ]]; then
             git config --global user.email "guilhermeasn@yahoo.com.br"

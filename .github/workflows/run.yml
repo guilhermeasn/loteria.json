@@ -3,8 +3,6 @@ name: Run Script
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
   schedule:
     - cron: '0 0 * * *'
     - cron: '0 3 * * *'
@@ -19,17 +17,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Node.js
+      - name: NodeJS
         uses: actions/setup-node@v3
         with:
           node-version: 18.7.0
           cache: 'yarn'
 
-      - name: Install Modules
-        run: yarn
-
-      - name: Run Script
-        run: yarn start
+      - name: Run
+        run: |
+          yarn
+          yarn start
 
       - name: Commit
         run: |

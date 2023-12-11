@@ -24,6 +24,7 @@ jobs:
           cache: 'yarn'
 
       - name: Run
+        timeout-minutes: 45
         run: |
           yarn
           yarn start

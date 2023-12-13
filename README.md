@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->847 => 05, 18, 24, 27, 20, 31, 26, Dezembro
+ - **Dia de Sorte**: <!--diadesorte-->848 => 14, 07, 21, 19, 03, 29, 22, Agosto
  - **Dupla Sena**: <!--duplasena-->2.604 => 21, 04, 31, 03, 46, 39, 01, 49, 05, 31, 46, 33
  - **Federal**: <!--federal-->5.824 => 065214, 078584, 057138, 077530, 086236
- - **Lotofácil**: <!--lotofacil-->2.976 => 09, 01, 12, 08, 04, 24, 14, 20, 02, 21, 17, 18, 13, 06, 10
+ - **Lotofácil**: <!--lotofacil-->2.977 => 09, 20, 18, 07, 13, 22, 05, 11, 06, 03, 24, 14, 10, 08, 25
  - **Lotomania**: <!--lotomania-->2.558 => 76, 38, 11, 69, 92, 10, 23, 33, 47, 36, 44, 58, 43, 77, 19, 14, 15, 04, 21, 70
  - **+Milionária**: <!--maismilionaria-->102 => 41, 15, 12, 16, 29, 10, 05, 03
- - **Mega Sena**: <!--megasena-->2.666 => 29, 05, 43, 47, 30, 25
- - **Quina**: <!--quina-->6.313 => 40, 45, 64, 30, 57
+ - **Mega Sena**: <!--megasena-->2.667 => 04, 46, 21, 51, 08, 01
+ - **Quina**: <!--quina-->6.314 => 50, 14, 63, 70, 65
  - **Super Sete**: <!--supersete-->482 => 1, 5, 2, 0, 9, 3, 7
- - **Timemania**: <!--timemania-->2.026 => 11, 67, 39, 45, 49, 24, 41, SAORAIMUNDO/RR
+ - **Timemania**: <!--timemania-->2.027 => 70, 14, 51, 45, 65, 29, 69, GUARANI/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

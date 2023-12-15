@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->848 => 14, 07, 21, 19, 03, 29, 22, Agosto
+ - **Dia de Sorte**: <!--diadesorte-->849 => 12, 27, 14, 03, 21, 17, 07, Fevereiro
  - **Dupla Sena**: <!--duplasena-->2.605 => 46, 47, 43, 41, 22, 11, 21, 24, 28, 49, 08, 37
  - **Federal**: <!--federal-->5.825 => 087222, 026487, 078250, 014568, 027159
  - **Lotofácil**: <!--lotofacil-->2.978 => 10, 06, 17, 21, 05, 07, 12, 16, 14, 13, 25, 23, 24, 15, 20
  - **Lotomania**: <!--lotomania-->2.559 => 56, 98, 92, 36, 82, 97, 46, 94, 37, 67, 23, 31, 16, 72, 49, 41, 79, 59, 53, 71
  - **+Milionária**: <!--maismilionaria-->103 => 29, 32, 11, 40, 02, 04, 04, 06
- - **Mega Sena**: <!--megasena-->2.667 => 04, 46, 21, 51, 08, 01
- - **Quina**: <!--quina-->6.315 => 26, 48, 27, 31, 06
+ - **Mega Sena**: <!--megasena-->2.668 => 46, 30, 41, 27, 01, 57
+ - **Quina**: <!--quina-->6.316 => 35, 70, 71, 44, 54
  - **Super Sete**: <!--supersete-->483 => 3, 0, 4, 9, 1, 4, 1
- - **Timemania**: <!--timemania-->2.027 => 70, 14, 51, 45, 65, 29, 69, GUARANI/SP
+ - **Timemania**: <!--timemania-->2.028 => 54, 69, 12, 64, 63, 78, 06, FLORESTA/CE
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->850 => 31, 25, 26, 20, 18, 30, 09, Agosto
+ - **Dia de Sorte**: <!--diadesorte-->851 => 24, 15, 25, 23, 12, 04, 14, Outubro
  - **Dupla Sena**: <!--duplasena-->2.607 => 39, 11, 42, 37, 09, 33, 48, 05, 07, 10, 19, 24
  - **Federal**: <!--federal-->5.826 => 030255, 074166, 047090, 029100, 047392
- - **Lotofácil**: <!--lotofacil-->2.982 => 07, 23, 16, 12, 19, 24, 06, 08, 10, 14, 20, 15, 18, 02, 21
+ - **Lotofácil**: <!--lotofacil-->2.983 => 09, 03, 25, 13, 12, 15, 24, 19, 01, 08, 06, 07, 23, 02, 04
  - **Lotomania**: <!--lotomania-->2.561 => 11, 25, 52, 48, 74, 79, 82, 32, 42, 02, 30, 44, 46, 01, 13, 33, 68, 24, 26, 55
  - **+Milionária**: <!--maismilionaria-->104 => 04, 39, 38, 33, 17, 47, 03, 04
  - **Mega Sena**: <!--megasena-->2.669 => 07, 04, 35, 16, 46, 54
- - **Quina**: <!--quina-->6.319 => 15, 55, 54, 16, 64
+ - **Quina**: <!--quina-->6.320 => 14, 73, 57, 46, 28
  - **Super Sete**: <!--supersete-->485 => 4, 6, 1, 2, 9, 4, 1
- - **Timemania**: <!--timemania-->2.029 => 53, 52, 64, 47, 68, 28, 65, CAXIAS/RS
+ - **Timemania**: <!--timemania-->2.030 => 28, 59, 26, 20, 53, 06, 05, FLORESTA/CE
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

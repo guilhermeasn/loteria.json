@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->851 => 24, 15, 25, 23, 12, 04, 14, Outubro
+ - **Dia de Sorte**: <!--diadesorte-->852 => 10, 15, 02, 09, 22, 13, 07, Junho
  - **Dupla Sena**: <!--duplasena-->2.608 => 39, 11, 17, 46, 08, 24, 06, 33, 13, 15, 07, 18
  - **Federal**: <!--federal-->5.826 => 030255, 074166, 047090, 029100, 047392
- - **Lotofácil**: <!--lotofacil-->2.984 => 23, 24, 07, 06, 09, 20, 13, 15, 14, 08, 18, 03, 02, 25, 05
+ - **Lotofácil**: <!--lotofacil-->2.985 => 19, 03, 07, 21, 14, 04, 12, 15, 24, 18, 25, 05, 02, 11, 22
  - **Lotomania**: <!--lotomania-->2.562 => 77, 80, 15, 56, 50, 86, 10, 53, 69, 73, 70, 25, 51, 85, 06, 35, 24, 05, 44, 43
  - **+Milionária**: <!--maismilionaria-->105 => 36, 45, 05, 07, 32, 22, 05, 02
  - **Mega Sena**: <!--megasena-->2.669 => 07, 04, 35, 16, 46, 54
- - **Quina**: <!--quina-->6.321 => 27, 26, 67, 79, 02
+ - **Quina**: <!--quina-->6.322 => 17, 64, 61, 60, 21
  - **Super Sete**: <!--supersete-->486 => 7, 3, 4, 8, 7, 7, 1
- - **Timemania**: <!--timemania-->2.030 => 28, 59, 26, 20, 53, 06, 05, FLORESTA/CE
+ - **Timemania**: <!--timemania-->2.031 => 29, 65, 06, 22, 51, 42, 04, BOTAFOGO/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

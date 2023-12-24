@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->852 => 10, 15, 02, 09, 22, 13, 07, Junho
+ - **Dia de Sorte**: <!--diadesorte-->853 => 02, 27, 25, 24, 10, 16, 01, Julho
  - **Dupla Sena**: <!--duplasena-->2.609 => 34, 43, 03, 25, 48, 09, 18, 06, 46, 33, 23, 49
  - **Federal**: <!--federal-->5.827 => 001413, 007634, 004028, 084015, 073349
- - **Lotofácil**: <!--lotofacil-->2.986 => 22, 23, 07, 13, 12, 10, 16, 25, 19, 20, 04, 01, 18, 03, 14
+ - **Lotofácil**: <!--lotofacil-->2.987 => 13, 18, 16, 20, 07, 04, 17, 11, 01, 06, 14, 12, 15, 03, 08
  - **Lotomania**: <!--lotomania-->2.563 => 99, 73, 94, 64, 57, 34, 02, 70, 96, 00, 56, 55, 59, 85, 53, 93, 26, 74, 58, 24
  - **+Milionária**: <!--maismilionaria-->106 => 21, 42, 50, 37, 46, 22, 04, 03
  - **Mega Sena**: <!--megasena-->2.669 => 07, 04, 35, 16, 46, 54
- - **Quina**: <!--quina-->6.323 => 06, 66, 33, 71, 15
+ - **Quina**: <!--quina-->6.324 => 38, 71, 22, 12, 44
  - **Super Sete**: <!--supersete-->487 => 6, 1, 5, 2, 3, 4, 9
- - **Timemania**: <!--timemania-->2.031 => 29, 65, 06, 22, 51, 42, 04, BOTAFOGO/SP
+ - **Timemania**: <!--timemania-->2.032 => 01, 17, 43, 05, 16, 42, 13, CUIABA/MT
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

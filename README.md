@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->853 => 02, 27, 25, 24, 10, 16, 01, Julho
+ - **Dia de Sorte**: <!--diadesorte-->854 => 17, 07, 18, 24, 14, 16, 23, Janeiro
  - **Dupla Sena**: <!--duplasena-->2.609 => 34, 43, 03, 25, 48, 09, 18, 06, 46, 33, 23, 49
  - **Federal**: <!--federal-->5.827 => 001413, 007634, 004028, 084015, 073349
- - **Lotofácil**: <!--lotofacil-->2.987 => 13, 18, 16, 20, 07, 04, 17, 11, 01, 06, 14, 12, 15, 03, 08
- - **Lotomania**: <!--lotomania-->2.563 => 99, 73, 94, 64, 57, 34, 02, 70, 96, 00, 56, 55, 59, 85, 53, 93, 26, 74, 58, 24
+ - **Lotofácil**: <!--lotofacil-->2.988 => 10, 12, 03, 01, 23, 07, 19, 17, 22, 14, 20, 09, 06, 13, 11
+ - **Lotomania**: <!--lotomania-->2.564 => 79, 41, 06, 93, 43, 90, 97, 03, 59, 91, 01, 94, 07, 73, 63, 15, 12, 78, 82, 49
  - **+Milionária**: <!--maismilionaria-->106 => 21, 42, 50, 37, 46, 22, 04, 03
  - **Mega Sena**: <!--megasena-->2.669 => 07, 04, 35, 16, 46, 54
- - **Quina**: <!--quina-->6.324 => 38, 71, 22, 12, 44
+ - **Quina**: <!--quina-->6.325 => 59, 35, 04, 47, 52
  - **Super Sete**: <!--supersete-->487 => 6, 1, 5, 2, 3, 4, 9
- - **Timemania**: <!--timemania-->2.032 => 01, 17, 43, 05, 16, 42, 13, CUIABA/MT
+ - **Timemania**: <!--timemania-->2.033 => 52, 28, 55, 48, 02, 60, 09, BOAVISTA/RJ
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

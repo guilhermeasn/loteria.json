@@ -1,11 +1,12 @@
 import { price } from "./fetchdata";
 import { writePrice } from "./filewriter";
+import { Price } from "./types";
 
 async function main() {
 
     const data = await price(); 
 
-    writePrice({
+    const prices : Price = {
         diadesorte: data.find(mod => mod.lottery === 'DIA_DE_SORTE')?.price ?? null,
         duplasena: data.find(mod => mod.lottery === 'DUPLA_SENA')?.price ?? null,
         federal: data.find(mod => mod.lottery === 'FEDERAL')?.price ?? null,
@@ -17,7 +18,11 @@ async function main() {
         quina: data.find(mod => mod.lottery === 'QUINA')?.price ?? null,
         supersete: data.find(mod => mod.lottery === 'SUPER_7')?.price ?? null,
         timemania: data.find(mod => mod.lottery === 'TIMEMANIA')?.price ?? null
-    });
+    };
+
+    writePrice(prices);
+
+    console.log(prices);
 
 }
 

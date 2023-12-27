@@ -1,0 +1,3219 @@
+{
+    "versao": "2.93.37.2",
+    "payload": {
+        "valorMinimoCarrinho": 30.00,
+        "quantidadeMaximaApostasCarrinho": 999,
+        "parametros": [
+            {
+                "parametroJogo": {
+                    "concurso": {
+                        "modalidade": "MEGA_SENA",
+                        "modalidadeDetalhada": {
+                            "valor": 2,
+                            "descricao": "Mega-Sena",
+                            "descricaoEspecial": "Mega da Virada"
+                        },
+                        "tipoConcurso": "ESPECIAL",
+                        "numero": 2670,
+                        "dataFechamento": "31/12/2023 17:00:00",
+                        "dataAbertura": "13/11/2023 06:00:00",
+                        "dataHoraSorteio": "31/12/2023 20:00:00",
+                        "dataSorteio": "31 dez 2023",
+                        "valorApostaMinima": 5.00,
+                        "situacao": "ABERTO",
+                        "bloqueado": false,
+                        "estimativa": 570000000.00,
+                        "naoInicializado": false,
+                        "aberto": true
+                    },
+                    "situacaoConcursoCanal": "ABERTO",
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": false,
+                    "prognosticoMaximo": 60,
+                    "quantidadeMinima": 6,
+                    "quantidadeMaxima": 20,
+                    "teimosinhas": [
+                        0
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 5.00,
+                            "numeroPrognosticos": 6
+                        },
+                        {
+                            "valor": 35.00,
+                            "numeroPrognosticos": 7
+                        },
+                        {
+                            "valor": 140.00,
+                            "numeroPrognosticos": 8
+                        },
+                        {
+                            "valor": 420.00,
+                            "numeroPrognosticos": 9
+                        },
+                        {
+                            "valor": 1050.00,
+                            "numeroPrognosticos": 10
+                        },
+                        {
+                            "valor": 2310.00,
+                            "numeroPrognosticos": 11
+                        },
+                        {
+                            "valor": 4620.00,
+                            "numeroPrognosticos": 12
+                        },
+                        {
+                            "valor": 8580.00,
+                            "numeroPrognosticos": 13
+                        },
+                        {
+                            "valor": 15015.00,
+                            "numeroPrognosticos": 14
+                        },
+                        {
+                            "valor": 25025.00,
+                            "numeroPrognosticos": 15
+                        },
+                        {
+                            "valor": 40040.00,
+                            "numeroPrognosticos": 16
+                        },
+                        {
+                            "valor": 61880.00,
+                            "numeroPrognosticos": 17
+                        },
+                        {
+                            "valor": 92820.00,
+                            "numeroPrognosticos": 18
+                        },
+                        {
+                            "valor": 135660.00,
+                            "numeroPrognosticos": 19
+                        },
+                        {
+                            "valor": 193800.00,
+                            "numeroPrognosticos": 20
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": true
+                },
+                "proximoConcurso": {
+                    "concurso": {
+                        "modalidade": "MEGA_SENA",
+                        "modalidadeDetalhada": {
+                            "valor": 2,
+                            "descricao": "Mega-Sena",
+                            "descricaoEspecial": "Mega da Virada"
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 2671,
+                        "dataFechamento": "02/01/2024 19:00:00",
+                        "dataAbertura": "31/12/2023 21:00:00",
+                        "dataHoraSorteio": "02/01/2024 20:00:00",
+                        "dataSorteio": "02 jan 2024",
+                        "valorApostaMinima": 5.00,
+                        "situacao": "NAO_INICIALIZADO",
+                        "bloqueado": false,
+                        "estimativa": 3000000.00,
+                        "naoInicializado": true,
+                        "aberto": false
+                    },
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": false,
+                    "prognosticoMaximo": 60,
+                    "quantidadeMinima": 6,
+                    "quantidadeMaxima": 20,
+                    "teimosinhas": [
+                        0,
+                        2,
+                        3,
+                        4,
+                        6,
+                        8,
+                        9,
+                        12
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 5.00,
+                            "numeroPrognosticos": 6
+                        },
+                        {
+                            "valor": 35.00,
+                            "numeroPrognosticos": 7
+                        },
+                        {
+                            "valor": 140.00,
+                            "numeroPrognosticos": 8
+                        },
+                        {
+                            "valor": 420.00,
+                            "numeroPrognosticos": 9
+                        },
+                        {
+                            "valor": 1050.00,
+                            "numeroPrognosticos": 10
+                        },
+                        {
+                            "valor": 2310.00,
+                            "numeroPrognosticos": 11
+                        },
+                        {
+                            "valor": 4620.00,
+                            "numeroPrognosticos": 12
+                        },
+                        {
+                            "valor": 8580.00,
+                            "numeroPrognosticos": 13
+                        },
+                        {
+                            "valor": 15015.00,
+                            "numeroPrognosticos": 14
+                        },
+                        {
+                            "valor": 25025.00,
+                            "numeroPrognosticos": 15
+                        },
+                        {
+                            "valor": 40040.00,
+                            "numeroPrognosticos": 16
+                        },
+                        {
+                            "valor": 61880.00,
+                            "numeroPrognosticos": 17
+                        },
+                        {
+                            "valor": 92820.00,
+                            "numeroPrognosticos": 18
+                        },
+                        {
+                            "valor": 135660.00,
+                            "numeroPrognosticos": 19
+                        },
+                        {
+                            "valor": 193800.00,
+                            "numeroPrognosticos": 20
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": false
+                }
+            },
+            {
+                "parametroJogo": {
+                    "concurso": {
+                        "modalidade": "MAIS_MILIONARIA",
+                        "modalidadeDetalhada": {
+                            "valor": 9,
+                            "descricao": "Mais Milionária",
+                            "descricaoEspecial": ""
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 107,
+                        "dataFechamento": "27/12/2023 19:00:00",
+                        "dataAbertura": "23/12/2023 19:05:00",
+                        "dataHoraSorteio": "27/12/2023 20:00:00",
+                        "dataSorteio": "27 dez 2023",
+                        "valorApostaMinima": 6.00,
+                        "situacao": "ABERTO",
+                        "bloqueado": false,
+                        "estimativa": 114000000.00,
+                        "naoInicializado": false,
+                        "aberto": true
+                    },
+                    "situacaoConcursoCanal": "ABERTO",
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": false,
+                    "prognosticoMaximo": 50,
+                    "quantidadeMinima": 6,
+                    "quantidadeMaxima": 12,
+                    "teimosinhas": [
+                        0,
+                        2,
+                        3,
+                        4,
+                        5
+                    ],
+                    "quantidadeSurpresinhas": 10,
+                    "valoresAposta": [
+                        {
+                            "valor": 6.00,
+                            "numeroPrognosticos": 6,
+                            "numeroTrevos": 2
+                        },
+                        {
+                            "valor": 18.00,
+                            "numeroPrognosticos": 6,
+                            "numeroTrevos": 3
+                        },
+                        {
+                            "valor": 36.00,
+                            "numeroPrognosticos": 6,
+                            "numeroTrevos": 4
+                        },
+                        {
+                            "valor": 42.00,
+                            "numeroPrognosticos": 7,
+                            "numeroTrevos": 2
+                        },
+                        {
+                            "valor": 60.00,
+                            "numeroPrognosticos": 6,
+                            "numeroTrevos": 5
+                        },
+                        {
+                            "valor": 90.00,
+                            "numeroPrognosticos": 6,
+                            "numeroTrevos": 6
+                        },
+                        {
+                            "valor": 126.00,
+                            "numeroPrognosticos": 7,
+                            "numeroTrevos": 3
+                        },
+                        {
+                            "valor": 168.00,
+                            "numeroPrognosticos": 8,
+                            "numeroTrevos": 2
+                        },
+                        {
+                            "valor": 252.00,
+                            "numeroPrognosticos": 7,
+                            "numeroTrevos": 4
+                        },
+                        {
+                            "valor": 420.00,
+                            "numeroPrognosticos": 7,
+                            "numeroTrevos": 5
+                        },
+                        {
+                            "valor": 504.00,
+                            "numeroPrognosticos": 8,
+                            "numeroTrevos": 3
+                        },
+                        {
+                            "valor": 504.00,
+                            "numeroPrognosticos": 9,
+                            "numeroTrevos": 2
+                        },
+                        {
+                            "valor": 630.00,
+                            "numeroPrognosticos": 7,
+                            "numeroTrevos": 6
+                        },
+                        {
+                            "valor": 1008.00,
+                            "numeroPrognosticos": 8,
+                            "numeroTrevos": 4
+                        },
+                        {
+                            "valor": 1260.00,
+                            "numeroPrognosticos": 10,
+                            "numeroTrevos": 2
+                        },
+                        {
+                            "valor": 1512.00,
+                            "numeroPrognosticos": 9,
+                            "numeroTrevos": 3
+                        },
+                        {
+                            "valor": 1680.00,
+                            "numeroPrognosticos": 8,
+                            "numeroTrevos": 5
+                        },
+                        {
+                            "valor": 2520.00,
+                            "numeroPrognosticos": 8,
+                            "numeroTrevos": 6
+                        },
+                        {
+                            "valor": 2772.00,
+                            "numeroPrognosticos": 11,
+                            "numeroTrevos": 2
+                        },
+                        {
+                            "valor": 3024.00,
+                            "numeroPrognosticos": 9,
+                            "numeroTrevos": 4
+                        },
+                        {
+                            "valor": 3780.00,
+                            "numeroPrognosticos": 10,
+                            "numeroTrevos": 3
+                        },
+                        {
+                            "valor": 5040.00,
+                            "numeroPrognosticos": 9,
+                            "numeroTrevos": 5
+                        },
+                        {
+                            "valor": 5544.00,
+                            "numeroPrognosticos": 12,
+                            "numeroTrevos": 2
+                        },
+                        {
+                            "valor": 7560.00,
+                            "numeroPrognosticos": 9,
+                            "numeroTrevos": 6
+                        },
+                        {
+                            "valor": 7560.00,
+                            "numeroPrognosticos": 10,
+                            "numeroTrevos": 4
+                        },
+                        {
+                            "valor": 8316.00,
+                            "numeroPrognosticos": 11,
+                            "numeroTrevos": 3
+                        },
+                        {
+                            "valor": 12600.00,
+                            "numeroPrognosticos": 10,
+                            "numeroTrevos": 5
+                        },
+                        {
+                            "valor": 16632.00,
+                            "numeroPrognosticos": 11,
+                            "numeroTrevos": 4
+                        },
+                        {
+                            "valor": 16632.00,
+                            "numeroPrognosticos": 12,
+                            "numeroTrevos": 3
+                        },
+                        {
+                            "valor": 18900.00,
+                            "numeroPrognosticos": 10,
+                            "numeroTrevos": 6
+                        },
+                        {
+                            "valor": 27720.00,
+                            "numeroPrognosticos": 11,
+                            "numeroTrevos": 5
+                        },
+                        {
+                            "valor": 33264.00,
+                            "numeroPrognosticos": 12,
+                            "numeroTrevos": 4
+                        },
+                        {
+                            "valor": 41580.00,
+                            "numeroPrognosticos": 11,
+                            "numeroTrevos": 6
+                        },
+                        {
+                            "valor": 55440.00,
+                            "numeroPrognosticos": 12,
+                            "numeroTrevos": 5
+                        },
+                        {
+                            "valor": 83160.00,
+                            "numeroPrognosticos": 12,
+                            "numeroTrevos": 6
+                        }
+                    ],
+                    "trevos": {
+                        "prognosticoMaximoTrevo": 6,
+                        "quantidadeMinimaTrevo": 2,
+                        "quantidadeMaximaTrevo": 6
+                    },
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": true
+                },
+                "proximoConcurso": {
+                    "concurso": {
+                        "modalidade": "MAIS_MILIONARIA",
+                        "modalidadeDetalhada": {
+                            "valor": 9,
+                            "descricao": "Mais Milionária",
+                            "descricaoEspecial": ""
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 108,
+                        "dataFechamento": "30/12/2023 19:00:00",
+                        "dataAbertura": "27/12/2023 19:05:00",
+                        "dataHoraSorteio": "30/12/2023 20:00:00",
+                        "dataSorteio": "30 dez 2023",
+                        "valorApostaMinima": 6.00,
+                        "situacao": "NAO_INICIALIZADO",
+                        "bloqueado": false,
+                        "estimativa": 0.00,
+                        "naoInicializado": true,
+                        "aberto": false
+                    },
+                    "situacaoConcursoCanal": "FECHADO",
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": false,
+                    "prognosticoMaximo": 50,
+                    "quantidadeMinima": 6,
+                    "quantidadeMaxima": 12,
+                    "teimosinhas": [
+                        0,
+                        2,
+                        3,
+                        4,
+                        5
+                    ],
+                    "quantidadeSurpresinhas": 10,
+                    "valoresAposta": [
+                        {
+                            "valor": 6.00,
+                            "numeroPrognosticos": 6,
+                            "numeroTrevos": 2
+                        },
+                        {
+                            "valor": 18.00,
+                            "numeroPrognosticos": 6,
+                            "numeroTrevos": 3
+                        },
+                        {
+                            "valor": 36.00,
+                            "numeroPrognosticos": 6,
+                            "numeroTrevos": 4
+                        },
+                        {
+                            "valor": 42.00,
+                            "numeroPrognosticos": 7,
+                            "numeroTrevos": 2
+                        },
+                        {
+                            "valor": 60.00,
+                            "numeroPrognosticos": 6,
+                            "numeroTrevos": 5
+                        },
+                        {
+                            "valor": 90.00,
+                            "numeroPrognosticos": 6,
+                            "numeroTrevos": 6
+                        },
+                        {
+                            "valor": 126.00,
+                            "numeroPrognosticos": 7,
+                            "numeroTrevos": 3
+                        },
+                        {
+                            "valor": 168.00,
+                            "numeroPrognosticos": 8,
+                            "numeroTrevos": 2
+                        },
+                        {
+                            "valor": 252.00,
+                            "numeroPrognosticos": 7,
+                            "numeroTrevos": 4
+                        },
+                        {
+                            "valor": 420.00,
+                            "numeroPrognosticos": 7,
+                            "numeroTrevos": 5
+                        },
+                        {
+                            "valor": 504.00,
+                            "numeroPrognosticos": 8,
+                            "numeroTrevos": 3
+                        },
+                        {
+                            "valor": 504.00,
+                            "numeroPrognosticos": 9,
+                            "numeroTrevos": 2
+                        },
+                        {
+                            "valor": 630.00,
+                            "numeroPrognosticos": 7,
+                            "numeroTrevos": 6
+                        },
+                        {
+                            "valor": 1008.00,
+                            "numeroPrognosticos": 8,
+                            "numeroTrevos": 4
+                        },
+                        {
+                            "valor": 1260.00,
+                            "numeroPrognosticos": 10,
+                            "numeroTrevos": 2
+                        },
+                        {
+                            "valor": 1512.00,
+                            "numeroPrognosticos": 9,
+                            "numeroTrevos": 3
+                        },
+                        {
+                            "valor": 1680.00,
+                            "numeroPrognosticos": 8,
+                            "numeroTrevos": 5
+                        },
+                        {
+                            "valor": 2520.00,
+                            "numeroPrognosticos": 8,
+                            "numeroTrevos": 6
+                        },
+                        {
+                            "valor": 2772.00,
+                            "numeroPrognosticos": 11,
+                            "numeroTrevos": 2
+                        },
+                        {
+                            "valor": 3024.00,
+                            "numeroPrognosticos": 9,
+                            "numeroTrevos": 4
+                        },
+                        {
+                            "valor": 3780.00,
+                            "numeroPrognosticos": 10,
+                            "numeroTrevos": 3
+                        },
+                        {
+                            "valor": 5040.00,
+                            "numeroPrognosticos": 9,
+                            "numeroTrevos": 5
+                        },
+                        {
+                            "valor": 5544.00,
+                            "numeroPrognosticos": 12,
+                            "numeroTrevos": 2
+                        },
+                        {
+                            "valor": 7560.00,
+                            "numeroPrognosticos": 9,
+                            "numeroTrevos": 6
+                        },
+                        {
+                            "valor": 7560.00,
+                            "numeroPrognosticos": 10,
+                            "numeroTrevos": 4
+                        },
+                        {
+                            "valor": 8316.00,
+                            "numeroPrognosticos": 11,
+                            "numeroTrevos": 3
+                        },
+                        {
+                            "valor": 12600.00,
+                            "numeroPrognosticos": 10,
+                            "numeroTrevos": 5
+                        },
+                        {
+                            "valor": 16632.00,
+                            "numeroPrognosticos": 11,
+                            "numeroTrevos": 4
+                        },
+                        {
+                            "valor": 16632.00,
+                            "numeroPrognosticos": 12,
+                            "numeroTrevos": 3
+                        },
+                        {
+                            "valor": 18900.00,
+                            "numeroPrognosticos": 10,
+                            "numeroTrevos": 6
+                        },
+                        {
+                            "valor": 27720.00,
+                            "numeroPrognosticos": 11,
+                            "numeroTrevos": 5
+                        },
+                        {
+                            "valor": 33264.00,
+                            "numeroPrognosticos": 12,
+                            "numeroTrevos": 4
+                        },
+                        {
+                            "valor": 41580.00,
+                            "numeroPrognosticos": 11,
+                            "numeroTrevos": 6
+                        },
+                        {
+                            "valor": 55440.00,
+                            "numeroPrognosticos": 12,
+                            "numeroTrevos": 5
+                        },
+                        {
+                            "valor": 83160.00,
+                            "numeroPrognosticos": 12,
+                            "numeroTrevos": 6
+                        }
+                    ],
+                    "trevos": {
+                        "prognosticoMaximoTrevo": 6,
+                        "quantidadeMinimaTrevo": 2,
+                        "quantidadeMaximaTrevo": 6
+                    },
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": false
+                }
+            },
+            {
+                "parametroJogo": {
+                    "concurso": {
+                        "modalidade": "LOTOFACIL",
+                        "modalidadeDetalhada": {
+                            "valor": 8,
+                            "descricao": "Lotofácil",
+                            "descricaoEspecial": "Lotofácil da Independência"
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 2989,
+                        "dataFechamento": "27/12/2023 19:00:00",
+                        "dataAbertura": "26/12/2023 21:00:00",
+                        "dataHoraSorteio": "27/12/2023 20:00:00",
+                        "dataSorteio": "27 dez 2023",
+                        "valorApostaMinima": 3.00,
+                        "situacao": "ABERTO",
+                        "bloqueado": false,
+                        "estimativa": 4000000.00,
+                        "naoInicializado": false,
+                        "aberto": true
+                    },
+                    "situacaoConcursoCanal": "ABERTO",
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": false,
+                    "prognosticoMaximo": 25,
+                    "quantidadeMinima": 15,
+                    "quantidadeMaxima": 20,
+                    "teimosinhas": [
+                        0,
+                        2,
+                        3,
+                        4,
+                        6,
+                        8,
+                        9,
+                        12,
+                        18,
+                        24
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 3.00,
+                            "numeroPrognosticos": 15
+                        },
+                        {
+                            "valor": 48.00,
+                            "numeroPrognosticos": 16
+                        },
+                        {
+                            "valor": 408.00,
+                            "numeroPrognosticos": 17
+                        },
+                        {
+                            "valor": 2448.00,
+                            "numeroPrognosticos": 18
+                        },
+                        {
+                            "valor": 11628.00,
+                            "numeroPrognosticos": 19
+                        },
+                        {
+                            "valor": 46512.00,
+                            "numeroPrognosticos": 20
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": true
+                },
+                "proximoConcurso": {
+                    "concurso": {
+                        "modalidade": "LOTOFACIL",
+                        "modalidadeDetalhada": {
+                            "valor": 8,
+                            "descricao": "Lotofácil",
+                            "descricaoEspecial": "Lotofácil da Independência"
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 2990,
+                        "dataFechamento": "28/12/2023 19:00:00",
+                        "dataAbertura": "27/12/2023 21:00:00",
+                        "dataHoraSorteio": "28/12/2023 20:00:00",
+                        "dataSorteio": "28 dez 2023",
+                        "valorApostaMinima": 3.00,
+                        "situacao": "NAO_INICIALIZADO",
+                        "bloqueado": false,
+                        "estimativa": 0.00,
+                        "naoInicializado": true,
+                        "aberto": false
+                    },
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": false,
+                    "prognosticoMaximo": 25,
+                    "quantidadeMinima": 15,
+                    "quantidadeMaxima": 20,
+                    "teimosinhas": [
+                        0,
+                        2,
+                        3,
+                        4,
+                        6,
+                        8,
+                        9,
+                        12,
+                        18,
+                        24
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 3.00,
+                            "numeroPrognosticos": 15
+                        },
+                        {
+                            "valor": 48.00,
+                            "numeroPrognosticos": 16
+                        },
+                        {
+                            "valor": 408.00,
+                            "numeroPrognosticos": 17
+                        },
+                        {
+                            "valor": 2448.00,
+                            "numeroPrognosticos": 18
+                        },
+                        {
+                            "valor": 11628.00,
+                            "numeroPrognosticos": 19
+                        },
+                        {
+                            "valor": 46512.00,
+                            "numeroPrognosticos": 20
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": false
+                }
+            },
+            {
+                "parametroJogo": {
+                    "concurso": {
+                        "modalidade": "QUINA",
+                        "modalidadeDetalhada": {
+                            "valor": 3,
+                            "descricao": "Quina",
+                            "descricaoEspecial": "Quina de São João"
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 6326,
+                        "dataFechamento": "27/12/2023 19:00:00",
+                        "dataAbertura": "26/12/2023 21:00:00",
+                        "dataHoraSorteio": "27/12/2023 20:00:00",
+                        "dataSorteio": "27 dez 2023",
+                        "valorApostaMinima": 2.50,
+                        "situacao": "ABERTO",
+                        "bloqueado": false,
+                        "estimativa": 12000000.00,
+                        "naoInicializado": false,
+                        "aberto": true
+                    },
+                    "situacaoConcursoCanal": "ABERTO",
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": false,
+                    "prognosticoMaximo": 80,
+                    "quantidadeMinima": 5,
+                    "quantidadeMaxima": 15,
+                    "teimosinhas": [
+                        0,
+                        3,
+                        6,
+                        12,
+                        18,
+                        24
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 2.50,
+                            "numeroPrognosticos": 5
+                        },
+                        {
+                            "valor": 15.00,
+                            "numeroPrognosticos": 6
+                        },
+                        {
+                            "valor": 52.50,
+                            "numeroPrognosticos": 7
+                        },
+                        {
+                            "valor": 140.00,
+                            "numeroPrognosticos": 8
+                        },
+                        {
+                            "valor": 315.00,
+                            "numeroPrognosticos": 9
+                        },
+                        {
+                            "valor": 630.00,
+                            "numeroPrognosticos": 10
+                        },
+                        {
+                            "valor": 1155.00,
+                            "numeroPrognosticos": 11
+                        },
+                        {
+                            "valor": 1980.00,
+                            "numeroPrognosticos": 12
+                        },
+                        {
+                            "valor": 3217.50,
+                            "numeroPrognosticos": 13
+                        },
+                        {
+                            "valor": 5005.00,
+                            "numeroPrognosticos": 14
+                        },
+                        {
+                            "valor": 7507.50,
+                            "numeroPrognosticos": 15
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": true
+                },
+                "proximoConcurso": {
+                    "concurso": {
+                        "modalidade": "QUINA",
+                        "modalidadeDetalhada": {
+                            "valor": 3,
+                            "descricao": "Quina",
+                            "descricaoEspecial": "Quina de São João"
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 6327,
+                        "dataFechamento": "28/12/2023 19:00:00",
+                        "dataAbertura": "27/12/2023 21:00:00",
+                        "dataHoraSorteio": "28/12/2023 20:00:00",
+                        "dataSorteio": "28 dez 2023",
+                        "valorApostaMinima": 2.50,
+                        "situacao": "NAO_INICIALIZADO",
+                        "bloqueado": false,
+                        "estimativa": 0.00,
+                        "naoInicializado": true,
+                        "aberto": false
+                    },
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": false,
+                    "prognosticoMaximo": 80,
+                    "quantidadeMinima": 5,
+                    "quantidadeMaxima": 15,
+                    "teimosinhas": [
+                        0,
+                        3,
+                        6,
+                        12,
+                        18,
+                        24
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 2.50,
+                            "numeroPrognosticos": 5
+                        },
+                        {
+                            "valor": 15.00,
+                            "numeroPrognosticos": 6
+                        },
+                        {
+                            "valor": 52.50,
+                            "numeroPrognosticos": 7
+                        },
+                        {
+                            "valor": 140.00,
+                            "numeroPrognosticos": 8
+                        },
+                        {
+                            "valor": 315.00,
+                            "numeroPrognosticos": 9
+                        },
+                        {
+                            "valor": 630.00,
+                            "numeroPrognosticos": 10
+                        },
+                        {
+                            "valor": 1155.00,
+                            "numeroPrognosticos": 11
+                        },
+                        {
+                            "valor": 1980.00,
+                            "numeroPrognosticos": 12
+                        },
+                        {
+                            "valor": 3217.50,
+                            "numeroPrognosticos": 13
+                        },
+                        {
+                            "valor": 5005.00,
+                            "numeroPrognosticos": 14
+                        },
+                        {
+                            "valor": 7507.50,
+                            "numeroPrognosticos": 15
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": false
+                }
+            },
+            {
+                "parametroJogo": {
+                    "concurso": {
+                        "modalidade": "LOTOMANIA",
+                        "modalidadeDetalhada": {
+                            "valor": 16,
+                            "descricao": "Lotomania",
+                            "descricaoEspecial": ""
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 2565,
+                        "dataFechamento": "27/12/2023 19:00:00",
+                        "dataAbertura": "26/12/2023 21:00:00",
+                        "dataHoraSorteio": "27/12/2023 20:00:00",
+                        "dataSorteio": "27 dez 2023",
+                        "valorApostaMinima": 3.00,
+                        "situacao": "ABERTO",
+                        "bloqueado": false,
+                        "estimativa": 4500000.00,
+                        "naoInicializado": false,
+                        "aberto": true
+                    },
+                    "situacaoConcursoCanal": "ABERTO",
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": true,
+                    "prognosticoMaximo": 100,
+                    "quantidadeMinima": 50,
+                    "quantidadeMaxima": 50,
+                    "teimosinhas": [
+                        0,
+                        2,
+                        3,
+                        4,
+                        6,
+                        8,
+                        9,
+                        12
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 3.00,
+                            "numeroPrognosticos": 50
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": true
+                },
+                "proximoConcurso": {
+                    "concurso": {
+                        "modalidade": "LOTOMANIA",
+                        "modalidadeDetalhada": {
+                            "valor": 16,
+                            "descricao": "Lotomania",
+                            "descricaoEspecial": ""
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 2566,
+                        "dataFechamento": "29/12/2023 19:00:00",
+                        "dataAbertura": "27/12/2023 21:00:00",
+                        "dataHoraSorteio": "29/12/2023 20:00:00",
+                        "dataSorteio": "29 dez 2023",
+                        "valorApostaMinima": 3.00,
+                        "situacao": "NAO_INICIALIZADO",
+                        "bloqueado": false,
+                        "estimativa": 0.00,
+                        "naoInicializado": true,
+                        "aberto": false
+                    },
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": true,
+                    "prognosticoMaximo": 100,
+                    "quantidadeMinima": 50,
+                    "quantidadeMaxima": 50,
+                    "teimosinhas": [
+                        0,
+                        2,
+                        3,
+                        4,
+                        6,
+                        8,
+                        9,
+                        12
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 3.00,
+                            "numeroPrognosticos": 50
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": false
+                }
+            },
+            {
+                "parametroJogo": {
+                    "concurso": {
+                        "modalidade": "TIMEMANIA",
+                        "modalidadeDetalhada": {
+                            "valor": 20,
+                            "descricao": "Timemania",
+                            "descricaoEspecial": ""
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 2034,
+                        "dataFechamento": "28/12/2023 19:00:00",
+                        "dataAbertura": "26/12/2023 21:00:00",
+                        "dataHoraSorteio": "28/12/2023 20:00:00",
+                        "dataSorteio": "28 dez 2023",
+                        "valorApostaMinima": 3.50,
+                        "situacao": "ABERTO",
+                        "bloqueado": false,
+                        "estimativa": 5700000.00,
+                        "naoInicializado": false,
+                        "aberto": true
+                    },
+                    "situacaoConcursoCanal": "ABERTO",
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": false,
+                    "prognosticoMaximo": 80,
+                    "quantidadeMinima": 10,
+                    "quantidadeMaxima": 10,
+                    "teimosinhas": [
+                        0,
+                        3,
+                        6,
+                        9,
+                        12
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 3.50,
+                            "numeroPrognosticos": 10
+                        }
+                    ],
+                    "equipes": [
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ABC",
+                            "numero": 293,
+                            "numeroPais": 0,
+                            "descricaoCurta": "ABC",
+                            "uf": "RN",
+                            "nomeClass": "ABCRN"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ALTOS",
+                            "numero": 805,
+                            "numeroPais": 0,
+                            "descricaoCurta": "ALTOS",
+                            "uf": "PI",
+                            "nomeClass": "ALTOSPI"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "AMERICA",
+                            "numero": 38,
+                            "numeroPais": 0,
+                            "descricaoCurta": "AMERICA",
+                            "uf": "MG",
+                            "nomeClass": "AMERICAMG"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "AMERICA",
+                            "numero": 40,
+                            "numeroPais": 0,
+                            "descricaoCurta": "AMERIC",
+                            "uf": "RN",
+                            "nomeClass": "AMERICARN"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "APARECIDENSE",
+                            "numero": 389,
+                            "numeroPais": 0,
+                            "descricaoCurta": "APARECI",
+                            "uf": "GO",
+                            "nomeClass": "APARECIDENSEGO"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ATHLETICO",
+                            "numero": 22,
+                            "numeroPais": 0,
+                            "descricaoCurta": "ATL PR",
+                            "uf": "PR",
+                            "nomeClass": "ATHLETICOPR"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ATLETICO",
+                            "numero": 781,
+                            "numeroPais": 0,
+                            "descricaoCurta": "ATETI",
+                            "uf": "AC",
+                            "nomeClass": "ATLETICOAC"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ATLETICO",
+                            "numero": 279,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CEARENC",
+                            "uf": "CE",
+                            "nomeClass": "ATLETICOCE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ATLETICO",
+                            "numero": 143,
+                            "numeroPais": 0,
+                            "descricaoCurta": "ATL GO",
+                            "uf": "GO",
+                            "nomeClass": "ATLETICOGO"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ATLETICO",
+                            "numero": 3,
+                            "numeroPais": 0,
+                            "descricaoCurta": "ATLETIC",
+                            "uf": "MG",
+                            "nomeClass": "ATLETICOMG"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "AVAI",
+                            "numero": 18,
+                            "numeroPais": 0,
+                            "descricaoCurta": "AVAI",
+                            "uf": "SC",
+                            "nomeClass": "AVAISC"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BAHIA",
+                            "numero": 20,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BAHIA",
+                            "uf": "BA",
+                            "nomeClass": "BAHIABA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BOA ESPORTE",
+                            "numero": 79,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BOA ESP",
+                            "uf": "MG",
+                            "nomeClass": "BOAESPORTEMG"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BOAVISTA",
+                            "numero": 282,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BOAVIST",
+                            "uf": "RJ",
+                            "nomeClass": "BOAVISTARJ"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BOTAFOGO",
+                            "numero": 298,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BOTAFO",
+                            "uf": "PB",
+                            "nomeClass": "BOTAFOGOPB"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BOTAFOGO",
+                            "numero": 2,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BOTAFOG",
+                            "uf": "RJ",
+                            "nomeClass": "BOTAFOGORJ"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BOTAFOGO",
+                            "numero": 42,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BOTA SP",
+                            "uf": "SP",
+                            "nomeClass": "BOTAFOGOSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BRAGANTINO",
+                            "numero": 157,
+                            "numeroPais": 0,
+                            "descricaoCurta": "RB BRAG",
+                            "uf": "SP",
+                            "nomeClass": "BRAGANTINOSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BRASIL DE PELOTAS",
+                            "numero": 232,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BRAS",
+                            "uf": "RS",
+                            "nomeClass": "BRASILDEPELOTASRS"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BRASILIENSE",
+                            "numero": 21,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BRASLIE",
+                            "uf": "DF",
+                            "nomeClass": "BRASILIENSEDF"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BRUSQUE",
+                            "numero": 302,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BRUSQUE",
+                            "uf": "SC",
+                            "nomeClass": "BRUSQUESC"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CAMPINENSE",
+                            "numero": 297,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CAMPINE",
+                            "uf": "PB",
+                            "nomeClass": "CAMPINENSEPB"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CAXIAS",
+                            "numero": 43,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CAXIAS",
+                            "uf": "RS",
+                            "nomeClass": "CAXIASRS"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CEARA",
+                            "numero": 34,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CEARA",
+                            "uf": "CE",
+                            "nomeClass": "CEARACE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CHAPECOENSE",
+                            "numero": 250,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CHAPECO",
+                            "uf": "SC",
+                            "nomeClass": "CHAPECOENSESC"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CIANORTE",
+                            "numero": 352,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CIANORT",
+                            "uf": "PR",
+                            "nomeClass": "CIANORTEPR"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CONFIANCA",
+                            "numero": 138,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CONFIAN",
+                            "uf": "SE",
+                            "nomeClass": "CONFIANCASE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CORINTHIANS",
+                            "numero": 10,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CORINTH",
+                            "uf": "SP",
+                            "nomeClass": "CORINTHIANSSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CORITIBA",
+                            "numero": 13,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CORITIB",
+                            "uf": "PR",
+                            "nomeClass": "CORITIBAPR"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CRB",
+                            "numero": 44,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CRB",
+                            "uf": "AL",
+                            "nomeClass": "CRBAL"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CRICIUMA",
+                            "numero": 19,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CRICIUM",
+                            "uf": "SC",
+                            "nomeClass": "CRICIUMASC"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CRUZEIRO",
+                            "numero": 24,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CRUZEIR",
+                            "uf": "MG",
+                            "nomeClass": "CRUZEIROMG"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CSA",
+                            "numero": 340,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CSA",
+                            "uf": "AL",
+                            "nomeClass": "CSAAL"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CUIABA",
+                            "numero": 609,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CUIABA",
+                            "uf": "MT",
+                            "nomeClass": "CUIABAMT"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "FERROVIARIA",
+                            "numero": 342,
+                            "numeroPais": 0,
+                            "descricaoCurta": "FERROV",
+                            "uf": "SP",
+                            "nomeClass": "FERROVIARIASP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "FERROVIARIO",
+                            "numero": 145,
+                            "numeroPais": 0,
+                            "descricaoCurta": "FERROVI",
+                            "uf": "CE",
+                            "nomeClass": "FERROVIARIOCE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "FIGUEIRENSE",
+                            "numero": 23,
+                            "numeroPais": 0,
+                            "descricaoCurta": "FIGUEIR",
+                            "uf": "SC",
+                            "nomeClass": "FIGUEIRENSESC"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "FLAMENGO",
+                            "numero": 4,
+                            "numeroPais": 0,
+                            "descricaoCurta": "FLA",
+                            "uf": "RJ",
+                            "nomeClass": "FLAMENGORJ"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "FLORESTA",
+                            "numero": 824,
+                            "numeroPais": 0,
+                            "descricaoCurta": "FLOREST",
+                            "uf": "CE",
+                            "nomeClass": "FLORESTACE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "FLUMINENSE",
+                            "numero": 11,
+                            "numeroPais": 0,
+                            "descricaoCurta": "FLUMINE",
+                            "uf": "RJ",
+                            "nomeClass": "FLUMINENSERJ"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "FORTALEZA",
+                            "numero": 9,
+                            "numeroPais": 0,
+                            "descricaoCurta": "FORTALE",
+                            "uf": "CE",
+                            "nomeClass": "FORTALEZACE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "GOIAS",
+                            "numero": 8,
+                            "numeroPais": 0,
+                            "descricaoCurta": "GOIAS",
+                            "uf": "GO",
+                            "nomeClass": "GOIASGO"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "GREMIO",
+                            "numero": 29,
+                            "numeroPais": 0,
+                            "descricaoCurta": "GREMIO",
+                            "uf": "RS",
+                            "nomeClass": "GREMIORS"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "GUARANI",
+                            "numero": 31,
+                            "numeroPais": 0,
+                            "descricaoCurta": "GUARANI",
+                            "uf": "SP",
+                            "nomeClass": "GUARANISP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "IMPERATRIZ",
+                            "numero": 320,
+                            "numeroPais": 0,
+                            "descricaoCurta": "IMPERAT",
+                            "uf": "MA",
+                            "nomeClass": "IMPERATRIZMA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "INTERNACIONAL",
+                            "numero": 25,
+                            "numeroPais": 0,
+                            "descricaoCurta": "INTERNA",
+                            "uf": "RS",
+                            "nomeClass": "INTERNACIONALRS"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ITUANO",
+                            "numero": 35,
+                            "numeroPais": 0,
+                            "descricaoCurta": "ITUANO",
+                            "uf": "SP",
+                            "nomeClass": "ITUANOSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "JACUIPENSE",
+                            "numero": 820,
+                            "numeroPais": 0,
+                            "descricaoCurta": "JACUIPE",
+                            "uf": "BA",
+                            "nomeClass": "JACUIPENSEBA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "JOINVILLE",
+                            "numero": 46,
+                            "numeroPais": 0,
+                            "descricaoCurta": "JOINVIL",
+                            "uf": "SC",
+                            "nomeClass": "JOINVILLESC"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "JUAZEIRENSE",
+                            "numero": 759,
+                            "numeroPais": 0,
+                            "descricaoCurta": "JUAZEIS",
+                            "uf": "BA",
+                            "nomeClass": "JUAZEIRENSEBA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "JUVENTUDE",
+                            "numero": 28,
+                            "numeroPais": 0,
+                            "descricaoCurta": "JUVENTU",
+                            "uf": "RS",
+                            "nomeClass": "JUVENTUDERS"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "LONDRINA",
+                            "numero": 47,
+                            "numeroPais": 0,
+                            "descricaoCurta": "LONDRIN",
+                            "uf": "PR",
+                            "nomeClass": "LONDRINAPR"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "LUVERDENSE",
+                            "numero": 610,
+                            "numeroPais": 0,
+                            "descricaoCurta": "LUV",
+                            "uf": "MT",
+                            "nomeClass": "LUVERDENSEMT"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "MANAUS",
+                            "numero": 821,
+                            "numeroPais": 0,
+                            "descricaoCurta": "MANAUS",
+                            "uf": "AM",
+                            "nomeClass": "MANAUSAM"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "MIRASSOL",
+                            "numero": 311,
+                            "numeroPais": 0,
+                            "descricaoCurta": "MIRASSO",
+                            "uf": "SP",
+                            "nomeClass": "MIRASSOLSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "MOTO CLUB",
+                            "numero": 358,
+                            "numeroPais": 0,
+                            "descricaoCurta": "MOTO CL",
+                            "uf": "MA",
+                            "nomeClass": "MOTOCLUBMA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "NAUTICO",
+                            "numero": 16,
+                            "numeroPais": 0,
+                            "descricaoCurta": "NAUTICO",
+                            "uf": "PE",
+                            "nomeClass": "NAUTICOPE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "NOVORIZONTINO",
+                            "numero": 808,
+                            "numeroPais": 0,
+                            "descricaoCurta": "NOVORIZ",
+                            "uf": "SP",
+                            "nomeClass": "NOVORIZONTINOSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "OESTE",
+                            "numero": 556,
+                            "numeroPais": 0,
+                            "descricaoCurta": "OESTE",
+                            "uf": "SP",
+                            "nomeClass": "OESTESP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "OPERARIO",
+                            "numero": 526,
+                            "numeroPais": 0,
+                            "descricaoCurta": "OPER",
+                            "uf": "PR",
+                            "nomeClass": "OPERARIOPR"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "PALMEIRAS",
+                            "numero": 1,
+                            "numeroPais": 0,
+                            "descricaoCurta": "PALMEIR",
+                            "uf": "SP",
+                            "nomeClass": "PALMEIRASSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "PARANA",
+                            "numero": 12,
+                            "numeroPais": 0,
+                            "descricaoCurta": "PARANA",
+                            "uf": "PR",
+                            "nomeClass": "PARANAPR"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "PAYSANDU",
+                            "numero": 14,
+                            "numeroPais": 0,
+                            "descricaoCurta": "PAYSAND",
+                            "uf": "PA",
+                            "nomeClass": "PAYSANDUPA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "PONTE PRETA",
+                            "numero": 5,
+                            "numeroPais": 0,
+                            "descricaoCurta": "P PRETA",
+                            "uf": "SP",
+                            "nomeClass": "PONTEPRETASP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "REMO",
+                            "numero": 49,
+                            "numeroPais": 0,
+                            "descricaoCurta": "REMO",
+                            "uf": "PA",
+                            "nomeClass": "REMOPA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SAMP CORREA",
+                            "numero": 364,
+                            "numeroPais": 0,
+                            "descricaoCurta": "SCORREA",
+                            "uf": "MA",
+                            "nomeClass": "SAMPCORREAMA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SANTA CRUZ",
+                            "numero": 50,
+                            "numeroPais": 0,
+                            "descricaoCurta": "S CRUZ",
+                            "uf": "PE",
+                            "nomeClass": "SANTACRUZPE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SANTOS",
+                            "numero": 27,
+                            "numeroPais": 0,
+                            "descricaoCurta": "SANTOS",
+                            "uf": "SP",
+                            "nomeClass": "SANTOSSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SAO BENTO",
+                            "numero": 166,
+                            "numeroPais": 0,
+                            "descricaoCurta": "S BENTO",
+                            "uf": "SP",
+                            "nomeClass": "SAOBENTOSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SAO JOSE",
+                            "numero": 551,
+                            "numeroPais": 0,
+                            "descricaoCurta": "SJOSE",
+                            "uf": "RS",
+                            "nomeClass": "SAOJOSERS"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SAO PAULO",
+                            "numero": 6,
+                            "numeroPais": 0,
+                            "descricaoCurta": "S PAULO",
+                            "uf": "SP",
+                            "nomeClass": "SAOPAULOSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SAORAIMUNDO",
+                            "numero": 934,
+                            "numeroPais": 0,
+                            "descricaoCurta": "SRAIM",
+                            "uf": "RR",
+                            "nomeClass": "SAORAIMUNDORR"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SPORT",
+                            "numero": 33,
+                            "numeroPais": 0,
+                            "descricaoCurta": "SPORT",
+                            "uf": "PE",
+                            "nomeClass": "SPORTPE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "TOMBENSE",
+                            "numero": 653,
+                            "numeroPais": 0,
+                            "descricaoCurta": "TOMBENS",
+                            "uf": "MG",
+                            "nomeClass": "TOMBENSEMG"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "TREZE",
+                            "numero": 233,
+                            "numeroPais": 0,
+                            "descricaoCurta": "TREZE",
+                            "uf": "PB",
+                            "nomeClass": "TREZEPB"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "VASCO DA GAMA",
+                            "numero": 7,
+                            "numeroPais": 0,
+                            "descricaoCurta": "VASCO",
+                            "uf": "RJ",
+                            "nomeClass": "VASCODAGAMARJ"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "VILA NOVA",
+                            "numero": 53,
+                            "numeroPais": 0,
+                            "descricaoCurta": "V NOVA",
+                            "uf": "GO",
+                            "nomeClass": "VILANOVAGO"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "VITORIA",
+                            "numero": 15,
+                            "numeroPais": 0,
+                            "descricaoCurta": "VITORIA",
+                            "uf": "BA",
+                            "nomeClass": "VITORIABA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "VOLTA REDONDA",
+                            "numero": 55,
+                            "numeroPais": 0,
+                            "descricaoCurta": "V REDON",
+                            "uf": "RJ",
+                            "nomeClass": "VOLTAREDONDARJ"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "YPIRANGA",
+                            "numero": 656,
+                            "numeroPais": 0,
+                            "descricaoCurta": "YPIRANG",
+                            "uf": "RS",
+                            "nomeClass": "YPIRANGARS"
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": true
+                },
+                "proximoConcurso": {
+                    "concurso": {
+                        "modalidade": "TIMEMANIA",
+                        "modalidadeDetalhada": {
+                            "valor": 20,
+                            "descricao": "Timemania",
+                            "descricaoEspecial": ""
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 2035,
+                        "dataFechamento": "30/12/2023 19:00:00",
+                        "dataAbertura": "28/12/2023 21:00:00",
+                        "dataHoraSorteio": "30/12/2023 20:00:00",
+                        "dataSorteio": "30 dez 2023",
+                        "valorApostaMinima": 3.50,
+                        "situacao": "NAO_INICIALIZADO",
+                        "bloqueado": false,
+                        "estimativa": 0.00,
+                        "naoInicializado": true,
+                        "aberto": false
+                    },
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": false,
+                    "prognosticoMaximo": 80,
+                    "quantidadeMinima": 10,
+                    "quantidadeMaxima": 10,
+                    "teimosinhas": [
+                        0,
+                        3,
+                        6,
+                        9,
+                        12
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 3.50,
+                            "numeroPrognosticos": 10
+                        }
+                    ],
+                    "equipes": [
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ABC",
+                            "numero": 293,
+                            "numeroPais": 0,
+                            "descricaoCurta": "ABC",
+                            "uf": "RN",
+                            "nomeClass": "ABCRN"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ALTOS",
+                            "numero": 805,
+                            "numeroPais": 0,
+                            "descricaoCurta": "ALTOS",
+                            "uf": "PI",
+                            "nomeClass": "ALTOSPI"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "AMERICA",
+                            "numero": 38,
+                            "numeroPais": 0,
+                            "descricaoCurta": "AMERICA",
+                            "uf": "MG",
+                            "nomeClass": "AMERICAMG"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "AMERICA",
+                            "numero": 40,
+                            "numeroPais": 0,
+                            "descricaoCurta": "AMERIC",
+                            "uf": "RN",
+                            "nomeClass": "AMERICARN"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "APARECIDENSE",
+                            "numero": 389,
+                            "numeroPais": 0,
+                            "descricaoCurta": "APARECI",
+                            "uf": "GO",
+                            "nomeClass": "APARECIDENSEGO"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ATHLETICO",
+                            "numero": 22,
+                            "numeroPais": 0,
+                            "descricaoCurta": "ATL PR",
+                            "uf": "PR",
+                            "nomeClass": "ATHLETICOPR"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ATLETICO",
+                            "numero": 781,
+                            "numeroPais": 0,
+                            "descricaoCurta": "ATETI",
+                            "uf": "AC",
+                            "nomeClass": "ATLETICOAC"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ATLETICO",
+                            "numero": 279,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CEARENC",
+                            "uf": "CE",
+                            "nomeClass": "ATLETICOCE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ATLETICO",
+                            "numero": 143,
+                            "numeroPais": 0,
+                            "descricaoCurta": "ATL GO",
+                            "uf": "GO",
+                            "nomeClass": "ATLETICOGO"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ATLETICO",
+                            "numero": 3,
+                            "numeroPais": 0,
+                            "descricaoCurta": "ATLETIC",
+                            "uf": "MG",
+                            "nomeClass": "ATLETICOMG"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "AVAI",
+                            "numero": 18,
+                            "numeroPais": 0,
+                            "descricaoCurta": "AVAI",
+                            "uf": "SC",
+                            "nomeClass": "AVAISC"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BAHIA",
+                            "numero": 20,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BAHIA",
+                            "uf": "BA",
+                            "nomeClass": "BAHIABA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BOA ESPORTE",
+                            "numero": 79,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BOA ESP",
+                            "uf": "MG",
+                            "nomeClass": "BOAESPORTEMG"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BOAVISTA",
+                            "numero": 282,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BOAVIST",
+                            "uf": "RJ",
+                            "nomeClass": "BOAVISTARJ"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BOTAFOGO",
+                            "numero": 298,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BOTAFO",
+                            "uf": "PB",
+                            "nomeClass": "BOTAFOGOPB"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BOTAFOGO",
+                            "numero": 2,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BOTAFOG",
+                            "uf": "RJ",
+                            "nomeClass": "BOTAFOGORJ"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BOTAFOGO",
+                            "numero": 42,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BOTA SP",
+                            "uf": "SP",
+                            "nomeClass": "BOTAFOGOSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BRAGANTINO",
+                            "numero": 157,
+                            "numeroPais": 0,
+                            "descricaoCurta": "RB BRAG",
+                            "uf": "SP",
+                            "nomeClass": "BRAGANTINOSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BRASIL DE PELOTAS",
+                            "numero": 232,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BRAS",
+                            "uf": "RS",
+                            "nomeClass": "BRASILDEPELOTASRS"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BRASILIENSE",
+                            "numero": 21,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BRASLIE",
+                            "uf": "DF",
+                            "nomeClass": "BRASILIENSEDF"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "BRUSQUE",
+                            "numero": 302,
+                            "numeroPais": 0,
+                            "descricaoCurta": "BRUSQUE",
+                            "uf": "SC",
+                            "nomeClass": "BRUSQUESC"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CAMPINENSE",
+                            "numero": 297,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CAMPINE",
+                            "uf": "PB",
+                            "nomeClass": "CAMPINENSEPB"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CAXIAS",
+                            "numero": 43,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CAXIAS",
+                            "uf": "RS",
+                            "nomeClass": "CAXIASRS"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CEARA",
+                            "numero": 34,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CEARA",
+                            "uf": "CE",
+                            "nomeClass": "CEARACE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CHAPECOENSE",
+                            "numero": 250,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CHAPECO",
+                            "uf": "SC",
+                            "nomeClass": "CHAPECOENSESC"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CIANORTE",
+                            "numero": 352,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CIANORT",
+                            "uf": "PR",
+                            "nomeClass": "CIANORTEPR"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CONFIANCA",
+                            "numero": 138,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CONFIAN",
+                            "uf": "SE",
+                            "nomeClass": "CONFIANCASE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CORINTHIANS",
+                            "numero": 10,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CORINTH",
+                            "uf": "SP",
+                            "nomeClass": "CORINTHIANSSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CORITIBA",
+                            "numero": 13,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CORITIB",
+                            "uf": "PR",
+                            "nomeClass": "CORITIBAPR"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CRB",
+                            "numero": 44,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CRB",
+                            "uf": "AL",
+                            "nomeClass": "CRBAL"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CRICIUMA",
+                            "numero": 19,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CRICIUM",
+                            "uf": "SC",
+                            "nomeClass": "CRICIUMASC"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CRUZEIRO",
+                            "numero": 24,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CRUZEIR",
+                            "uf": "MG",
+                            "nomeClass": "CRUZEIROMG"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CSA",
+                            "numero": 340,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CSA",
+                            "uf": "AL",
+                            "nomeClass": "CSAAL"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "CUIABA",
+                            "numero": 609,
+                            "numeroPais": 0,
+                            "descricaoCurta": "CUIABA",
+                            "uf": "MT",
+                            "nomeClass": "CUIABAMT"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "FERROVIARIA",
+                            "numero": 342,
+                            "numeroPais": 0,
+                            "descricaoCurta": "FERROV",
+                            "uf": "SP",
+                            "nomeClass": "FERROVIARIASP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "FERROVIARIO",
+                            "numero": 145,
+                            "numeroPais": 0,
+                            "descricaoCurta": "FERROVI",
+                            "uf": "CE",
+                            "nomeClass": "FERROVIARIOCE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "FIGUEIRENSE",
+                            "numero": 23,
+                            "numeroPais": 0,
+                            "descricaoCurta": "FIGUEIR",
+                            "uf": "SC",
+                            "nomeClass": "FIGUEIRENSESC"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "FLAMENGO",
+                            "numero": 4,
+                            "numeroPais": 0,
+                            "descricaoCurta": "FLA",
+                            "uf": "RJ",
+                            "nomeClass": "FLAMENGORJ"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "FLORESTA",
+                            "numero": 824,
+                            "numeroPais": 0,
+                            "descricaoCurta": "FLOREST",
+                            "uf": "CE",
+                            "nomeClass": "FLORESTACE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "FLUMINENSE",
+                            "numero": 11,
+                            "numeroPais": 0,
+                            "descricaoCurta": "FLUMINE",
+                            "uf": "RJ",
+                            "nomeClass": "FLUMINENSERJ"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "FORTALEZA",
+                            "numero": 9,
+                            "numeroPais": 0,
+                            "descricaoCurta": "FORTALE",
+                            "uf": "CE",
+                            "nomeClass": "FORTALEZACE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "GOIAS",
+                            "numero": 8,
+                            "numeroPais": 0,
+                            "descricaoCurta": "GOIAS",
+                            "uf": "GO",
+                            "nomeClass": "GOIASGO"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "GREMIO",
+                            "numero": 29,
+                            "numeroPais": 0,
+                            "descricaoCurta": "GREMIO",
+                            "uf": "RS",
+                            "nomeClass": "GREMIORS"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "GUARANI",
+                            "numero": 31,
+                            "numeroPais": 0,
+                            "descricaoCurta": "GUARANI",
+                            "uf": "SP",
+                            "nomeClass": "GUARANISP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "IMPERATRIZ",
+                            "numero": 320,
+                            "numeroPais": 0,
+                            "descricaoCurta": "IMPERAT",
+                            "uf": "MA",
+                            "nomeClass": "IMPERATRIZMA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "INTERNACIONAL",
+                            "numero": 25,
+                            "numeroPais": 0,
+                            "descricaoCurta": "INTERNA",
+                            "uf": "RS",
+                            "nomeClass": "INTERNACIONALRS"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "ITUANO",
+                            "numero": 35,
+                            "numeroPais": 0,
+                            "descricaoCurta": "ITUANO",
+                            "uf": "SP",
+                            "nomeClass": "ITUANOSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "JACUIPENSE",
+                            "numero": 820,
+                            "numeroPais": 0,
+                            "descricaoCurta": "JACUIPE",
+                            "uf": "BA",
+                            "nomeClass": "JACUIPENSEBA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "JOINVILLE",
+                            "numero": 46,
+                            "numeroPais": 0,
+                            "descricaoCurta": "JOINVIL",
+                            "uf": "SC",
+                            "nomeClass": "JOINVILLESC"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "JUAZEIRENSE",
+                            "numero": 759,
+                            "numeroPais": 0,
+                            "descricaoCurta": "JUAZEIS",
+                            "uf": "BA",
+                            "nomeClass": "JUAZEIRENSEBA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "JUVENTUDE",
+                            "numero": 28,
+                            "numeroPais": 0,
+                            "descricaoCurta": "JUVENTU",
+                            "uf": "RS",
+                            "nomeClass": "JUVENTUDERS"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "LONDRINA",
+                            "numero": 47,
+                            "numeroPais": 0,
+                            "descricaoCurta": "LONDRIN",
+                            "uf": "PR",
+                            "nomeClass": "LONDRINAPR"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "LUVERDENSE",
+                            "numero": 610,
+                            "numeroPais": 0,
+                            "descricaoCurta": "LUV",
+                            "uf": "MT",
+                            "nomeClass": "LUVERDENSEMT"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "MANAUS",
+                            "numero": 821,
+                            "numeroPais": 0,
+                            "descricaoCurta": "MANAUS",
+                            "uf": "AM",
+                            "nomeClass": "MANAUSAM"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "MIRASSOL",
+                            "numero": 311,
+                            "numeroPais": 0,
+                            "descricaoCurta": "MIRASSO",
+                            "uf": "SP",
+                            "nomeClass": "MIRASSOLSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "MOTO CLUB",
+                            "numero": 358,
+                            "numeroPais": 0,
+                            "descricaoCurta": "MOTO CL",
+                            "uf": "MA",
+                            "nomeClass": "MOTOCLUBMA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "NAUTICO",
+                            "numero": 16,
+                            "numeroPais": 0,
+                            "descricaoCurta": "NAUTICO",
+                            "uf": "PE",
+                            "nomeClass": "NAUTICOPE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "NOVORIZONTINO",
+                            "numero": 808,
+                            "numeroPais": 0,
+                            "descricaoCurta": "NOVORIZ",
+                            "uf": "SP",
+                            "nomeClass": "NOVORIZONTINOSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "OESTE",
+                            "numero": 556,
+                            "numeroPais": 0,
+                            "descricaoCurta": "OESTE",
+                            "uf": "SP",
+                            "nomeClass": "OESTESP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "OPERARIO",
+                            "numero": 526,
+                            "numeroPais": 0,
+                            "descricaoCurta": "OPER",
+                            "uf": "PR",
+                            "nomeClass": "OPERARIOPR"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "PALMEIRAS",
+                            "numero": 1,
+                            "numeroPais": 0,
+                            "descricaoCurta": "PALMEIR",
+                            "uf": "SP",
+                            "nomeClass": "PALMEIRASSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "PARANA",
+                            "numero": 12,
+                            "numeroPais": 0,
+                            "descricaoCurta": "PARANA",
+                            "uf": "PR",
+                            "nomeClass": "PARANAPR"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "PAYSANDU",
+                            "numero": 14,
+                            "numeroPais": 0,
+                            "descricaoCurta": "PAYSAND",
+                            "uf": "PA",
+                            "nomeClass": "PAYSANDUPA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "PONTE PRETA",
+                            "numero": 5,
+                            "numeroPais": 0,
+                            "descricaoCurta": "P PRETA",
+                            "uf": "SP",
+                            "nomeClass": "PONTEPRETASP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "REMO",
+                            "numero": 49,
+                            "numeroPais": 0,
+                            "descricaoCurta": "REMO",
+                            "uf": "PA",
+                            "nomeClass": "REMOPA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SAMP CORREA",
+                            "numero": 364,
+                            "numeroPais": 0,
+                            "descricaoCurta": "SCORREA",
+                            "uf": "MA",
+                            "nomeClass": "SAMPCORREAMA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SANTA CRUZ",
+                            "numero": 50,
+                            "numeroPais": 0,
+                            "descricaoCurta": "S CRUZ",
+                            "uf": "PE",
+                            "nomeClass": "SANTACRUZPE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SANTOS",
+                            "numero": 27,
+                            "numeroPais": 0,
+                            "descricaoCurta": "SANTOS",
+                            "uf": "SP",
+                            "nomeClass": "SANTOSSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SAO BENTO",
+                            "numero": 166,
+                            "numeroPais": 0,
+                            "descricaoCurta": "S BENTO",
+                            "uf": "SP",
+                            "nomeClass": "SAOBENTOSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SAO JOSE",
+                            "numero": 551,
+                            "numeroPais": 0,
+                            "descricaoCurta": "SJOSE",
+                            "uf": "RS",
+                            "nomeClass": "SAOJOSERS"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SAO PAULO",
+                            "numero": 6,
+                            "numeroPais": 0,
+                            "descricaoCurta": "S PAULO",
+                            "uf": "SP",
+                            "nomeClass": "SAOPAULOSP"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SAORAIMUNDO",
+                            "numero": 934,
+                            "numeroPais": 0,
+                            "descricaoCurta": "SRAIM",
+                            "uf": "RR",
+                            "nomeClass": "SAORAIMUNDORR"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "SPORT",
+                            "numero": 33,
+                            "numeroPais": 0,
+                            "descricaoCurta": "SPORT",
+                            "uf": "PE",
+                            "nomeClass": "SPORTPE"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "TOMBENSE",
+                            "numero": 653,
+                            "numeroPais": 0,
+                            "descricaoCurta": "TOMBENS",
+                            "uf": "MG",
+                            "nomeClass": "TOMBENSEMG"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "TREZE",
+                            "numero": 233,
+                            "numeroPais": 0,
+                            "descricaoCurta": "TREZE",
+                            "uf": "PB",
+                            "nomeClass": "TREZEPB"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "VASCO DA GAMA",
+                            "numero": 7,
+                            "numeroPais": 0,
+                            "descricaoCurta": "VASCO",
+                            "uf": "RJ",
+                            "nomeClass": "VASCODAGAMARJ"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "VILA NOVA",
+                            "numero": 53,
+                            "numeroPais": 0,
+                            "descricaoCurta": "V NOVA",
+                            "uf": "GO",
+                            "nomeClass": "VILANOVAGO"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "VITORIA",
+                            "numero": 15,
+                            "numeroPais": 0,
+                            "descricaoCurta": "VITORIA",
+                            "uf": "BA",
+                            "nomeClass": "VITORIABA"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "VOLTA REDONDA",
+                            "numero": 55,
+                            "numeroPais": 0,
+                            "descricaoCurta": "V REDON",
+                            "uf": "RJ",
+                            "nomeClass": "VOLTAREDONDARJ"
+                        },
+                        {
+                            "indicadorSelecao": false,
+                            "nome": "YPIRANGA",
+                            "numero": 656,
+                            "numeroPais": 0,
+                            "descricaoCurta": "YPIRANG",
+                            "uf": "RS",
+                            "nomeClass": "YPIRANGARS"
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": false
+                }
+            },
+            {
+                "parametroJogo": {
+                    "concurso": {
+                        "modalidade": "DUPLA_SENA",
+                        "modalidadeDetalhada": {
+                            "valor": 18,
+                            "descricao": "Dupla Sena",
+                            "descricaoEspecial": "Dupla de Páscoa"
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 2610,
+                        "dataFechamento": "27/12/2023 19:00:00",
+                        "dataAbertura": "22/12/2023 21:00:00",
+                        "dataHoraSorteio": "27/12/2023 20:00:00",
+                        "dataSorteio": "27 dez 2023",
+                        "valorApostaMinima": 2.50,
+                        "situacao": "ABERTO",
+                        "bloqueado": false,
+                        "dataFinalBloqueio": "02/04/2018 06:00:00",
+                        "estimativa": 300000.00,
+                        "naoInicializado": false,
+                        "aberto": true
+                    },
+                    "situacaoConcursoCanal": "ABERTO",
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": false,
+                    "prognosticoMaximo": 50,
+                    "quantidadeMinima": 6,
+                    "quantidadeMaxima": 15,
+                    "teimosinhas": [
+                        0,
+                        2,
+                        3,
+                        4,
+                        6,
+                        8,
+                        9,
+                        12
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 2.50,
+                            "numeroPrognosticos": 6
+                        },
+                        {
+                            "valor": 17.50,
+                            "numeroPrognosticos": 7
+                        },
+                        {
+                            "valor": 70.00,
+                            "numeroPrognosticos": 8
+                        },
+                        {
+                            "valor": 210.00,
+                            "numeroPrognosticos": 9
+                        },
+                        {
+                            "valor": 525.00,
+                            "numeroPrognosticos": 10
+                        },
+                        {
+                            "valor": 1155.00,
+                            "numeroPrognosticos": 11
+                        },
+                        {
+                            "valor": 2310.00,
+                            "numeroPrognosticos": 12
+                        },
+                        {
+                            "valor": 4290.00,
+                            "numeroPrognosticos": 13
+                        },
+                        {
+                            "valor": 7507.50,
+                            "numeroPrognosticos": 14
+                        },
+                        {
+                            "valor": 12512.50,
+                            "numeroPrognosticos": 15
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": true
+                },
+                "proximoConcurso": {
+                    "concurso": {
+                        "modalidade": "DUPLA_SENA",
+                        "modalidadeDetalhada": {
+                            "valor": 18,
+                            "descricao": "Dupla Sena",
+                            "descricaoEspecial": "Dupla de Páscoa"
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 2611,
+                        "dataFechamento": "29/12/2023 19:00:00",
+                        "dataAbertura": "27/12/2023 21:00:00",
+                        "dataHoraSorteio": "29/12/2023 20:00:00",
+                        "dataSorteio": "29 dez 2023",
+                        "valorApostaMinima": 2.50,
+                        "situacao": "NAO_INICIALIZADO",
+                        "bloqueado": false,
+                        "dataFinalBloqueio": "02/04/2018 06:00:00",
+                        "estimativa": 0.00,
+                        "naoInicializado": true,
+                        "aberto": false
+                    },
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": false,
+                    "prognosticoMaximo": 50,
+                    "quantidadeMinima": 6,
+                    "quantidadeMaxima": 15,
+                    "teimosinhas": [
+                        0,
+                        2,
+                        3,
+                        4,
+                        6,
+                        8,
+                        9,
+                        12
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 2.50,
+                            "numeroPrognosticos": 6
+                        },
+                        {
+                            "valor": 17.50,
+                            "numeroPrognosticos": 7
+                        },
+                        {
+                            "valor": 70.00,
+                            "numeroPrognosticos": 8
+                        },
+                        {
+                            "valor": 210.00,
+                            "numeroPrognosticos": 9
+                        },
+                        {
+                            "valor": 525.00,
+                            "numeroPrognosticos": 10
+                        },
+                        {
+                            "valor": 1155.00,
+                            "numeroPrognosticos": 11
+                        },
+                        {
+                            "valor": 2310.00,
+                            "numeroPrognosticos": 12
+                        },
+                        {
+                            "valor": 4290.00,
+                            "numeroPrognosticos": 13
+                        },
+                        {
+                            "valor": 7507.50,
+                            "numeroPrognosticos": 14
+                        },
+                        {
+                            "valor": 12512.50,
+                            "numeroPrognosticos": 15
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": false
+                }
+            },
+            {
+                "parametroJogo": {
+                    "concurso": {
+                        "modalidade": "DIA_DE_SORTE",
+                        "modalidadeDetalhada": {
+                            "valor": 11,
+                            "descricao": "Dia de Sorte",
+                            "descricaoEspecial": ""
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 855,
+                        "dataFechamento": "28/12/2023 19:00:00",
+                        "dataAbertura": "26/12/2023 21:00:00",
+                        "dataHoraSorteio": "28/12/2023 20:00:00",
+                        "dataSorteio": "28 dez 2023",
+                        "valorApostaMinima": 2.50,
+                        "situacao": "ABERTO",
+                        "bloqueado": false,
+                        "estimativa": 150000.00,
+                        "naoInicializado": false,
+                        "aberto": true
+                    },
+                    "situacaoConcursoCanal": "ABERTO",
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": false,
+                    "prognosticoMaximo": 31,
+                    "quantidadeMinima": 7,
+                    "quantidadeMaxima": 15,
+                    "teimosinhas": [
+                        0,
+                        3,
+                        6,
+                        9,
+                        12
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 2.50,
+                            "numeroPrognosticos": 7
+                        },
+                        {
+                            "valor": 20.00,
+                            "numeroPrognosticos": 8
+                        },
+                        {
+                            "valor": 90.00,
+                            "numeroPrognosticos": 9
+                        },
+                        {
+                            "valor": 300.00,
+                            "numeroPrognosticos": 10
+                        },
+                        {
+                            "valor": 825.00,
+                            "numeroPrognosticos": 11
+                        },
+                        {
+                            "valor": 1980.00,
+                            "numeroPrognosticos": 12
+                        },
+                        {
+                            "valor": 4290.00,
+                            "numeroPrognosticos": 13
+                        },
+                        {
+                            "valor": 8580.00,
+                            "numeroPrognosticos": 14
+                        },
+                        {
+                            "valor": 16087.50,
+                            "numeroPrognosticos": 15
+                        }
+                    ],
+                    "meses": [
+                        {
+                            "numero": 1,
+                            "nome": "Janeiro",
+                            "abreviacao": "JAN"
+                        },
+                        {
+                            "numero": 2,
+                            "nome": "Fevereiro",
+                            "abreviacao": "FEV"
+                        },
+                        {
+                            "numero": 3,
+                            "nome": "Março",
+                            "abreviacao": "MAR"
+                        },
+                        {
+                            "numero": 4,
+                            "nome": "Abril",
+                            "abreviacao": "ABR"
+                        },
+                        {
+                            "numero": 5,
+                            "nome": "Maio",
+                            "abreviacao": "MAI"
+                        },
+                        {
+                            "numero": 6,
+                            "nome": "Junho",
+                            "abreviacao": "JUN"
+                        },
+                        {
+                            "numero": 7,
+                            "nome": "Julho",
+                            "abreviacao": "JUL"
+                        },
+                        {
+                            "numero": 8,
+                            "nome": "Agosto",
+                            "abreviacao": "AGO"
+                        },
+                        {
+                            "numero": 9,
+                            "nome": "Setembro",
+                            "abreviacao": "SET"
+                        },
+                        {
+                            "numero": 10,
+                            "nome": "Outubro",
+                            "abreviacao": "OUT"
+                        },
+                        {
+                            "numero": 11,
+                            "nome": "Novembro",
+                            "abreviacao": "NOV"
+                        },
+                        {
+                            "numero": 12,
+                            "nome": "Dezembro",
+                            "abreviacao": "DEZ"
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": true
+                },
+                "proximoConcurso": {
+                    "concurso": {
+                        "modalidade": "DIA_DE_SORTE",
+                        "modalidadeDetalhada": {
+                            "valor": 11,
+                            "descricao": "Dia de Sorte",
+                            "descricaoEspecial": ""
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 856,
+                        "dataFechamento": "30/12/2023 19:00:00",
+                        "dataAbertura": "28/12/2023 21:00:00",
+                        "dataHoraSorteio": "30/12/2023 20:00:00",
+                        "dataSorteio": "30 dez 2023",
+                        "valorApostaMinima": 2.50,
+                        "situacao": "NAO_INICIALIZADO",
+                        "bloqueado": false,
+                        "estimativa": 0.00,
+                        "naoInicializado": true,
+                        "aberto": false
+                    },
+                    "probabilidadeDeGanhar": 2,
+                    "aceitaEspelho": false,
+                    "prognosticoMaximo": 31,
+                    "quantidadeMinima": 7,
+                    "quantidadeMaxima": 15,
+                    "teimosinhas": [
+                        0,
+                        3,
+                        6,
+                        9,
+                        12
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 2.50,
+                            "numeroPrognosticos": 7
+                        },
+                        {
+                            "valor": 20.00,
+                            "numeroPrognosticos": 8
+                        },
+                        {
+                            "valor": 90.00,
+                            "numeroPrognosticos": 9
+                        },
+                        {
+                            "valor": 300.00,
+                            "numeroPrognosticos": 10
+                        },
+                        {
+                            "valor": 825.00,
+                            "numeroPrognosticos": 11
+                        },
+                        {
+                            "valor": 1980.00,
+                            "numeroPrognosticos": 12
+                        },
+                        {
+                            "valor": 4290.00,
+                            "numeroPrognosticos": 13
+                        },
+                        {
+                            "valor": 8580.00,
+                            "numeroPrognosticos": 14
+                        },
+                        {
+                            "valor": 16087.50,
+                            "numeroPrognosticos": 15
+                        }
+                    ],
+                    "meses": [
+                        {
+                            "numero": 1,
+                            "nome": "Janeiro",
+                            "abreviacao": "JAN"
+                        },
+                        {
+                            "numero": 2,
+                            "nome": "Fevereiro",
+                            "abreviacao": "FEV"
+                        },
+                        {
+                            "numero": 3,
+                            "nome": "Março",
+                            "abreviacao": "MAR"
+                        },
+                        {
+                            "numero": 4,
+                            "nome": "Abril",
+                            "abreviacao": "ABR"
+                        },
+                        {
+                            "numero": 5,
+                            "nome": "Maio",
+                            "abreviacao": "MAI"
+                        },
+                        {
+                            "numero": 6,
+                            "nome": "Junho",
+                            "abreviacao": "JUN"
+                        },
+                        {
+                            "numero": 7,
+                            "nome": "Julho",
+                            "abreviacao": "JUL"
+                        },
+                        {
+                            "numero": 8,
+                            "nome": "Agosto",
+                            "abreviacao": "AGO"
+                        },
+                        {
+                            "numero": 9,
+                            "nome": "Setembro",
+                            "abreviacao": "SET"
+                        },
+                        {
+                            "numero": 10,
+                            "nome": "Outubro",
+                            "abreviacao": "OUT"
+                        },
+                        {
+                            "numero": 11,
+                            "nome": "Novembro",
+                            "abreviacao": "NOV"
+                        },
+                        {
+                            "numero": 12,
+                            "nome": "Dezembro",
+                            "abreviacao": "DEZ"
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": false
+                }
+            },
+            {
+                "parametroJogo": {
+                    "concurso": {
+                        "modalidade": "SUPER_7",
+                        "modalidadeDetalhada": {
+                            "valor": 7,
+                            "descricao": "Super Sete",
+                            "descricaoEspecial": ""
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 488,
+                        "dataFechamento": "27/12/2023 19:00:00",
+                        "dataAbertura": "22/12/2023 19:05:00",
+                        "dataHoraSorteio": "27/12/2023 20:00:00",
+                        "dataSorteio": "27 dez 2023",
+                        "valorApostaMinima": 2.50,
+                        "situacao": "ABERTO",
+                        "bloqueado": false,
+                        "estimativa": 1500000.00,
+                        "naoInicializado": false,
+                        "aberto": true
+                    },
+                    "situacaoConcursoCanal": "ABERTO",
+                    "probabilidadeDeGanhar": 2,
+                    "prognosticoMaximo": 9,
+                    "quantidadeMinima": 7,
+                    "quantidadeMaxima": 21,
+                    "teimosinhas": [
+                        0,
+                        3,
+                        6,
+                        9,
+                        12
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 2.50,
+                            "numeroPrognosticos": 7
+                        },
+                        {
+                            "valor": 5.00,
+                            "numeroPrognosticos": 8
+                        },
+                        {
+                            "valor": 10.00,
+                            "numeroPrognosticos": 9
+                        },
+                        {
+                            "valor": 20.00,
+                            "numeroPrognosticos": 10
+                        },
+                        {
+                            "valor": 40.00,
+                            "numeroPrognosticos": 11
+                        },
+                        {
+                            "valor": 80.00,
+                            "numeroPrognosticos": 12
+                        },
+                        {
+                            "valor": 160.00,
+                            "numeroPrognosticos": 13
+                        },
+                        {
+                            "valor": 320.00,
+                            "numeroPrognosticos": 14
+                        },
+                        {
+                            "valor": 480.00,
+                            "numeroPrognosticos": 15
+                        },
+                        {
+                            "valor": 720.00,
+                            "numeroPrognosticos": 16
+                        },
+                        {
+                            "valor": 1080.00,
+                            "numeroPrognosticos": 17
+                        },
+                        {
+                            "valor": 1620.00,
+                            "numeroPrognosticos": 18
+                        },
+                        {
+                            "valor": 2430.00,
+                            "numeroPrognosticos": 19
+                        },
+                        {
+                            "valor": 3645.00,
+                            "numeroPrognosticos": 20
+                        },
+                        {
+                            "valor": 5467.50,
+                            "numeroPrognosticos": 21
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": true
+                },
+                "proximoConcurso": {
+                    "concurso": {
+                        "modalidade": "SUPER_7",
+                        "modalidadeDetalhada": {
+                            "valor": 7,
+                            "descricao": "Super Sete",
+                            "descricaoEspecial": ""
+                        },
+                        "tipoConcurso": "NORMAL",
+                        "numero": 489,
+                        "dataFechamento": "29/12/2023 19:00:00",
+                        "dataAbertura": "27/12/2023 19:05:00",
+                        "dataHoraSorteio": "29/12/2023 20:00:00",
+                        "dataSorteio": "29 dez 2023",
+                        "valorApostaMinima": 2.50,
+                        "situacao": "NAO_INICIALIZADO",
+                        "bloqueado": false,
+                        "estimativa": 0.00,
+                        "naoInicializado": true,
+                        "aberto": false
+                    },
+                    "situacaoConcursoCanal": "FECHADO",
+                    "probabilidadeDeGanhar": 2,
+                    "prognosticoMaximo": 9,
+                    "quantidadeMinima": 7,
+                    "quantidadeMaxima": 21,
+                    "teimosinhas": [
+                        0,
+                        3,
+                        6,
+                        9,
+                        12
+                    ],
+                    "valoresAposta": [
+                        {
+                            "valor": 2.50,
+                            "numeroPrognosticos": 7
+                        },
+                        {
+                            "valor": 5.00,
+                            "numeroPrognosticos": 8
+                        },
+                        {
+                            "valor": 10.00,
+                            "numeroPrognosticos": 9
+                        },
+                        {
+                            "valor": 20.00,
+                            "numeroPrognosticos": 10
+                        },
+                        {
+                            "valor": 40.00,
+                            "numeroPrognosticos": 11
+                        },
+                        {
+                            "valor": 80.00,
+                            "numeroPrognosticos": 12
+                        },
+                        {
+                            "valor": 160.00,
+                            "numeroPrognosticos": 13
+                        },
+                        {
+                            "valor": 320.00,
+                            "numeroPrognosticos": 14
+                        },
+                        {
+                            "valor": 480.00,
+                            "numeroPrognosticos": 15
+                        },
+                        {
+                            "valor": 720.00,
+                            "numeroPrognosticos": 16
+                        },
+                        {
+                            "valor": 1080.00,
+                            "numeroPrognosticos": 17
+                        },
+                        {
+                            "valor": 1620.00,
+                            "numeroPrognosticos": 18
+                        },
+                        {
+                            "valor": 2430.00,
+                            "numeroPrognosticos": 19
+                        },
+                        {
+                            "valor": 3645.00,
+                            "numeroPrognosticos": 20
+                        },
+                        {
+                            "valor": 5467.50,
+                            "numeroPrognosticos": 21
+                        }
+                    ],
+                    "concursoDisponivelSimulacao": true,
+                    "concursoCanalAberto": false
+                }
+            }
+        ]
+    }
+}

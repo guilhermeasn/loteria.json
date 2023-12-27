@@ -29,3 +29,5 @@ export type Analytic = {
     quantity   : Numerical;
     sequential : Numerical[];
 }
+
+export type Price = Record<Lottery, number | null>;

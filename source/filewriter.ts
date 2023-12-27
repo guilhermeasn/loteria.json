@@ -9,6 +9,7 @@ import type {
     Analytic,
     Format,
     Lottery,
+    Price,
     Raffle
 } from "./types";
 
@@ -38,5 +39,14 @@ export function writeLastRaffle(lottery : Lottery, lastRaffle : number, content 
     const nums : string = JSON.stringify(content)?.replace(/[\[\]"\s]/g,'')?.replace(/,/g, ', ');
 
     writeFileSync(file, data.replace(new RegExp(sign + '.+'), sign + lastRaffle.toLocaleString('pt-BR') + ' => ' + nums));
+
+}
+
+export function writePrice(price : Price) {
+
+    writeFileSync(
+        join('data', 'price.json'),
+        JSON.stringify(price, undefined, 2)
+    );
 
 }

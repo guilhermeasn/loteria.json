@@ -15,6 +15,7 @@ import {
 } from './filewriter';
 
 const API = 'https://servicebus2.caixa.gov.br/portaldeloterias/api';
+const API_PRICE = 'https://www.loteriasonline.caixa.gov.br/silce-servico-rest/rest/v1/cGFyYW1ldHJvcy1zaW11bGFjYW8v/';
 
 export default async function updateRaffle(lottery : Lottery, count : number = 0, data ?: Raffle) : Promise<boolean> {
 
@@ -111,5 +112,27 @@ export function recovery(lottery: Lottery, data : Format[]) {
     });
 
     writeRaffle(lottery, raffle);
+
+}
+
+export async function price() {
+    
+    const request = await axios.get(API_PRICE, {
+        httpAgent: new Agent({ keepAlive: true }),
+        headers: { Host: API_PRICE.replace(/^(https?:\/\/)?([\w\.]+).*/, '$2') }
+    });
+
+    const data : Array<any> = request.data.payload.parametros;
+    if(!Array.isArray(data)) throw new Error('Fail get price #1');
+
+    const result = data.map(mod => ({
+        lottery: mod.parametroJogo.concurso.modalidade as string,
+        price: mod.parametroJogo.valoresAposta[0].valor as number
+    }))
+
+    if(result.some(mod => !mod.lottery || typeof mod.lottery !== 'string' || !mod.price || typeof mod.price !== 'number'))
+        throw new Error('Fail get price #2');
+
+    return result;
 
 }

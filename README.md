@@ -91,6 +91,10 @@ Obtenha as análises via GET nos seguintes *endpoints*:
  - Formato: ``` Record<Lottery, number | null>```
  - Acesso: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/price.json
 
+## Projetos que utilizam estes dados
+
+ - **Analisador de Jogos da Lotofácil**: https://github.com/guilhermeasn/lotofacil/
+
 ## Autor
 
 * **Guilherme Neves** - [github](https://github.com/guilhermeasn/) - [website](https://gn.dev.br/)

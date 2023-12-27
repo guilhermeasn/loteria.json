@@ -85,6 +85,12 @@ Obtenha as análises via GET nos seguintes *endpoints*:
  - **Super Sete**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/supersete.analytic.json
  - **Timemania**: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/timemania.analytic.json
 
+## Outros Arquivos
+
+### Preços das apostas
+ - Formato: ``` Record<Lottery, number | null>```
+ - Acesso: https://raw.githubusercontent.com/guilhermeasn/loteria.json/master/data/price.json
+
 ## Autor
 
 * **Guilherme Neves** - [github](https://github.com/guilhermeasn/) - [website](https://gn.dev.br/)

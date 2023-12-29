@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->854 => 17, 07, 18, 24, 14, 16, 23, Janeiro
+ - **Dia de Sorte**: <!--diadesorte-->855 => 07, 20, 30, 15, 06, 22, 26, Janeiro
  - **Dupla Sena**: <!--duplasena-->2.610 => 20, 07, 11, 30, 09, 16, 50, 18, 48, 25, 43, 23
  - **Federal**: <!--federal-->5.827 => 001413, 007634, 004028, 084015, 073349
- - **Lotofácil**: <!--lotofacil-->2.989 => 25, 13, 24, 12, 16, 11, 04, 02, 19, 20, 01, 23, 18, 22, 15
+ - **Lotofácil**: <!--lotofacil-->2.990 => 22, 16, 21, 24, 06, 10, 18, 05, 20, 04, 12, 13, 23, 03, 25
  - **Lotomania**: <!--lotomania-->2.565 => 04, 72, 28, 24, 32, 46, 31, 25, 01, 98, 00, 67, 68, 63, 41, 64, 65, 21, 16, 86
  - **+Milionária**: <!--maismilionaria-->107 => 16, 26, 33, 10, 15, 40, 06, 03
  - **Mega Sena**: <!--megasena-->2.669 => 07, 04, 35, 16, 46, 54
- - **Quina**: <!--quina-->6.326 => 45, 35, 64, 65, 32
+ - **Quina**: <!--quina-->6.327 => 14, 68, 09, 12, 31
  - **Super Sete**: <!--supersete-->488 => 5, 2, 7, 2, 5, 0, 2
- - **Timemania**: <!--timemania-->2.033 => 52, 28, 55, 48, 02, 60, 09, BOAVISTA/RJ
+ - **Timemania**: <!--timemania-->2.034 => 01, 55, 46, 39, 75, 20, 74, SAOJOSE/RS
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

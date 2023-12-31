@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->855 => 07, 20, 30, 15, 06, 22, 26, Janeiro
+ - **Dia de Sorte**: <!--diadesorte-->856 => 08, 01, 28, 24, 29, 22, 05, Junho
  - **Dupla Sena**: <!--duplasena-->2.611 => 42, 06, 02, 34, 15, 37, 38, 09, 46, 19, 20, 03
  - **Federal**: <!--federal-->5.828 => 080669, 051822, 005189, 010797, 067477
- - **Lotofácil**: <!--lotofacil-->2.991 => 14, 13, 23, 04, 11, 03, 06, 16, 12, 02, 22, 01, 25, 05, 09
+ - **Lotofácil**: <!--lotofacil-->2.992 => 14, 09, 23, 05, 17, 25, 04, 06, 18, 21, 19, 08, 01, 22, 12
  - **Lotomania**: <!--lotomania-->2.566 => 01, 87, 21, 90, 72, 24, 77, 43, 86, 55, 51, 78, 71, 04, 10, 20, 42, 95, 94, 79
- - **+Milionária**: <!--maismilionaria-->107 => 16, 26, 33, 10, 15, 40, 06, 03
+ - **+Milionária**: <!--maismilionaria-->108 => 36, 33, 31, 35, 15, 44, 01, 06
  - **Mega Sena**: <!--megasena-->2.669 => 07, 04, 35, 16, 46, 54
- - **Quina**: <!--quina-->6.328 => 13, 72, 09, 68, 51
+ - **Quina**: <!--quina-->6.329 => 18, 43, 15, 61, 06
  - **Super Sete**: <!--supersete-->489 => 8, 7, 1, 3, 7, 5, 0
- - **Timemania**: <!--timemania-->2.034 => 01, 55, 46, 39, 75, 20, 74, SAOJOSE/RS
+ - **Timemania**: <!--timemania-->2.035 => 62, 01, 57, 50, 12, 04, 80, PALMEIRAS/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

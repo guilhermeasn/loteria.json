@@ -12,7 +12,7 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Lotofácil**: <!--lotofacil-->2.992 => 14, 09, 23, 05, 17, 25, 04, 06, 18, 21, 19, 08, 01, 22, 12
  - **Lotomania**: <!--lotomania-->2.566 => 01, 87, 21, 90, 72, 24, 77, 43, 86, 55, 51, 78, 71, 04, 10, 20, 42, 95, 94, 79
  - **+Milionária**: <!--maismilionaria-->108 => 36, 33, 31, 35, 15, 44, 01, 06
- - **Mega Sena**: <!--megasena-->2.669 => 07, 04, 35, 16, 46, 54
+ - **Mega Sena**: <!--megasena-->2.670 => 24, 56, 33, 48, 21, 41
  - **Quina**: <!--quina-->6.329 => 18, 43, 15, 61, 06
  - **Super Sete**: <!--supersete-->489 => 8, 7, 1, 3, 7, 5, 0
  - **Timemania**: <!--timemania-->2.035 => 62, 01, 57, 50, 12, 04, 80, PALMEIRAS/SP

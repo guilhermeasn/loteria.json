@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->856 => 08, 01, 28, 24, 29, 22, 05, Junho
+ - **Dia de Sorte**: <!--diadesorte-->857 => 18, 30, 05, 29, 08, 12, 10, Março
  - **Dupla Sena**: <!--duplasena-->2.611 => 42, 06, 02, 34, 15, 37, 38, 09, 46, 19, 20, 03
  - **Federal**: <!--federal-->5.828 => 080669, 051822, 005189, 010797, 067477
- - **Lotofácil**: <!--lotofacil-->2.992 => 14, 09, 23, 05, 17, 25, 04, 06, 18, 21, 19, 08, 01, 22, 12
+ - **Lotofácil**: <!--lotofacil-->2.993 => 19, 16, 12, 07, 03, 05, 02, 24, 25, 04, 13, 08, 01, 18, 15
  - **Lotomania**: <!--lotomania-->2.566 => 01, 87, 21, 90, 72, 24, 77, 43, 86, 55, 51, 78, 71, 04, 10, 20, 42, 95, 94, 79
  - **+Milionária**: <!--maismilionaria-->108 => 36, 33, 31, 35, 15, 44, 01, 06
  - **Mega Sena**: <!--megasena-->2.670 => 24, 56, 33, 48, 21, 41
- - **Quina**: <!--quina-->6.329 => 18, 43, 15, 61, 06
+ - **Quina**: <!--quina-->6.330 => 15, 23, 61, 74, 29
  - **Super Sete**: <!--supersete-->489 => 8, 7, 1, 3, 7, 5, 0
- - **Timemania**: <!--timemania-->2.035 => 62, 01, 57, 50, 12, 04, 80, PALMEIRAS/SP
+ - **Timemania**: <!--timemania-->2.036 => 13, 74, 72, 33, 23, 15, 49, MIRASSOL/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

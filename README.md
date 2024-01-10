@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->859 => 11, 22, 05, 31, 18, 03, 06, Fevereiro
+ - **Dia de Sorte**: <!--diadesorte-->860 => 05, 30, 28, 14, 06, 27, 15, Maio
  - **Dupla Sena**: <!--duplasena-->2.614 => 31, 49, 21, 41, 12, 03, 35, 40, 39, 13, 02, 12
  - **Federal**: <!--federal-->5.830 => 006169, 058908, 083616, 048535, 098317
- - **Lotofácil**: <!--lotofacil-->2.998 => 14, 02, 09, 18, 23, 13, 21, 06, 16, 25, 17, 19, 12, 10, 07
+ - **Lotofácil**: <!--lotofacil-->2.999 => 10, 25, 13, 20, 07, 11, 19, 01, 24, 17, 04, 02, 22, 03, 18
  - **Lotomania**: <!--lotomania-->2.569 => 15, 10, 89, 46, 28, 45, 13, 04, 23, 66, 30, 20, 47, 82, 61, 93, 77, 56, 98, 72
  - **+Milionária**: <!--maismilionaria-->110 => 42, 36, 22, 25, 30, 01, 01, 06
- - **Mega Sena**: <!--megasena-->2.672 => 40, 10, 13, 20, 56, 43
- - **Quina**: <!--quina-->6.335 => 62, 39, 48, 44, 64
+ - **Mega Sena**: <!--megasena-->2.673 => 35, 45, 52, 04, 27, 56
+ - **Quina**: <!--quina-->6.336 => 31, 49, 47, 45, 04
  - **Super Sete**: <!--supersete-->492 => 1, 0, 2, 7, 3, 4, 3
- - **Timemania**: <!--timemania-->2.038 => 05, 34, 09, 23, 48, 40, 55, AMERICA/RN
+ - **Timemania**: <!--timemania-->2.039 => 22, 49, 80, 51, 09, 58, 64, TOMBENSE/MG
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->860 => 05, 30, 28, 14, 06, 27, 15, Maio
+ - **Dia de Sorte**: <!--diadesorte-->861 => 25, 11, 16, 15, 20, 08, 30, Novembro
  - **Dupla Sena**: <!--duplasena-->2.615 => 02, 32, 47, 35, 31, 38, 17, 08, 32, 47, 18, 42
  - **Federal**: <!--federal-->5.831 => 051528, 020321, 007592, 035960, 061479
- - **Lotofácil**: <!--lotofacil-->3.000 => 12, 21, 15, 11, 09, 01, 10, 02, 17, 06, 24, 19, 18, 05, 25
+ - **Lotofácil**: <!--lotofacil-->3.001 => 25, 04, 02, 18, 19, 21, 14, 10, 11, 24, 13, 20, 23, 12, 06
  - **Lotomania**: <!--lotomania-->2.570 => 19, 62, 45, 86, 95, 09, 92, 34, 23, 36, 91, 65, 66, 32, 89, 06, 21, 67, 49, 88
  - **+Milionária**: <!--maismilionaria-->111 => 26, 03, 15, 23, 50, 24, 01, 03
- - **Mega Sena**: <!--megasena-->2.673 => 35, 45, 52, 04, 27, 56
- - **Quina**: <!--quina-->6.337 => 30, 25, 41, 53, 35
+ - **Mega Sena**: <!--megasena-->2.674 => 46, 23, 15, 21, 14, 08
+ - **Quina**: <!--quina-->6.338 => 49, 07, 75, 21, 10
  - **Super Sete**: <!--supersete-->493 => 0, 0, 7, 5, 6, 0, 2
- - **Timemania**: <!--timemania-->2.039 => 22, 49, 80, 51, 09, 58, 64, TOMBENSE/MG
+ - **Timemania**: <!--timemania-->2.040 => 49, 19, 35, 34, 20, 41, 56, ATLETICO/GO
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->862 => 05, 03, 27, 20, 23, 12, 08, Janeiro
+ - **Dia de Sorte**: <!--diadesorte-->863 => 19, 17, 02, 01, 20, 09, 22, Fevereiro
  - **Dupla Sena**: <!--duplasena-->2.617 => 17, 22, 05, 41, 03, 12, 20, 49, 19, 25, 33, 48
  - **Federal**: <!--federal-->5.832 => 022673, 016077, 085213, 091326, 077138
- - **Lotofácil**: <!--lotofacil-->3.004 => 09, 01, 19, 14, 05, 08, 16, 11, 04, 24, 25, 12, 10, 21, 18
+ - **Lotofácil**: <!--lotofacil-->3.005 => 24, 12, 19, 13, 05, 16, 09, 01, 21, 10, 03, 02, 07, 18, 25
  - **Lotomania**: <!--lotomania-->2.572 => 74, 25, 34, 86, 20, 92, 66, 69, 85, 13, 01, 61, 23, 14, 80, 94, 03, 48, 04, 91
  - **+Milionária**: <!--maismilionaria-->112 => 50, 26, 40, 21, 09, 38, 03, 06
- - **Mega Sena**: <!--megasena-->2.675 => 34, 45, 31, 26, 42, 01
- - **Quina**: <!--quina-->6.341 => 69, 16, 64, 12, 52
+ - **Mega Sena**: <!--megasena-->2.676 => 14, 04, 19, 29, 22, 06
+ - **Quina**: <!--quina-->6.342 => 42, 16, 13, 25, 41
  - **Super Sete**: <!--supersete-->495 => 6, 1, 5, 4, 2, 2, 7
- - **Timemania**: <!--timemania-->2.041 => 65, 49, 78, 33, 45, 62, 42, IMPERATRIZ/MA
+ - **Timemania**: <!--timemania-->2.042 => 21, 50, 08, 57, 56, 16, 39, BOTAFOGO/RJ
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

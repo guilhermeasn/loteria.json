@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->863 => 19, 17, 02, 01, 20, 09, 22, Fevereiro
+ - **Dia de Sorte**: <!--diadesorte-->864 => 23, 22, 08, 02, 09, 28, 12, Novembro
  - **Dupla Sena**: <!--duplasena-->2.618 => 44, 45, 33, 42, 24, 06, 11, 05, 50, 47, 03, 37
  - **Federal**: <!--federal-->5.833 => 060541, 033795, 049078, 012550, 027258
- - **Lotofácil**: <!--lotofacil-->3.006 => 23, 12, 25, 11, 10, 03, 01, 04, 19, 08, 21, 06, 05, 09, 15
+ - **Lotofácil**: <!--lotofacil-->3.007 => 20, 21, 22, 10, 25, 11, 15, 04, 12, 24, 02, 16, 03, 14, 23
  - **Lotomania**: <!--lotomania-->2.573 => 96, 48, 46, 10, 98, 79, 57, 20, 61, 66, 97, 77, 22, 49, 84, 95, 18, 62, 17, 81
  - **+Milionária**: <!--maismilionaria-->113 => 42, 16, 37, 40, 33, 27, 02, 03
- - **Mega Sena**: <!--megasena-->2.676 => 14, 04, 19, 29, 22, 06
- - **Quina**: <!--quina-->6.343 => 50, 58, 42, 33, 04
+ - **Mega Sena**: <!--megasena-->2.677 => 03, 54, 07, 34, 42, 32
+ - **Quina**: <!--quina-->6.344 => 35, 19, 15, 13, 79
  - **Super Sete**: <!--supersete-->496 => 1, 9, 9, 0, 8, 5, 6
- - **Timemania**: <!--timemania-->2.042 => 21, 50, 08, 57, 56, 16, 39, BOTAFOGO/RJ
+ - **Timemania**: <!--timemania-->2.043 => 43, 14, 78, 56, 22, 48, 21, SAOPAULO/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

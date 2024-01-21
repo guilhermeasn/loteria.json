@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->864 => 23, 22, 08, 02, 09, 28, 12, Novembro
+ - **Dia de Sorte**: <!--diadesorte-->865 => 18, 08, 24, 13, 02, 30, 07, Setembro
  - **Dupla Sena**: <!--duplasena-->2.619 => 30, 40, 06, 33, 29, 26, 48, 28, 21, 19, 33, 49
  - **Federal**: <!--federal-->5.834 => 022605, 010663, 021627, 066376, 020453
- - **Lotofácil**: <!--lotofacil-->3.008 => 10, 19, 12, 01, 15, 13, 02, 07, 09, 16, 24, 08, 06, 04, 18
+ - **Lotofácil**: <!--lotofacil-->3.009 => 11, 22, 24, 23, 14, 12, 25, 09, 07, 18, 19, 20, 04, 02, 03
  - **Lotomania**: <!--lotomania-->2.574 => 44, 30, 08, 58, 25, 73, 85, 95, 16, 71, 89, 35, 77, 11, 74, 80, 57, 37, 06, 40
- - **+Milionária**: <!--maismilionaria-->113 => 42, 16, 37, 40, 33, 27, 02, 03
- - **Mega Sena**: <!--megasena-->2.677 => 03, 54, 07, 34, 42, 32
- - **Quina**: <!--quina-->6.345 => 66, 23, 67, 05, 21
+ - **+Milionária**: <!--maismilionaria-->114 => 36, 47, 20, 11, 50, 03, 03, 06
+ - **Mega Sena**: <!--megasena-->2.678 => 16, 54, 13, 37, 10, 18
+ - **Quina**: <!--quina-->6.346 => 13, 42, 27, 61, 28
  - **Super Sete**: <!--supersete-->497 => 4, 5, 8, 7, 4, 7, 0
- - **Timemania**: <!--timemania-->2.043 => 43, 14, 78, 56, 22, 48, 21, SAOPAULO/SP
+ - **Timemania**: <!--timemania-->2.044 => 26, 16, 43, 41, 30, 33, 54, CRICIUMA/SC
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

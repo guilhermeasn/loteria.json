@@ -7,14 +7,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->865 => 18, 08, 24, 13, 02, 30, 07, Setembro
- - **Dupla Sena**: <!--duplasena-->2.619 => 30, 40, 06, 33, 29, 26, 48, 28, 21, 19, 33, 49
+ - **Dupla Sena**: <!--duplasena-->2.620 => 25, 03, 39, 12, 07, 02, 13, 02, 39, 47, 40, 31
  - **Federal**: <!--federal-->5.834 => 022605, 010663, 021627, 066376, 020453
- - **Lotofácil**: <!--lotofacil-->3.009 => 11, 22, 24, 23, 14, 12, 25, 09, 07, 18, 19, 20, 04, 02, 03
- - **Lotomania**: <!--lotomania-->2.574 => 44, 30, 08, 58, 25, 73, 85, 95, 16, 71, 89, 35, 77, 11, 74, 80, 57, 37, 06, 40
+ - **Lotofácil**: <!--lotofacil-->3.010 => 20, 11, 14, 18, 07, 17, 12, 06, 08, 25, 16, 03, 01, 02, 15
+ - **Lotomania**: <!--lotomania-->2.575 => 96, 58, 04, 56, 67, 52, 23, 80, 13, 74, 54, 30, 50, 73, 99, 69, 87, 34, 91, 68
  - **+Milionária**: <!--maismilionaria-->114 => 36, 47, 20, 11, 50, 03, 03, 06
  - **Mega Sena**: <!--megasena-->2.678 => 16, 54, 13, 37, 10, 18
- - **Quina**: <!--quina-->6.346 => 13, 42, 27, 61, 28
- - **Super Sete**: <!--supersete-->497 => 4, 5, 8, 7, 4, 7, 0
+ - **Quina**: <!--quina-->6.347 => 22, 75, 74, 62, 29
+ - **Super Sete**: <!--supersete-->498 => 9, 3, 8, 3, 9, 4, 5
  - **Timemania**: <!--timemania-->2.044 => 26, 16, 43, 41, 30, 33, 54, CRICIUMA/SC
  <!-- - **Loteca**: 0 -->
 

@@ -8,7 +8,7 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->866 => 14, 05, 31, 10, 21, 08, 24, Junho
  - **Dupla Sena**: <!--duplasena-->2.620 => 25, 03, 39, 12, 07, 02, 13, 02, 39, 47, 40, 31
- - **Federal**: <!--federal-->5.834 => 022605, 010663, 021627, 066376, 020453
+ - **Federal**: <!--federal-->5.835 => 057637, 072964, 096159, 052826, 084544
  - **Lotofácil**: <!--lotofacil-->3.011 => 24, 11, 23, 02, 08, 13, 05, 09, 21, 10, 01, 07, 15, 03, 04
  - **Lotomania**: <!--lotomania-->2.575 => 96, 58, 04, 56, 67, 52, 23, 80, 13, 74, 54, 30, 50, 73, 99, 69, 87, 34, 91, 68
  - **+Milionária**: <!--maismilionaria-->114 => 36, 47, 20, 11, 50, 03, 03, 06

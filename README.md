@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->866 => 14, 05, 31, 10, 21, 08, 24, Junho
+ - **Dia de Sorte**: <!--diadesorte-->867 => 25, 24, 30, 12, 22, 07, 26, Novembro
  - **Dupla Sena**: <!--duplasena-->2.621 => 41, 47, 46, 28, 09, 19, 18, 10, 07, 40, 47, 37
  - **Federal**: <!--federal-->5.835 => 057637, 072964, 096159, 052826, 084544
- - **Lotofácil**: <!--lotofacil-->3.012 => 14, 03, 24, 05, 25, 02, 15, 21, 17, 06, 01, 16, 07, 20, 23
+ - **Lotofácil**: <!--lotofacil-->3.013 => 11, 21, 22, 01, 19, 02, 08, 05, 18, 03, 17, 13, 07, 10, 15
  - **Lotomania**: <!--lotomania-->2.576 => 98, 78, 95, 52, 60, 48, 88, 69, 04, 49, 07, 68, 34, 91, 72, 46, 32, 31, 28, 10
  - **+Milionária**: <!--maismilionaria-->115 => 26, 25, 16, 07, 48, 08, 06, 03
- - **Mega Sena**: <!--megasena-->2.679 => 26, 07, 38, 51, 18, 20
- - **Quina**: <!--quina-->6.349 => 38, 73, 78, 80, 60
+ - **Mega Sena**: <!--megasena-->2.680 => 45, 57, 03, 11, 42, 46
+ - **Quina**: <!--quina-->6.350 => 28, 31, 26, 44, 30
  - **Super Sete**: <!--supersete-->499 => 8, 6, 1, 4, 1, 8, 5
- - **Timemania**: <!--timemania-->2.045 => 53, 51, 76, 39, 37, 67, 25, ATHLETICO/PR
+ - **Timemania**: <!--timemania-->2.046 => 65, 42, 43, 03, 23, 72, 48, APARECIDENSE/GO
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->868 => 12, 23, 20, 09, 05, 11, 02, Novembro
+ - **Dia de Sorte**: <!--diadesorte-->869 => 22, 20, 14, 11, 27, 25, 08, Fevereiro
  - **Dupla Sena**: <!--duplasena-->2.623 => 49, 45, 48, 21, 42, 29, 01, 03, 27, 30, 47, 32
  - **Federal**: <!--federal-->5.836 => 045561, 089220, 017273, 007749, 071166
- - **Lotofácil**: <!--lotofacil-->3.016 => 07, 05, 13, 03, 23, 08, 18, 24, 25, 20, 10, 01, 12, 09, 11
+ - **Lotofácil**: <!--lotofacil-->3.017 => 15, 19, 05, 11, 02, 09, 07, 06, 17, 21, 16, 20, 01, 12, 03
  - **Lotomania**: <!--lotomania-->2.578 => 14, 13, 98, 07, 41, 78, 34, 88, 10, 73, 59, 90, 79, 66, 55, 08, 56, 21, 45, 62
  - **+Milionária**: <!--maismilionaria-->116 => 35, 41, 14, 50, 04, 30, 05, 02
- - **Mega Sena**: <!--megasena-->2.681 => 47, 20, 30, 42, 53, 10
- - **Quina**: <!--quina-->6.353 => 35, 61, 43, 04, 74
+ - **Mega Sena**: <!--megasena-->2.682 => 29, 04, 17, 58, 30, 52
+ - **Quina**: <!--quina-->6.354 => 11, 18, 40, 33, 66
  - **Super Sete**: <!--supersete-->501 => 0, 7, 6, 6, 5, 8, 9
- - **Timemania**: <!--timemania-->2.047 => 35, 48, 22, 50, 19, 66, 08, ATLETICO/MG
+ - **Timemania**: <!--timemania-->2.048 => 35, 20, 50, 40, 66, 55, 25, VOLTAREDONDA/RJ
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

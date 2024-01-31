@@ -8,7 +8,7 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->869 => 22, 20, 14, 11, 27, 25, 08, Fevereiro
  - **Dupla Sena**: <!--duplasena-->2.623 => 49, 45, 48, 21, 42, 29, 01, 03, 27, 30, 47, 32
- - **Federal**: <!--federal-->5.836 => 045561, 089220, 017273, 007749, 071166
+ - **Federal**: <!--federal-->5.837 => 076997, 097026, 092206, 013068, 063713
  - **Lotofácil**: <!--lotofacil-->3.017 => 15, 19, 05, 11, 02, 09, 07, 06, 17, 21, 16, 20, 01, 12, 03
  - **Lotomania**: <!--lotomania-->2.578 => 14, 13, 98, 07, 41, 78, 34, 88, 10, 73, 59, 90, 79, 66, 55, 08, 56, 21, 45, 62
  - **+Milionária**: <!--maismilionaria-->116 => 35, 41, 14, 50, 04, 30, 05, 02

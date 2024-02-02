@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->869 => 22, 20, 14, 11, 27, 25, 08, Fevereiro
+ - **Dia de Sorte**: <!--diadesorte-->870 => 01, 25, 10, 29, 17, 24, 04, Dezembro
  - **Dupla Sena**: <!--duplasena-->2.624 => 21, 10, 32, 13, 14, 43, 48, 41, 17, 13, 46, 34
  - **Federal**: <!--federal-->5.837 => 076997, 097026, 092206, 013068, 063713
- - **Lotofácil**: <!--lotofacil-->3.018 => 24, 21, 05, 17, 15, 23, 20, 10, 16, 01, 09, 25, 02, 03, 13
+ - **Lotofácil**: <!--lotofacil-->3.019 => 17, 02, 20, 09, 13, 18, 01, 11, 12, 04, 06, 16, 10, 21, 03
  - **Lotomania**: <!--lotomania-->2.579 => 61, 45, 39, 67, 79, 11, 94, 52, 49, 85, 46, 60, 90, 41, 05, 13, 54, 89, 87, 70
  - **+Milionária**: <!--maismilionaria-->117 => 38, 05, 25, 11, 27, 04, 02, 01
- - **Mega Sena**: <!--megasena-->2.682 => 29, 04, 17, 58, 30, 52
- - **Quina**: <!--quina-->6.355 => 10, 03, 01, 22, 69
+ - **Mega Sena**: <!--megasena-->2.683 => 03, 57, 27, 01, 47, 23
+ - **Quina**: <!--quina-->6.356 => 50, 77, 18, 09, 75
  - **Super Sete**: <!--supersete-->502 => 1, 3, 8, 2, 0, 0, 8
- - **Timemania**: <!--timemania-->2.048 => 35, 20, 50, 40, 66, 55, 25, VOLTAREDONDA/RJ
+ - **Timemania**: <!--timemania-->2.049 => 55, 68, 47, 10, 80, 07, 05, FIGUEIRENSE/SC
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

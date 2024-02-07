@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->871 => 07, 11, 04, 25, 02, 29, 03, Janeiro
+ - **Dia de Sorte**: <!--diadesorte-->872 => 17, 08, 06, 30, 26, 24, 18, Agosto
  - **Dupla Sena**: <!--duplasena-->2.626 => 05, 28, 01, 43, 41, 09, 14, 25, 44, 41, 31, 10
  - **Federal**: <!--federal-->5.838 => 050122, 067723, 065087, 016875, 062072
- - **Lotofácil**: <!--lotofacil-->3.022 => 20, 10, 17, 21, 12, 16, 14, 13, 23, 09, 15, 08, 06, 07, 25
+ - **Lotofácil**: <!--lotofacil-->3.023 => 07, 12, 03, 06, 21, 10, 20, 16, 22, 18, 25, 15, 13, 23, 02
  - **Lotomania**: <!--lotomania-->2.581 => 37, 66, 33, 16, 40, 20, 21, 74, 56, 26, 75, 84, 79, 57, 53, 92, 95, 76, 35, 01
  - **+Milionária**: <!--maismilionaria-->118 => 14, 41, 38, 25, 36, 37, 04, 06
- - **Mega Sena**: <!--megasena-->2.684 => 26, 45, 53, 48, 46, 17
- - **Quina**: <!--quina-->6.359 => 43, 39, 59, 80, 26
+ - **Mega Sena**: <!--megasena-->2.685 => 51, 46, 09, 31, 47, 16
+ - **Quina**: <!--quina-->6.360 => 43, 54, 40, 77, 16
  - **Super Sete**: <!--supersete-->504 => 8, 3, 7, 1, 4, 9, 5
- - **Timemania**: <!--timemania-->2.050 => 66, 44, 62, 43, 07, 74, 49, SAOBENTO/SP
+ - **Timemania**: <!--timemania-->2.051 => 42, 34, 78, 16, 03, 15, 53, BOTAFOGO/PB
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

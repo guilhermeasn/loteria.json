@@ -7,14 +7,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->872 => 17, 08, 06, 30, 26, 24, 18, Agosto
- - **Dupla Sena**: <!--duplasena-->2.626 => 05, 28, 01, 43, 41, 09, 14, 25, 44, 41, 31, 10
+ - **Dupla Sena**: <!--duplasena-->2.627 => 33, 42, 40, 13, 36, 39, 45, 14, 36, 33, 13, 27
  - **Federal**: <!--federal-->5.839 => 011632, 057822, 023137, 012365, 084518
- - **Lotofácil**: <!--lotofacil-->3.023 => 07, 12, 03, 06, 21, 10, 20, 16, 22, 18, 25, 15, 13, 23, 02
- - **Lotomania**: <!--lotomania-->2.581 => 37, 66, 33, 16, 40, 20, 21, 74, 56, 26, 75, 84, 79, 57, 53, 92, 95, 76, 35, 01
- - **+Milionária**: <!--maismilionaria-->118 => 14, 41, 38, 25, 36, 37, 04, 06
+ - **Lotofácil**: <!--lotofacil-->3.024 => 23, 12, 25, 04, 15, 17, 19, 07, 09, 06, 01, 24, 11, 02, 22
+ - **Lotomania**: <!--lotomania-->2.582 => 13, 00, 58, 65, 68, 97, 53, 09, 71, 41, 50, 01, 31, 92, 08, 94, 78, 24, 02, 93
+ - **+Milionária**: <!--maismilionaria-->119 => 45, 09, 41, 22, 40, 39, 04, 06
  - **Mega Sena**: <!--megasena-->2.685 => 51, 46, 09, 31, 47, 16
- - **Quina**: <!--quina-->6.360 => 43, 54, 40, 77, 16
- - **Super Sete**: <!--supersete-->504 => 8, 3, 7, 1, 4, 9, 5
+ - **Quina**: <!--quina-->6.361 => 16, 18, 30, 71, 36
+ - **Super Sete**: <!--supersete-->505 => 9, 7, 6, 2, 0, 5, 3
  - **Timemania**: <!--timemania-->2.051 => 42, 34, 78, 16, 03, 15, 53, BOTAFOGO/PB
  <!-- - **Loteca**: 0 -->
 

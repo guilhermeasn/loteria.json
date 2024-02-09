@@ -9,13 +9,13 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->872 => 17, 08, 06, 30, 26, 24, 18, Agosto
  - **Dupla Sena**: <!--duplasena-->2.627 => 33, 42, 40, 13, 36, 39, 45, 14, 36, 33, 13, 27
  - **Federal**: <!--federal-->5.839 => 011632, 057822, 023137, 012365, 084518
- - **Lotofácil**: <!--lotofacil-->3.024 => 23, 12, 25, 04, 15, 17, 19, 07, 09, 06, 01, 24, 11, 02, 22
+ - **Lotofácil**: <!--lotofacil-->3.025 => 06, 16, 04, 24, 14, 11, 13, 23, 12, 22, 07, 08, 03, 21, 19
  - **Lotomania**: <!--lotomania-->2.582 => 13, 00, 58, 65, 68, 97, 53, 09, 71, 41, 50, 01, 31, 92, 08, 94, 78, 24, 02, 93
  - **+Milionária**: <!--maismilionaria-->119 => 45, 09, 41, 22, 40, 39, 04, 06
- - **Mega Sena**: <!--megasena-->2.685 => 51, 46, 09, 31, 47, 16
- - **Quina**: <!--quina-->6.361 => 16, 18, 30, 71, 36
+ - **Mega Sena**: <!--megasena-->2.686 => 06, 41, 12, 43, 20, 59
+ - **Quina**: <!--quina-->6.362 => 35, 65, 08, 53, 70
  - **Super Sete**: <!--supersete-->505 => 9, 7, 6, 2, 0, 5, 3
- - **Timemania**: <!--timemania-->2.051 => 42, 34, 78, 16, 03, 15, 53, BOTAFOGO/PB
+ - **Timemania**: <!--timemania-->2.052 => 42, 60, 68, 19, 21, 63, 40, BRASILIENSE/DF
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

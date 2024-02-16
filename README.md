@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->874 => 27, 23, 16, 11, 28, 18, 09, Dezembro
+ - **Dia de Sorte**: <!--diadesorte-->875 => 19, 05, 13, 18, 21, 24, 04, Abril
  - **Dupla Sena**: <!--duplasena-->2.629 => 50, 38, 41, 44, 28, 36, 28, 34, 39, 37, 41, 42
  - **Federal**: <!--federal-->5.840 => 090490, 075112, 037127, 091487, 003234
- - **Lotofácil**: <!--lotofacil-->3.028 => 02, 24, 18, 25, 10, 04, 17, 11, 06, 03, 15, 22, 21, 19, 01
+ - **Lotofácil**: <!--lotofacil-->3.029 => 18, 07, 25, 17, 09, 10, 12, 20, 15, 05, 16, 22, 08, 06, 13
  - **Lotomania**: <!--lotomania-->2.584 => 65, 29, 40, 77, 25, 02, 85, 76, 64, 36, 73, 66, 61, 00, 80, 81, 82, 50, 74, 63
  - **+Milionária**: <!--maismilionaria-->121 => 49, 02, 30, 01, 26, 19, 01, 03
- - **Mega Sena**: <!--megasena-->2.687 => 02, 30, 34, 04, 24, 50
- - **Quina**: <!--quina-->6.365 => 04, 40, 54, 19, 73
+ - **Mega Sena**: <!--megasena-->2.688 => 12, 33, 41, 46, 17, 54
+ - **Quina**: <!--quina-->6.366 => 79, 67, 56, 72, 32
  - **Super Sete**: <!--supersete-->507 => 9, 0, 8, 0, 0, 4, 3
- - **Timemania**: <!--timemania-->2.053 => 29, 19, 34, 20, 62, 47, 38, CORINTHIANS/SP
+ - **Timemania**: <!--timemania-->2.054 => 79, 64, 03, 24, 62, 41, 29, FLUMINENSE/RJ
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

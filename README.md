@@ -8,7 +8,7 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->875 => 19, 05, 13, 18, 21, 24, 04, Abril
  - **Dupla Sena**: <!--duplasena-->2.630 => 48, 01, 04, 11, 31, 39, 42, 18, 14, 10, 15, 07
- - **Federal**: <!--federal-->5.840 => 090490, 075112, 037127, 091487, 003234
+ - **Federal**: <!--federal-->5.841 => 017178, 006102, 055733, 043185, 092259
  - **Lotofácil**: <!--lotofacil-->3.030 => 13, 10, 17, 03, 08, 14, 05, 24, 25, 01, 18, 06, 22, 15, 04
  - **Lotomania**: <!--lotomania-->2.585 => 71, 49, 92, 30, 41, 17, 00, 70, 88, 51, 94, 40, 63, 80, 22, 46, 77, 87, 89, 93
  - **+Milionária**: <!--maismilionaria-->121 => 49, 02, 30, 01, 26, 19, 01, 03

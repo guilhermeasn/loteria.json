@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->875 => 19, 05, 13, 18, 21, 24, 04, Abril
+ - **Dia de Sorte**: <!--diadesorte-->876 => 06, 25, 24, 12, 19, 04, 29, Abril
  - **Dupla Sena**: <!--duplasena-->2.630 => 48, 01, 04, 11, 31, 39, 42, 18, 14, 10, 15, 07
  - **Federal**: <!--federal-->5.841 => 017178, 006102, 055733, 043185, 092259
- - **Lotofácil**: <!--lotofacil-->3.030 => 13, 10, 17, 03, 08, 14, 05, 24, 25, 01, 18, 06, 22, 15, 04
+ - **Lotofácil**: <!--lotofacil-->3.031 => 03, 24, 20, 06, 12, 09, 11, 25, 08, 13, 07, 10, 02, 14, 23
  - **Lotomania**: <!--lotomania-->2.585 => 71, 49, 92, 30, 41, 17, 00, 70, 88, 51, 94, 40, 63, 80, 22, 46, 77, 87, 89, 93
- - **+Milionária**: <!--maismilionaria-->121 => 49, 02, 30, 01, 26, 19, 01, 03
- - **Mega Sena**: <!--megasena-->2.688 => 12, 33, 41, 46, 17, 54
- - **Quina**: <!--quina-->6.367 => 42, 75, 02, 53, 72
+ - **+Milionária**: <!--maismilionaria-->122 => 15, 18, 31, 32, 50, 04, 02, 05
+ - **Mega Sena**: <!--megasena-->2.689 => 16, 48, 52, 47, 09, 20
+ - **Quina**: <!--quina-->6.368 => 52, 72, 26, 03, 35
  - **Super Sete**: <!--supersete-->508 => 0, 4, 6, 6, 0, 5, 9
- - **Timemania**: <!--timemania-->2.054 => 79, 64, 03, 24, 62, 41, 29, FLUMINENSE/RJ
+ - **Timemania**: <!--timemania-->2.055 => 67, 11, 31, 74, 01, 79, 07, SANTOS/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

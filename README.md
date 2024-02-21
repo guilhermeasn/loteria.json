@@ -8,7 +8,7 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->877 => 21, 09, 10, 13, 11, 19, 04, Dezembro
  - **Dupla Sena**: <!--duplasena-->2.631 => 18, 48, 04, 07, 11, 49, 47, 35, 25, 20, 03, 44
- - **Federal**: <!--federal-->5.841 => 017178, 006102, 055733, 043185, 092259
+ - **Federal**: <!--federal-->5.842 => 019110, 001955, 023519, 011237, 067104
  - **Lotofácil**: <!--lotofacil-->3.033 => 19, 09, 01, 06, 07, 24, 03, 02, 10, 13, 11, 25, 23, 15, 04
  - **Lotomania**: <!--lotomania-->2.586 => 04, 38, 48, 15, 42, 33, 81, 00, 87, 56, 10, 03, 72, 01, 43, 74, 07, 35, 41, 99
  - **+Milionária**: <!--maismilionaria-->122 => 15, 18, 31, 32, 50, 04, 02, 05

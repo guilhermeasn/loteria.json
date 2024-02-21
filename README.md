@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->876 => 06, 25, 24, 12, 19, 04, 29, Abril
+ - **Dia de Sorte**: <!--diadesorte-->877 => 21, 09, 10, 13, 11, 19, 04, Dezembro
  - **Dupla Sena**: <!--duplasena-->2.631 => 18, 48, 04, 07, 11, 49, 47, 35, 25, 20, 03, 44
  - **Federal**: <!--federal-->5.841 => 017178, 006102, 055733, 043185, 092259
- - **Lotofácil**: <!--lotofacil-->3.032 => 17, 19, 14, 10, 08, 18, 02, 24, 04, 23, 15, 01, 07, 11, 06
+ - **Lotofácil**: <!--lotofacil-->3.033 => 19, 09, 01, 06, 07, 24, 03, 02, 10, 13, 11, 25, 23, 15, 04
  - **Lotomania**: <!--lotomania-->2.586 => 04, 38, 48, 15, 42, 33, 81, 00, 87, 56, 10, 03, 72, 01, 43, 74, 07, 35, 41, 99
  - **+Milionária**: <!--maismilionaria-->122 => 15, 18, 31, 32, 50, 04, 02, 05
- - **Mega Sena**: <!--megasena-->2.689 => 16, 48, 52, 47, 09, 20
- - **Quina**: <!--quina-->6.369 => 13, 67, 55, 21, 39
+ - **Mega Sena**: <!--megasena-->2.690 => 43, 45, 09, 28, 55, 33
+ - **Quina**: <!--quina-->6.370 => 51, 12, 06, 07, 23
  - **Super Sete**: <!--supersete-->509 => 9, 4, 4, 9, 5, 6, 3
- - **Timemania**: <!--timemania-->2.055 => 67, 11, 31, 74, 01, 79, 07, SANTOS/SP
+ - **Timemania**: <!--timemania-->2.056 => 22, 49, 46, 15, 19, 53, 25, IMPERATRIZ/MA
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

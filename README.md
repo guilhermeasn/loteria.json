@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->877 => 21, 09, 10, 13, 11, 19, 04, Dezembro
+ - **Dia de Sorte**: <!--diadesorte-->878 => 01, 22, 24, 09, 05, 10, 25, Março
  - **Dupla Sena**: <!--duplasena-->2.632 => 18, 41, 45, 29, 25, 38, 31, 40, 34, 06, 01, 07
  - **Federal**: <!--federal-->5.842 => 019110, 001955, 023519, 011237, 067104
- - **Lotofácil**: <!--lotofacil-->3.034 => 02, 14, 16, 19, 08, 03, 18, 11, 12, 13, 25, 22, 06, 07, 09
+ - **Lotofácil**: <!--lotofacil-->3.035 => 08, 01, 07, 18, 17, 13, 09, 12, 05, 21, 25, 14, 20, 24, 23
  - **Lotomania**: <!--lotomania-->2.587 => 41, 44, 64, 72, 00, 28, 79, 98, 99, 85, 10, 34, 23, 16, 90, 76, 54, 56, 12, 04
  - **+Milionária**: <!--maismilionaria-->123 => 32, 09, 25, 15, 28, 34, 02, 05
- - **Mega Sena**: <!--megasena-->2.690 => 43, 45, 09, 28, 55, 33
- - **Quina**: <!--quina-->6.371 => 45, 39, 06, 44, 36
+ - **Mega Sena**: <!--megasena-->2.691 => 15, 28, 40, 37, 57, 13
+ - **Quina**: <!--quina-->6.372 => 37, 11, 72, 01, 42
  - **Super Sete**: <!--supersete-->510 => 0, 8, 6, 4, 3, 6, 9
- - **Timemania**: <!--timemania-->2.056 => 22, 49, 46, 15, 19, 53, 25, IMPERATRIZ/MA
+ - **Timemania**: <!--timemania-->2.057 => 62, 18, 08, 51, 45, 47, 32, BAHIA/BA
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

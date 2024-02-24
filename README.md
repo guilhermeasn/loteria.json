@@ -7,14 +7,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->878 => 01, 22, 24, 09, 05, 10, 25, Março
- - **Dupla Sena**: <!--duplasena-->2.632 => 18, 41, 45, 29, 25, 38, 31, 40, 34, 06, 01, 07
+ - **Dupla Sena**: <!--duplasena-->2.633 => 41, 11, 29, 01, 30, 49, 13, 40, 12, 42, 23, 14
  - **Federal**: <!--federal-->5.842 => 019110, 001955, 023519, 011237, 067104
- - **Lotofácil**: <!--lotofacil-->3.035 => 08, 01, 07, 18, 17, 13, 09, 12, 05, 21, 25, 14, 20, 24, 23
- - **Lotomania**: <!--lotomania-->2.587 => 41, 44, 64, 72, 00, 28, 79, 98, 99, 85, 10, 34, 23, 16, 90, 76, 54, 56, 12, 04
+ - **Lotofácil**: <!--lotofacil-->3.036 => 11, 20, 22, 18, 25, 09, 17, 13, 04, 08, 01, 21, 07, 05, 14
+ - **Lotomania**: <!--lotomania-->2.588 => 78, 11, 56, 33, 14, 47, 69, 26, 82, 77, 58, 84, 45, 85, 32, 53, 23, 21, 35, 02
  - **+Milionária**: <!--maismilionaria-->123 => 32, 09, 25, 15, 28, 34, 02, 05
  - **Mega Sena**: <!--megasena-->2.691 => 15, 28, 40, 37, 57, 13
- - **Quina**: <!--quina-->6.372 => 37, 11, 72, 01, 42
- - **Super Sete**: <!--supersete-->510 => 0, 8, 6, 4, 3, 6, 9
+ - **Quina**: <!--quina-->6.373 => 06, 77, 62, 02, 13
+ - **Super Sete**: <!--supersete-->511 => 6, 2, 1, 2, 8, 4, 7
  - **Timemania**: <!--timemania-->2.057 => 62, 18, 08, 51, 45, 47, 32, BAHIA/BA
  <!-- - **Loteca**: 0 -->
 

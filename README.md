@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->878 => 01, 22, 24, 09, 05, 10, 25, Março
+ - **Dia de Sorte**: <!--diadesorte-->879 => 03, 05, 07, 26, 15, 24, 04, Abril
  - **Dupla Sena**: <!--duplasena-->2.633 => 41, 11, 29, 01, 30, 49, 13, 40, 12, 42, 23, 14
  - **Federal**: <!--federal-->5.843 => 023309, 056340, 051701, 067539, 035868
- - **Lotofácil**: <!--lotofacil-->3.036 => 11, 20, 22, 18, 25, 09, 17, 13, 04, 08, 01, 21, 07, 05, 14
+ - **Lotofácil**: <!--lotofacil-->3.037 => 03, 22, 20, 09, 08, 07, 12, 02, 11, 01, 16, 04, 15, 23, 10
  - **Lotomania**: <!--lotomania-->2.588 => 78, 11, 56, 33, 14, 47, 69, 26, 82, 77, 58, 84, 45, 85, 32, 53, 23, 21, 35, 02
- - **+Milionária**: <!--maismilionaria-->123 => 32, 09, 25, 15, 28, 34, 02, 05
- - **Mega Sena**: <!--megasena-->2.691 => 15, 28, 40, 37, 57, 13
- - **Quina**: <!--quina-->6.373 => 06, 77, 62, 02, 13
+ - **+Milionária**: <!--maismilionaria-->124 => 47, 13, 17, 44, 01, 24, 01, 02
+ - **Mega Sena**: <!--megasena-->2.692 => 56, 33, 55, 45, 09, 59
+ - **Quina**: <!--quina-->6.374 => 13, 53, 28, 19, 04
  - **Super Sete**: <!--supersete-->511 => 6, 2, 1, 2, 8, 4, 7
- - **Timemania**: <!--timemania-->2.057 => 62, 18, 08, 51, 45, 47, 32, BAHIA/BA
+ - **Timemania**: <!--timemania-->2.058 => 21, 52, 41, 06, 50, 63, 03, BOAVISTA/RJ
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

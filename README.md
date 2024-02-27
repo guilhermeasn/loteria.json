@@ -7,14 +7,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->879 => 03, 05, 07, 26, 15, 24, 04, Abril
- - **Dupla Sena**: <!--duplasena-->2.633 => 41, 11, 29, 01, 30, 49, 13, 40, 12, 42, 23, 14
+ - **Dupla Sena**: <!--duplasena-->2.634 => 27, 40, 41, 12, 39, 34, 33, 27, 49, 38, 17, 06
  - **Federal**: <!--federal-->5.843 => 023309, 056340, 051701, 067539, 035868
- - **Lotofácil**: <!--lotofacil-->3.037 => 03, 22, 20, 09, 08, 07, 12, 02, 11, 01, 16, 04, 15, 23, 10
- - **Lotomania**: <!--lotomania-->2.588 => 78, 11, 56, 33, 14, 47, 69, 26, 82, 77, 58, 84, 45, 85, 32, 53, 23, 21, 35, 02
+ - **Lotofácil**: <!--lotofacil-->3.038 => 02, 17, 12, 21, 11, 16, 04, 18, 25, 23, 22, 05, 03, 24, 20
+ - **Lotomania**: <!--lotomania-->2.589 => 13, 85, 92, 10, 42, 27, 08, 63, 90, 39, 79, 35, 20, 84, 48, 74, 33, 04, 01, 53
  - **+Milionária**: <!--maismilionaria-->124 => 47, 13, 17, 44, 01, 24, 01, 02
  - **Mega Sena**: <!--megasena-->2.692 => 56, 33, 55, 45, 09, 59
- - **Quina**: <!--quina-->6.374 => 13, 53, 28, 19, 04
- - **Super Sete**: <!--supersete-->511 => 6, 2, 1, 2, 8, 4, 7
+ - **Quina**: <!--quina-->6.375 => 04, 60, 44, 55, 34
+ - **Super Sete**: <!--supersete-->512 => 5, 9, 8, 0, 0, 4, 9
  - **Timemania**: <!--timemania-->2.058 => 21, 52, 41, 06, 50, 63, 03, BOAVISTA/RJ
  <!-- - **Loteca**: 0 -->
 

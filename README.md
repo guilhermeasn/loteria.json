@@ -7,8 +7,8 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->881 => 10, 09, 02, 25, 06, 17, 27, Outubro
- - **Dupla Sena**: <!--duplasena-->2.635 => 31, 35, 30, 14, 05, 38, 40, 36, 16, 24, 47, 34
- - **Federal**: <!--federal-->5.844 => 024930, 069140, 023062, 081438, 005187
+ - **Dupla Sena**: <!--duplasena-->2.636 => 38, 10, 25, 31, 15, 36, 38, 11, 20, 16, 44, 10
+ - **Federal**: <!--federal-->5.845 => 096927, 084772, 003472, 066375, 032954
  - **Lotofácil**: <!--lotofacil-->3.042 => 17, 19, 24, 22, 11, 05, 21, 04, 07, 03, 10, 25, 09, 08, 01
  - **Lotomania**: <!--lotomania-->2.591 => 31, 74, 38, 16, 14, 51, 61, 94, 69, 67, 95, 37, 99, 88, 03, 58, 35, 68, 72, 86
  - **+Milionária**: <!--maismilionaria-->125 => 42, 33, 38, 41, 43, 24, 02, 06

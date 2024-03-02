@@ -9,12 +9,12 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
  - **Dia de Sorte**: <!--diadesorte-->881 => 10, 09, 02, 25, 06, 17, 27, Outubro
  - **Dupla Sena**: <!--duplasena-->2.635 => 31, 35, 30, 14, 05, 38, 40, 36, 16, 24, 47, 34
  - **Federal**: <!--federal-->5.844 => 024930, 069140, 023062, 081438, 005187
- - **Lotofácil**: <!--lotofacil-->3.041 => 08, 18, 11, 05, 01, 03, 10, 21, 16, 09, 12, 22, 25, 15, 13
- - **Lotomania**: <!--lotomania-->2.590 => 24, 70, 67, 96, 20, 02, 17, 82, 84, 92, 62, 69, 86, 12, 28, 83, 42, 41, 21, 30
+ - **Lotofácil**: <!--lotofacil-->3.042 => 17, 19, 24, 22, 11, 05, 21, 04, 07, 03, 10, 25, 09, 08, 01
+ - **Lotomania**: <!--lotomania-->2.591 => 31, 74, 38, 16, 14, 51, 61, 94, 69, 67, 95, 37, 99, 88, 03, 58, 35, 68, 72, 86
  - **+Milionária**: <!--maismilionaria-->125 => 42, 33, 38, 41, 43, 24, 02, 06
  - **Mega Sena**: <!--megasena-->2.694 => 41, 22, 07, 20, 58, 29
- - **Quina**: <!--quina-->6.378 => 29, 60, 74, 56, 40
- - **Super Sete**: <!--supersete-->513 => 4, 5, 6, 4, 4, 6, 2
+ - **Quina**: <!--quina-->6.379 => 56, 26, 66, 54, 24
+ - **Super Sete**: <!--supersete-->514 => 9, 4, 9, 6, 3, 0, 1
  - **Timemania**: <!--timemania-->2.060 => 74, 56, 18, 02, 72, 08, 65, SAOJOSE/RS
  <!-- - **Loteca**: 0 -->
 

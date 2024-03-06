@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->882 => 31, 08, 11, 14, 27, 30, 07, Novembro
+ - **Dia de Sorte**: <!--diadesorte-->883 => 24, 30, 09, 15, 06, 18, 20, Novembro
  - **Dupla Sena**: <!--duplasena-->2.637 => 09, 34, 18, 50, 21, 31, 47, 50, 13, 34, 11, 25
- - **Federal**: <!--federal-->5.845 => 096927, 084772, 003472, 066375, 032954
- - **Lotofácil**: <!--lotofacil-->3.044 => 08, 22, 18, 06, 20, 21, 19, 13, 16, 03, 17, 02, 12, 24, 09
+ - **Federal**: <!--federal-->5.846 => 075341, 004496, 042416, 057589, 095653
+ - **Lotofácil**: <!--lotofacil-->3.045 => 09, 12, 17, 16, 18, 20, 25, 05, 21, 02, 15, 08, 10, 03, 23
  - **Lotomania**: <!--lotomania-->2.592 => 91, 41, 79, 39, 69, 65, 32, 49, 15, 57, 67, 28, 09, 94, 64, 04, 13, 06, 05, 88
  - **+Milionária**: <!--maismilionaria-->126 => 31, 28, 47, 04, 07, 29, 01, 03
- - **Mega Sena**: <!--megasena-->2.695 => 40, 33, 34, 17, 15, 32
- - **Quina**: <!--quina-->6.381 => 62, 18, 41, 06, 22
+ - **Mega Sena**: <!--megasena-->2.696 => 13, 39, 55, 04, 59, 18
+ - **Quina**: <!--quina-->6.382 => 20, 69, 78, 52, 45
  - **Super Sete**: <!--supersete-->515 => 5, 1, 4, 3, 2, 3, 2
- - **Timemania**: <!--timemania-->2.061 => 45, 62, 22, 73, 15, 17, 47, GUARANI/SP
+ - **Timemania**: <!--timemania-->2.062 => 20, 49, 26, 37, 56, 27, 63, JACUIPENSE/BA
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

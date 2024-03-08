@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->883 => 24, 30, 09, 15, 06, 18, 20, Novembro
+ - **Dia de Sorte**: <!--diadesorte-->884 => 18, 05, 24, 10, 29, 26, 14, Maio
  - **Dupla Sena**: <!--duplasena-->2.638 => 45, 31, 44, 37, 34, 18, 48, 02, 29, 21, 27, 33
  - **Federal**: <!--federal-->5.846 => 075341, 004496, 042416, 057589, 095653
- - **Lotofácil**: <!--lotofacil-->3.046 => 22, 12, 07, 21, 01, 20, 06, 15, 05, 25, 18, 13, 04, 23, 03
+ - **Lotofácil**: <!--lotofacil-->3.047 => 15, 10, 08, 21, 11, 04, 25, 24, 09, 14, 07, 17, 02, 18, 01
  - **Lotomania**: <!--lotomania-->2.593 => 21, 59, 27, 11, 64, 56, 72, 24, 51, 09, 22, 88, 18, 68, 85, 83, 43, 08, 17, 40
  - **+Milionária**: <!--maismilionaria-->127 => 11, 40, 01, 46, 24, 04, 01, 06
- - **Mega Sena**: <!--megasena-->2.696 => 13, 39, 55, 04, 59, 18
- - **Quina**: <!--quina-->6.383 => 21, 80, 51, 59, 50
+ - **Mega Sena**: <!--megasena-->2.697 => 25, 42, 13, 11, 10, 27
+ - **Quina**: <!--quina-->6.384 => 27, 58, 52, 39, 75
  - **Super Sete**: <!--supersete-->516 => 8, 5, 0, 7, 8, 0, 1
- - **Timemania**: <!--timemania-->2.062 => 20, 49, 26, 37, 56, 27, 63, JACUIPENSE/BA
+ - **Timemania**: <!--timemania-->2.063 => 14, 53, 63, 11, 39, 46, 17, SANTOS/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

@@ -7,14 +7,14 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 Últimos sorteios registrados:
 
  - **Dia de Sorte**: <!--diadesorte-->884 => 18, 05, 24, 10, 29, 26, 14, Maio
- - **Dupla Sena**: <!--duplasena-->2.638 => 45, 31, 44, 37, 34, 18, 48, 02, 29, 21, 27, 33
+ - **Dupla Sena**: <!--duplasena-->2.639 => 48, 07, 44, 22, 13, 10, 17, 06, 38, 42, 05, 43
  - **Federal**: <!--federal-->5.846 => 075341, 004496, 042416, 057589, 095653
- - **Lotofácil**: <!--lotofacil-->3.047 => 15, 10, 08, 21, 11, 04, 25, 24, 09, 14, 07, 17, 02, 18, 01
- - **Lotomania**: <!--lotomania-->2.593 => 21, 59, 27, 11, 64, 56, 72, 24, 51, 09, 22, 88, 18, 68, 85, 83, 43, 08, 17, 40
+ - **Lotofácil**: <!--lotofacil-->3.048 => 20, 11, 05, 21, 07, 24, 03, 16, 04, 19, 25, 23, 18, 10, 08
+ - **Lotomania**: <!--lotomania-->2.594 => 15, 93, 69, 55, 53, 44, 54, 96, 08, 10, 91, 02, 98, 39, 74, 83, 48, 86, 72, 01
  - **+Milionária**: <!--maismilionaria-->127 => 11, 40, 01, 46, 24, 04, 01, 06
  - **Mega Sena**: <!--megasena-->2.697 => 25, 42, 13, 11, 10, 27
- - **Quina**: <!--quina-->6.384 => 27, 58, 52, 39, 75
- - **Super Sete**: <!--supersete-->516 => 8, 5, 0, 7, 8, 0, 1
+ - **Quina**: <!--quina-->6.385 => 07, 47, 70, 53, 45
+ - **Super Sete**: <!--supersete-->517 => 0, 3, 3, 2, 4, 9, 2
  - **Timemania**: <!--timemania-->2.063 => 14, 53, 63, 11, 39, 46, 17, SANTOS/SP
  <!-- - **Loteca**: 0 -->
 

@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->884 => 18, 05, 24, 10, 29, 26, 14, Maio
- - **Dupla Sena**: <!--duplasena-->2.639 => 48, 07, 44, 22, 13, 10, 17, 06, 38, 42, 05, 43
- - **Federal**: <!--federal-->5.489 => 040576, 082454, 084306, 098834, 092149
- - **Lotofácil**: <!--lotofacil-->3.048 => 20, 11, 05, 21, 07, 24, 03, 16, 04, 19, 25, 23, 18, 10, 08
- - **Lotomania**: <!--lotomania-->2.594 => 15, 93, 69, 55, 53, 44, 54, 96, 08, 10, 91, 02, 98, 39, 74, 83, 48, 86, 72, 01
- - **+Milionária**: <!--maismilionaria-->127 => 11, 40, 01, 46, 24, 04, 01, 06
- - **Mega Sena**: <!--megasena-->2.697 => 25, 42, 13, 11, 10, 27
- - **Quina**: <!--quina-->6.385 => 07, 47, 70, 53, 45
- - **Super Sete**: <!--supersete-->517 => 0, 3, 3, 2, 4, 9, 2
- - **Timemania**: <!--timemania-->2.063 => 14, 53, 63, 11, 39, 46, 17, SANTOS/SP
+ - **Dia de Sorte**: <!--diadesorte-->888 => 21, 14, 17, 18, 27, 22, 08, Julho
+ - **Dupla Sena**: <!--duplasena-->2.642 => 20, 40, 43, 17, 07, 38, 23, 41, 07, 16, 03, 11
+ - **Federal**: <!--federal-->5.849 => 007542, 085529, 088032, 017419, 046916
+ - **Lotofácil**: <!--lotofacil-->3.055 => 14, 23, 12, 03, 08, 09, 22, 11, 10, 21, 07, 02, 17, 15, 20
+ - **Lotomania**: <!--lotomania-->2.597 => 86, 38, 96, 33, 62, 77, 91, 50, 25, 74, 42, 28, 85, 59, 10, 95, 24, 78, 37, 54
+ - **+Milionária**: <!--maismilionaria-->130 => 11, 47, 05, 26, 06, 31, 02, 01
+ - **Mega Sena**: <!--megasena-->2.701 => 06, 18, 47, 31, 32, 15
+ - **Quina**: <!--quina-->6.392 => 41, 25, 80, 10, 74
+ - **Super Sete**: <!--supersete-->520 => 1, 9, 8, 1, 4, 5, 2
+ - **Timemania**: <!--timemania-->2.067 => 35, 15, 23, 60, 80, 16, 18, FLAMENGO/RJ
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

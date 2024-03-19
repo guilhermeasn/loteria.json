@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->885 => 12, 27, 03, 16, 17, 20, 30, Junho
+ - **Dia de Sorte**: <!--diadesorte-->888 => 21, 14, 17, 18, 27, 22, 08, Julho
  - **Dupla Sena**: <!--duplasena-->2.642 => 20, 40, 43, 17, 07, 38, 23, 41, 07, 16, 03, 11
- - **Federal**: <!--federal-->5.489 => 040576, 082454, 084306, 098834, 092149
- - **Lotofácil**: <!--lotofacil-->3.055 => 14, 23, 12, 03, 08, 09, 22, 11, 10, 21, 07, 02, 17, 15, 20
- - **Lotomania**: <!--lotomania-->2.597 => 86, 38, 96, 33, 62, 77, 91, 50, 25, 74, 42, 28, 85, 59, 10, 95, 24, 78, 37, 54
+ - **Federal**: <!--federal-->5.849 => 007542, 085529, 088032, 017419, 046916
+ - **Lotofácil**: <!--lotofacil-->3.056 => 19, 22, 17, 15, 21, 09, 04, 23, 08, 02, 01, 03, 25, 16, 05
+ - **Lotomania**: <!--lotomania-->2.598 => 66, 34, 68, 14, 17, 22, 60, 24, 41, 63, 70, 77, 45, 44, 82, 09, 92, 38, 21, 31
  - **+Milionária**: <!--maismilionaria-->130 => 11, 47, 05, 26, 06, 31, 02, 01
  - **Mega Sena**: <!--megasena-->2.701 => 06, 18, 47, 31, 32, 15
- - **Quina**: <!--quina-->6.392 => 41, 25, 80, 10, 74
- - **Super Sete**: <!--supersete-->520 => 1, 9, 8, 1, 4, 5, 2
- - **Timemania**: <!--timemania-->2.064 => 79, 49, 36, 19, 15, 37, 54, BOAESPORTE/MG
+ - **Quina**: <!--quina-->6.393 => 19, 09, 20, 40, 74
+ - **Super Sete**: <!--supersete-->521 => 5, 6, 4, 7, 7, 5, 3
+ - **Timemania**: <!--timemania-->2.067 => 35, 15, 23, 60, 80, 16, 18, FLAMENGO/RJ
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

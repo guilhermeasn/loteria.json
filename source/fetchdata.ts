@@ -53,7 +53,7 @@ export default async function updateRaffle(lottery : Lottery, count : number = 0
 
 }
 
-process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
+// process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
 
 async function getResult(lottery : Lottery, number ?: number) : Promise<Result> {
 

@@ -8,7 +8,7 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
  - **Dia de Sorte**: <!--diadesorte-->888 => 21, 14, 17, 18, 27, 22, 08, Julho
  - **Dupla Sena**: <!--duplasena-->2.642 => 20, 40, 43, 17, 07, 38, 23, 41, 07, 16, 03, 11
- - **Federal**: <!--federal-->5.849 => 007542, 085529, 088032, 017419, 046916
+ - **Federal**: <!--federal-->5.489 => 040576, 082454, 084306, 098834, 092149
  - **Lotofácil**: <!--lotofacil-->3.056 => 19, 22, 17, 15, 21, 09, 04, 23, 08, 02, 01, 03, 25, 16, 05
  - **Lotomania**: <!--lotomania-->2.598 => 66, 34, 68, 14, 17, 22, 60, 24, 41, 63, 70, 77, 45, 44, 82, 09, 92, 38, 21, 31
  - **+Milionária**: <!--maismilionaria-->130 => 11, 47, 05, 26, 06, 31, 02, 01

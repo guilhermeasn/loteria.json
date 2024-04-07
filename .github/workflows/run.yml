@@ -4,8 +4,7 @@ on:
   push:
     branches: [ master ]
   schedule:
-    - cron: '30 23 * * *'
-    - cron: '0 0,1 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   run-script:

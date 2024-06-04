@@ -1,5 +1,8 @@
 import axios from "axios";
+import { Agent } from "https";
 import { API } from "./fetchdata";
+
+process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
 
 async function test(...urls : string[]) {
     
@@ -8,7 +11,9 @@ async function test(...urls : string[]) {
         console.log('url', url);
 
         const request = await axios.get(url, {
+            httpAgent: new Agent({ keepAlive: true }),
             headers: {
+                Host: url.replace(/^(https?:\/\/)?([\w\.]+).*/, '$2'),
                 'Access-Control-Allow-Origin' : '*',
                 'Access-Control-Allow-Methods':'GET,PUT,POST,DELETE,PATCH,OPTIONS'
             }

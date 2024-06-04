@@ -7,7 +7,11 @@ async function test(...urls : string[]) {
      
         console.log('url', url);
 
-        const request = await axios.get(url);
+        const request = await axios.get(url, {
+            headers: {
+                'access-control-allow-origin': '*'
+            }
+        });
 
         console.log('status', request.status);
         console.dir(request.headers);

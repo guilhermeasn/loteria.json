@@ -1,4 +1,3 @@
-import axios from "axios";
 import { API } from "./fetchdata";
 
 async function test(...urls : string[]) {
@@ -7,10 +6,10 @@ async function test(...urls : string[]) {
      
         console.log('url', url);
 
-        const request = await axios.get(url);
+        const request = await fetch(url);
 
         console.log('status', request.status);
-        console.dir(request.data);
+        console.dir(await request.json());
 
     }
 

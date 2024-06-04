@@ -22,11 +22,15 @@ jobs:
           node-version: 18.18.2
           cache: 'yarn'
 
-      - name: Run
+      - name: Install
         timeout-minutes: 45
         run: |
           yarn
-          yarn start
+          yarn test
+
+      - name: Run
+        timeout-minutes: 45
+        run: yarn start
 
       - name: Push
         run: |

@@ -7,7 +7,7 @@
     "build": "tsc --project tsconfig.build.json",
     "start:build": "node .",
     "start": "ts-node source",
-    "price": "ts-node source/price.ts"
+    "test": "ts-node source/test.ts"
   },
   "repository": {
     "type": "git",

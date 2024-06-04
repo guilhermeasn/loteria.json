@@ -55,6 +55,18 @@ export default async function updateRaffle(lottery : Lottery, count : number = 0
 
 // process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = '0';
 
+export async function test() {
+    
+    const request = await axios.get(`${ API }/megasena/1000`, {
+        httpAgent: new Agent({ keepAlive: true }),
+        headers: { Host: API.replace(/^(https?:\/\/)?([\w\.]+).*/, '$2') }
+    });
+
+    console.log('status', request.status);
+    console.dir(request.data);
+
+}
+
 async function getResult(lottery : Lottery, number ?: number) : Promise<Result> {
 
     try {

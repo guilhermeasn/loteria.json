@@ -7,13 +7,7 @@ async function test(...urls : string[]) {
      
         console.log('url', url);
 
-        const request = await axios.get(url, {
-            proxy: {
-                protocol: 'https',
-                host: '20.206.106.192',
-                port: 80
-            }
-        });
+        const request = await axios.get(url);
 
         console.log('status', request.status);
         console.dir(request.data);

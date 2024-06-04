@@ -1,3 +1,5 @@
+import axios from "axios";
+import { Agent } from "https";
 import { API } from "./fetchdata";
 
 async function test(...urls : string[]) {
@@ -6,10 +8,12 @@ async function test(...urls : string[]) {
      
         console.log('url', url);
 
-        const request = await fetch(url);
+        const request = await axios.get(url, {
+            httpsAgent: new Agent({ keepAlive: true }),
+        });
 
         console.log('status', request.status);
-        console.dir(await request.json());
+        console.dir(request.data);
 
     }
 

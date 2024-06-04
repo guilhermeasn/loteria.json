@@ -9,12 +9,12 @@ async function test(...urls : string[]) {
 
         const request = await axios.get(url, {
             headers: {
-                'access-control-allow-origin': '*'
+                'Access-Control-Allow-Origin' : '*',
+                'Access-Control-Allow-Methods':'GET,PUT,POST,DELETE,PATCH,OPTIONS'
             }
         });
 
         console.log('status', request.status);
-        console.dir(request.headers);
         console.dir(request.data);
 
     }

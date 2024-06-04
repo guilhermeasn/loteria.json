@@ -14,7 +14,7 @@ import {
     writeRaffle
 } from './filewriter';
 
-const API = 'https://servicebus2.caixa.gov.br/portaldeloterias/api';
+export const API = 'https://servicebus2.caixa.gov.br/portaldeloterias/api';
 
 export default async function updateRaffle(lottery : Lottery, count : number = 0, data ?: Raffle) : Promise<boolean> {
 

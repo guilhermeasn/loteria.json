@@ -1,16 +1,22 @@
 import axios from "axios";
+import { API } from "./fetchdata";
 
-async function test() {
-
-    const url = 'https://jsonplaceholder.typicode.com/posts/7';
+async function test(...urls : string[]) {
     
-    console.log('url', url);
+    for(let url of urls) {
+     
+        console.log('url', url);
 
-    const request = await axios.get(url);
+        const request = await axios.get(url);
 
-    console.log('status', request.status);
-    console.dir(request.data);
+        console.log('status', request.status);
+        console.dir(request.data);
+
+    }
 
 }
 
-test().finally(() => console.log('test end'));
+test(
+    'https://jsonplaceholder.typicode.com/posts/7',
+    API + '/megasena'
+).finally(() => console.log('test end'));

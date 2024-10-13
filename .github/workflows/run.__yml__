@@ -1,0 +1,43 @@
+# name: Run Script
+
+# on:
+#   push:
+#     branches: [ master ]
+#   schedule:
+#     - cron: '0 0 * * *'
+
+# jobs:
+#   run-script:
+  
+#     runs-on: ubuntu-latest
+
+#     steps:
+
+#       - name: Checkout
+#         uses: actions/checkout@v3
+
+#       - name: NodeJS
+#         uses: actions/setup-node@v3
+#         with:
+#           node-version: 18.18.2
+#           cache: 'yarn'
+
+#       - name: Install
+#         timeout-minutes: 45
+#         run: |
+#           yarn
+#           yarn test
+
+#       - name: Run
+#         timeout-minutes: 45
+#         run: yarn start
+
+#       - name: Push
+#         run: |
+#           if [[ ! -z $(git status -s) ]]; then
+#             git config --global user.email "guilhermeasn@yahoo.com.br"
+#             git config --global user.name "Guilherme Neves"
+#             git add .
+#             git commit -am 'Continuous Integration'
+#             git push
+#           fi

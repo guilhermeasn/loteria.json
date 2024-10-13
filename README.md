@@ -6,16 +6,16 @@ Todos os resultados atualizados e analisados das loterias da Caixa Econômica Fe
 
 Últimos sorteios registrados:
 
- - **Dia de Sorte**: <!--diadesorte-->920 => 20, 27, 13, 11, 23, 21, 24, Maio
- - **Dupla Sena**: <!--duplasena-->2.669 => 42, 34, 26, 25, 41, 05, 03, 05, 06, 28, 25, 18
- - **Federal**: <!--federal-->5.871 => 077856, 046101, 029828, 087831, 034866
- - **Lotofácil**: <!--lotofacil-->3.119 => 09, 21, 22, 24, 16, 12, 10, 25, 19, 02, 08, 14, 23, 07, 04
- - **Lotomania**: <!--lotomania-->2.629 => 42, 57, 12, 38, 04, 24, 54, 10, 89, 62, 37, 31, 60, 15, 86, 92, 30, 79, 08, 95
- - **+Milionária**: <!--maismilionaria-->151 => 12, 21, 22, 37, 36, 01, 05, 01
- - **Mega Sena**: <!--megasena-->2.731 => 49, 12, 58, 32, 04, 45
- - **Quina**: <!--quina-->6.456 => 35, 63, 76, 59, 18
- - **Super Sete**: <!--supersete-->552 => 3, 4, 1, 3, 6, 8, 0
- - **Timemania**: <!--timemania-->2.099 => 19, 08, 16, 38, 79, 80, 70, PORTUGUESA/RJ
+ - **Dia de Sorte**: <!--diadesorte-->975 => 31, 27, 25, 01, 18, 08, 24, Agosto
+ - **Dupla Sena**: <!--duplasena-->2.726 => 31, 40, 20, 11, 22, 38, 18, 28, 17, 20, 33, 43
+ - **Federal**: <!--federal-->5.909 => 059623, 027711, 089861, 031066, 021935
+ - **Lotofácil**: <!--lotofacil-->3.218 => 08, 04, 23, 06, 24, 21, 13, 02, 20, 03, 17, 25, 15, 16, 05
+ - **Lotomania**: <!--lotomania-->2.685 => 56, 24, 26, 22, 21, 01, 38, 71, 50, 62, 87, 88, 59, 17, 12, 13, 84, 47, 52, 18
+ - **+Milionária**: <!--maismilionaria-->189 => 29, 46, 41, 28, 31, 48, 05, 04
+ - **Mega Sena**: <!--megasena-->2.785 => 50, 48, 57, 20, 27, 59
+ - **Quina**: <!--quina-->6.556 => 68, 11, 15, 51, 65
+ - **Super Sete**: <!--supersete-->608 => 5, 6, 8, 6, 2, 4, 8
+ - **Timemania**: <!--timemania-->2.154 => 69, 13, 01, 03, 63, 24, 65, MIRASSOL/SP
  <!-- - **Loteca**: 0 -->
 
 ## Sorteios

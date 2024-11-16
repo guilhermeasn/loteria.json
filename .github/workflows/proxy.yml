@@ -58,23 +58,16 @@ jobs:
         if: steps.cache-devproxy.outputs.cache-hit != 'true'
         run: bash -c "$(curl -sL https://aka.ms/devproxy/setup.sh)" -- ${{ env.DEVPROXY_VERSION }}
 
-      - name: Run Dev Proxy
-        run: /bin/bash run.sh
+      - name: Run
+        timeout-minutes: 45
+        run: yarn start
 
-      - name: Upload Dev Proxy logs
-        uses: actions/upload-artifact@v4
-        with:
-          name: ${{ env.LOG_FILE }}
-          path: ${{ env.LOG_FILE }}
-
-      # only when using a reporting plugin with the Markdown reporter
-      - name: Upload Dev Proxy reports
-        uses: actions/upload-artifact@v4
-        with:
-          name: Reports
-          path: ./*Reporter*
-      
-      # only when using a reporting plugin with the Markdown reporter
-      - name: Write summary
+      - name: Push
         run: |
-          cat SomePlugin_MarkdownReporter.md >> $GITHUB_STEP_SUMMARY
+          if [[ ! -z $(git status -s) ]]; then
+            git config --global user.email "guilhermeasn@yahoo.com.br"
+            git config --global user.name "Guilherme Neves"
+            git add .
+            git commit -am 'Continuous Integration'
+            git push
+          fi

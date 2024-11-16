@@ -1,14 +1,15 @@
 name: proxy
 
 on:
-  push:
-    branches:
-      - master
-  workflow_dispatch:
+    push:
+      branches: [ master ]
+    schedule:
+      - cron: '0 0 * * *'
+    workflow_dispatch:
 
 jobs:
   test:
-    name: Test app using Dev Proxy
+    name: run with proxy
     timeout-minutes: 60
     runs-on: ubuntu-latest
     env:

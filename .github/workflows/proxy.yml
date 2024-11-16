@@ -1,10 +1,9 @@
-name: macOS Dev Proxy
+name: proxy
 
 on:
   push:
     branches:
-      - main
-      - dev
+      - master
   workflow_dispatch:
 
 jobs:

@@ -1,4 +1,4 @@
-name: proxy
+name: Run Script With Proxy
 
 on:
     push:
@@ -8,8 +8,8 @@ on:
     workflow_dispatch:
 
 jobs:
-  test:
-    name: run with proxy
+  run:
+    name: Run Script With Proxy
     timeout-minutes: 60
     runs-on: ubuntu-latest
     env:

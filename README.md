@@ -1,6 +1,6 @@
 # loteria.json
 
-[![Run Script](https://github.com/guilhermeasn/loteria.json/actions/workflows/run.yml/badge.svg)](https://github.com/guilhermeasn/loteria.json/actions/workflows/run.yml)
+[![Run Script With Proxy](https://github.com/guilhermeasn/loteria.json/actions/workflows/proxy.yml/badge.svg)](https://github.com/guilhermeasn/loteria.json/actions/workflows/proxy.yml)
 
 Todos os resultados atualizados e analisados das loterias da Caixa Econômica Federal em arquivos JSON. A atualização dos arquivos são feitas automaticamente, todos os dias, com Cron Job via GitHub Actions.
 

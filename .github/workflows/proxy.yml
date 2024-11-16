@@ -1,0 +1,47 @@
+name: macOS Dev Proxy
+
+on:
+  push:
+    branches:
+      - main
+      - dev
+  workflow_dispatch:
+
+jobs:
+  test:
+    timeout-minutes: 60
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+
+      - name: Install Dev Proxy
+        run: bash -c "$(curl -sL https://aka.ms/devproxy/setup.sh)"
+
+      - name: Run Dev Proxy
+        run: ./devproxy/devproxy &
+
+      - name: Install the Dev Proxy's certificate
+        timeout-minutes: 1
+        run: |
+          echo "Finding certificate..."
+          security find-certificate -c "Dev Proxy CA" -a -p > dev-proxy-ca.pem
+
+          echo "Trusting certificate..."
+          sudo security add-trusted-cert -d -r trustRoot -k /Library/Keychains/System.keychain dev-proxy-ca.pem
+          echo "Certificate trusted."
+
+          # Set the system proxy settings (optional)
+          echo "http_proxy=http://127.0.0.1:8000" >> $GITHUB_ENV
+          echo "https_proxy=http://127.0.0.1:8000" >> $GITHUB_ENV
+
+          # Required to test CURL with the Dev Proxy (optional)
+          echo "SSL_CERT_FILE=$GITHUB_WORKSPACE/dev-proxy-ca.pem" >> $GITHUB_ENV          
+
+      # Include the additional steps you want to run after the Dev Proxy started
+      - name: Test Dev Proxy
+        run: |
+          curl -ix http://127.0.0.1:8000 https://jsonplaceholder.typicode.com/posts
+          # When you used the system proxy settings, you don't need to specify the proxy in the curl command
+          curl -i https://jsonplaceholder.typicode.com/posts          

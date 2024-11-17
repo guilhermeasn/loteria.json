@@ -1,15 +1,15 @@
-# name: Run Script
+name: Run Script
 
-# on:
-#   push:
-#     branches: [ master ]
+on:
+  push:
+    branches: [ never ]
 #   schedule:
 #     - cron: '0 0 * * *'
 
-# jobs:
-#   run-script:
+jobs:
+  run-script:
   
-#     runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
 #     steps:
 

@@ -26,9 +26,9 @@ jobs:
       - name: Install dependencies
         run: yarn
 
-    #   #################################
-    #   # Cache + install of Playwright #
-    #   #################################
+      #################################
+      # Cache + install of Playwright #
+      #################################
     #   - name: Store Playwright's Version
     #     run: |
     #       PLAYWRIGHT_VERSION=$(npm ls @playwright/test | grep @playwright | sed 's/.*@//')
@@ -57,8 +57,10 @@ jobs:
     #       key: devproxy-ubuntu-${{ env.DEVPROXY_VERSION }}
 
       - name: Install Dev Proxy
-        # if: steps.cache-devproxy.outputs.cache-hit != 'true'
         run: bash -c "$(curl -sL https://aka.ms/devproxy/setup.sh)" -- ${{ env.DEVPROXY_VERSION }}
+
+      - name: Test
+        run: yarn test
 
       - name: Run
         timeout-minutes: 45

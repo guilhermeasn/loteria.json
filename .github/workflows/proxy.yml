@@ -5,7 +5,7 @@ on:
       branches: [ master ]
     schedule:
       - cron: '0 0 * * *'
-      - cron: '0 3 * * *'
+    #   - cron: '0 3 * * *'
     workflow_dispatch:
 
 jobs:
@@ -26,38 +26,38 @@ jobs:
       - name: Install dependencies
         run: yarn
 
-      #################################
-      # Cache + install of Playwright #
-      #################################
-      - name: Store Playwright's Version
-        run: |
-          PLAYWRIGHT_VERSION=$(npm ls @playwright/test | grep @playwright | sed 's/.*@//')
-          echo "Playwright's Version: $PLAYWRIGHT_VERSION"
-          echo "PLAYWRIGHT_VERSION=$PLAYWRIGHT_VERSION" >> $GITHUB_ENV          
+    #   #################################
+    #   # Cache + install of Playwright #
+    #   #################################
+    #   - name: Store Playwright's Version
+    #     run: |
+    #       PLAYWRIGHT_VERSION=$(npm ls @playwright/test | grep @playwright | sed 's/.*@//')
+    #       echo "Playwright's Version: $PLAYWRIGHT_VERSION"
+    #       echo "PLAYWRIGHT_VERSION=$PLAYWRIGHT_VERSION" >> $GITHUB_ENV          
 
-      - name: Cache Playwright Browsers for Playwright's Version
-        id: cache-playwright
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/ms-playwright
-          key: playwright-ubuntu-${{ env.PLAYWRIGHT_VERSION }}
+    #   - name: Cache Playwright Browsers for Playwright's Version
+    #     id: cache-playwright
+    #     uses: actions/cache@v4
+    #     with:
+    #       path: ~/.cache/ms-playwright
+    #       key: playwright-ubuntu-${{ env.PLAYWRIGHT_VERSION }}
 
-      - name: Install Playwright Browsers
-        if: steps.cache-playwright.outputs.cache-hit != 'true'
-        run: npx playwright install --with-deps
+    #   - name: Install Playwright Browsers
+    #     if: steps.cache-playwright.outputs.cache-hit != 'true'
+    #     run: npx playwright install --with-deps
 
       ################################
       # Cache + install of Dev Proxy #
       ################################
-      - name: Cache Dev Proxy
-        id: cache-devproxy
-        uses: actions/cache@v4
-        with:
-          path: ./devproxy
-          key: devproxy-ubuntu-${{ env.DEVPROXY_VERSION }}
+    #   - name: Cache Dev Proxy
+    #     id: cache-devproxy
+    #     uses: actions/cache@v4
+    #     with:
+    #       path: ./devproxy
+    #       key: devproxy-ubuntu-${{ env.DEVPROXY_VERSION }}
 
       - name: Install Dev Proxy
-        if: steps.cache-devproxy.outputs.cache-hit != 'true'
+        # if: steps.cache-devproxy.outputs.cache-hit != 'true'
         run: bash -c "$(curl -sL https://aka.ms/devproxy/setup.sh)" -- ${{ env.DEVPROXY_VERSION }}
 
       - name: Run
